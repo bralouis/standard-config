@@ -27,31 +27,57 @@
         "config" : {
             "patientInformation": {
                 "additionalPatientInformation": {
-                    "title": "Additional Patient Information",
+                    "title": "Allergy Information",
+                    "translationKey": "ALLERGY_INFO_KEY",
                     "attributes": [
                         "distanceFromCenter",
-                        "isUrban",
-                        "cluster",
-                        "RationCard",
-                        "familyIncome",
-                        "debt",
-                        "cluster",
-                        "email"
+                        "Allergies?",
+                        "knownAllergens"
                     ]
+                },
+                "registerNewPatient1": {
+                    "title": "Contacts Information",
+                    "translationKey": "CONTACT_INFO_KEY",
+                    "attributes": [
+						"education",
+                        "other_education_status",
+                        "occupation",
+                        "other_occupation_specify",
+                        "Religion",
+                        "other_religion_specify",
+                        "Tribe",
+                        "otherTribe(Pleasespecify)",
+                        "preferredLanguage",
+                        "Nationality",
+                        "otherNationality(PleaseSpecify)",
+                        "anyOtherInformation"
+                        
+                    ],
+					"expand": true,
+					"order": 2
+                },
+                "registerNewPatient0": {
+                    "title": "Register A New Patient",
+                    "translationKey": "RELATIONSHIP_INFO_KEY",
+                    "attributes": [
+						"relationship",
+                        "comments",
+                        "relationshipContacts"
+                        
+                    ],
+					"expand": true,
+					"order": 3
                 },
                 "hidden": {
                     "attributes": [
-                        "primaryContact"
+                        "primaryContact",
+                        "registrationLocation"
                     ]
                 },
                 "defaults":  {
                     "class": "General",
                     "landHolding": 2
                 }
-            },
-            "addressHierarchy": {
-                "showAddressFieldsTopDown": false,
-                "strictAutocompleteFromLevel": "stateProvince"
             },
             "relationshipTypeMap": {
                 "Doctor":"provider",
@@ -114,9 +140,9 @@
             },
             "patientSearch": {
                 "customAttributes": {
-                    "label": "Phone Number",
-                    "placeholder": "Phone Number",
-                    "fields": ["phoneNumber","alternatePhoneNumber"]
+                    "label": "National ID/Passport No./NHIA No.",
+                    "placeholder": "Identifier Type",
+                    "fields": ["Identifiervalue"]
                 }
             },
             "addressHierarchy": {
