@@ -37,7 +37,7 @@
                 },
                 "registerNewPatient1": {
                     "title": "Contacts Information",
-                    "translationKey": "CONTACT_INFO_KEY",
+                    "translationKey": "ADDITIONAL_INFO_KEY",
                     "attributes": [
 						"education",
                         "other_education_status",
