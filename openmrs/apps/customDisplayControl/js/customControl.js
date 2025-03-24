@@ -247,4 +247,40 @@ angular.module('bahmni.common.displaycontrol.custom')
         },
         template: '<ng-include src="contentUrl"/>'
     };
+}]).directive('patientAccountDetails', ['$http', '$q', '$window','appService', 'virtualConsultService', function ($http, $q, $window, appService, virtualConsultService) {
+    var link = function ($scope) {
+        $scope.contentUrl = appService.configBaseUrl() + "/customDisplayControl/views/patientAccountDetails.html";
+       
+       var getPatientWalletInfo = function () {
+        var params = {
+             identifier : $scope.patient.identifier
+             
+        };
+        return $http.get('/openmrs/ws/rest/v1/odooconnector/patient-balance', {
+            method: "GET",
+            params: params,
+            withCredentials: true
+        });
+    };
+
+    $q.all([getPatientWalletInfo()]).then(function (response) {
+        $scope.balanceInfo = response[0].data;
+        if ($scope.balanceInfo.balance != null) {
+            $scope.accountBalance = $scope.balanceInfo.balance
+            $scope.accountStatus = 'Active';
+        } else {
+            $scope.accountBalance = '0.00';
+            $scope.accountStatus = 'Dormant';
+        }
+    })
+    };
+    return {
+        restrict: 'E',
+        link: link,
+        scope: {
+            patient: "=",
+            section: "="
+        },
+        template: '<ng-include src="contentUrl"/>'
+    };
 }]);

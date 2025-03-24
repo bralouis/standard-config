@@ -1,0 +1,15 @@
+<section class="app-dashboard-integration"></section>
+    <h2 class="section-title" ng-click="goToListView()"><span style="border-bottom: 1px solid white;">{{ section.title | titleTranslate}}</span></h2>
+
+    <ul style="font-size: 14px;color: #000000">
+        <li style="background-color:#ddd;padding-top:3px;padding-bottom:3px">
+            <span style="padding-left: 10px"> {{::"DASHBOARD_ACCOUNT_STATUS_KEY" | translate}} : </span>
+            <span style="padding-left: 10px;color: #008000"> <b>{{ accountStatus | translate}}</b></span>
+        </li>
+
+        <ul class="form-field">
+            <span> {{::"DASHBOARD_ACCOUNT_BALANCE_KEY" | translate}} : </span>
+            <span style="color: #0a4b70"> <b>{{accountBalance}}</b></span>
+        </ul>
+    </ul>
+</section>
