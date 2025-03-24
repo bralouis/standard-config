@@ -32,14 +32,6 @@
                 },
                 "translationKey": "Observation Forms"
             },
-            "diagnosis":{
-                "translationKey":"DASHBOARD_TITLE_DIAGNOSIS_KEY",
-                "type":"diagnosis",
-                "showCertainty":true,
-                "showOrder":true,
-                "showDetailsButton":true,
-                "displayOrder":1
-            },
             "navigationLinksControl":{  
                 "translationKey":"DASHBOARD_TITLE_NAVIGATION_LINKS_CONTROL_KEY",
                 "type":"navigationLinksControl",
@@ -54,13 +46,456 @@
                     "labEntry"
                 ]
             },
+            "diagnosis":{  
+                "translationKey":"DASHBOARD_TITLE_DIAGNOSIS_KEY",
+                "type":"diagnosis",
+                "showCertainty":true,
+                "showOrder":true,
+                "showDetailsButton":true,
+                "displayOrder":3
+            },
+	          "financialinformation": {
+                "title": "Financial Info",
+                "type": "tuberculosis",
+                "isObservation": true,
+                "dashboardConfig": {
+                    "conceptNames": [
+                        "Fee Information"
+                    ],
+                    "numberOfVisits": 2
+                }
+            },
             "disposition":{  
                 "translationKey":"DASHBOARD_TITLE_DISPOSITION_KEY",
                 "showDetailsButton":true,
                 "type":"disposition",
                 "numberOfVisits":1,
-                "displayOrder":16
+                "displayOrder":7
             },
+            "treatments":{  
+                "translationKey":"DASHBOARD_TITLE_TREATMENTS_KEY",
+                "type":"treatment",
+                "displayOrder":3,
+                "dashboardConfig":{  
+                    "showFlowSheet":true,
+                    "showListView":true,
+                    "showRoute":true,
+                    "showDrugForm":true,
+                    "numberOfVisits":5,
+                    "showOtherActive":true,
+                    "showDetailsButton":true
+                },
+                "expandedViewConfig":{  
+                    "translationKey":"DASHBOARD_TITLE_TREATMENTS_KEY",
+                    "showFlowSheet":true,
+                    "showListView":true,
+                    "showRoute":true,
+                    "showDrugForm":true,
+                    "numberOfVisits":10,
+                    "showOtherActive":true,
+                    "showDetailsButton":true
+                }
+            },
+            "radiology":{  
+                "translationKey":"DASHBOARD_TITLE_RADIOLOGY_KEY",
+                "type":"radiology",
+                "showDetailsButton":true,
+                "displayOrder":4
+            },
+            "programs":{  
+                "translationKey":"DASHBOARD_TITLE_PROGRAMS_KEY",
+                "type":"programs",
+                "displayOrder":10
+            },
+            "radiologyOrders":{  
+                "orderType":"Radiology Order",
+                "type":"ordersControl",
+                "translationKey":"DASHBOARD_TITLE_RADIOLOGY_ORDERS_KEY",
+                "displayOrder":17,
+                "dashboardConfig":{  
+                    "conceptNames":[  
+                        "Summary"
+                    ],
+                    "numberOfVisits":4
+                }
+            },
+            "glucoseProfile":{  
+                "orderType":"Radiolog",
+                "type":"ordersControl",
+                "translationKey":"DASHBOARD_TITLE_GLUCOSE_PROFILE_KEY",
+                "displayOrder":18,
+                "dashboardConfig":{  
+                    "conceptNames":[  
+                        "Glucose Profile"
+                    ],
+                    "numberOfVisits":4
+                }
+            },
+            "malariaTreatment":{  
+                "orderType":"Radiolog",
+                "type":"ordersControl",
+                "translationKey":"DASHBOARD_TITLE_MALARIA_TREATMENT_KEY",
+                "displayOrder":19,
+                "dashboardConfig":{  
+                    "conceptNames":[  
+                        "Malaria"
+                    ],
+                    "numberOfVisits":4
+                }
+            },
+            "hivCounselingAndTesting":{  
+                "orderType":"Radiolog",
+                "type":"ordersControl",
+                "translationKey":"DASHBOARD_TITLE_HIV_TREATMENT_AND_COUNSELING_KEY",
+                "displayOrder":20,
+                "dashboardConfig":{  
+                    "conceptNames":[  
+                        "HIV Testing and Counseling Intake Template"
+                    ],
+                    "numberOfVisits":4
+                }
+            },
+            "nhiaOrders":{  
+                "orderType":"NHIA Approved Procedures",
+                "type":"ordersControl",
+                "translationKey":"DASHBOARD_TITLE_NHIA_PROCEDURES_KEY",
+                "displayOrder":7,
+                "dashboardConfig":{  
+                    "conceptNames":[  
+                        "NHIA Order Notes"
+                    ],
+                    "numberOfVisits":4
+                }
+            },
+            "pacs":{  
+                "orderType":"Radiology Order",
+                "type":"pacsOrders",
+                "translationKey":"DASHBOARD_TITLE_PACS_KEY",
+                "displayOrder":8,
+                "dashboardConfig":{  
+                    "pacsImageUrl":"/oviyam2/viewer.html?patientID={{patientID}}&accessionNumber={{orderNumber}}",
+                    "numberOfVisits":4
+                }
+            },
+            "labOrdersDisplayControl":{  
+                "translationKey":"DASHBOARD_TITLE_LAB_ORDERS_DISPLAY_CONTROL_KEY",
+                "type":"ordersControl",
+                "orderType":"Lab Order",
+                "showDetailsButton":true,
+                "displayOrder":9,
+                "dashboardConfig":{  
+                    "conceptNames":[  
+                        "Systolic",
+                        "Diastolic",
+                        "Posture",
+                        "Temperature"
+                    ]
+                },
+                "expandedViewConfig":{  
+                    "conceptNames":[  
+                        "Systolic",
+                        "Diastolic",
+                        "Posture",
+                        "Temperature"
+                    ],
+                    "showDetailsButton":true
+                }
+            },
+            "bacteriologyResults":{  
+                "translationKey":"DASHBOARD_TITLE_BACTERIOLOGY_RESULTS_KEY",
+                "type":"bacteriologyResultsControl",
+                "scope":"All",
+                "orderType":"",
+                "dashboardConfig":{  
+                    "conceptNames":[  
+                        "BACTERIOLOGY CONCEPT SET"
+                    ]
+                }
+            },
+            "labResults":{  
+                "translationKey":"DASHBOARD_TITLE_LAB_RESULTS_KEY",
+                "type":"labOrders",
+                "displayOrder":7,
+                "dashboardConfig":{  
+                    "title":null,
+                    "numberOfVisits":6,
+                    "showChart":false,
+                    "showTable":true,
+                    "showNormalLabResults": true,
+                    "showCommentsExpanded": true,
+                    "showAccessionNotes": true,
+                    "showDetailsButton":false
+                },
+                "expandedViewConfig":{  
+                    "numberOfVisits":10
+                }
+            },
+            "nutritionalValues":{  
+                "translationKey":"DASHBOARD_TITLE_NUTRITIONAL_VALUES_KEY",
+                "type":"vitals",
+                "isObservation":true,
+                "displayOrder":11,
+                "dashboardConfig":{  
+                    "conceptNames":[  
+                        "HEIGHT",
+                        "Weight",
+                        "BMI Data",
+                        "BMI Status Data"
+                    ],
+                    "showDetailsButton":true,
+                    "numberOfVisits":2
+                },
+                "expandedViewConfig":{  
+                    "conceptNames":[  
+                        "HEIGHT",
+                        "Weight",
+                        "BMI",
+                        "BMI STATUS"
+                    ],
+                    "numberOfVisits":2,
+                    "scope":"latest",
+                    "showDetailsButton":true,
+                    "pivotTable":{  
+
+                    }
+                }
+            },
+            "vitals":{  
+                "translationKey":"DASHBOARD_TITLE_VITALS_KEY",
+                "type":"vitals",
+                "isObservation":true,
+                "displayOrder":12,
+                "dashboardConfig":{  
+                    "showDetailsButton":true,
+                    "conceptNames":[  
+                        "Vitals"
+                    ],
+                    "numberOfVisits":2
+                },
+                "expandedViewConfig":{  
+                    "conceptNames":[  
+                        "Vitals"
+                    ],
+                    "numberOfVisits":2,
+                    "showDetailsButton":true,
+                    "pivotTable":{  
+                        "numberOfVisits":"10",
+                        "groupBy":"encounters",
+                        "obsConcepts":[  
+                            "Weight",
+                            "Vitals"
+                        ],
+                        "drugConcepts":[  
+
+                        ],
+                        "labConcepts":[  
+
+                        ]
+                    }
+                }
+            },
+            "secondVitals":{  
+                "translationKey":"DASHBOARD_TITLE_SECOND_VITALS_KEY",
+                "type":"second vitals",
+                "isObservation":true,
+                "displayOrder":13,
+                "dashboardConfig":{  
+                    "showDetailsButton":true,
+                    "conceptNames":[  
+                        "Psychometric Scores"
+                    ],
+                    "numberOfVisits":2
+                },
+                "expandedViewConfig":{  
+                    "conceptNames":[  
+                        "Psychometric Scores"
+                    ],
+                    "numberOfVisits":2,
+                    "showDetailsButton":true,
+                    "pivotTable":{  
+
+                    }
+                }
+            },
+            "historyAndExaminations":{  
+                "translationKey":"DASHBOARD_TITLE_HISTORY_AND_EXAMINATIONS_KEY",
+                "type":"vitals",
+                "isObservation":true,
+                "displayOrder":14,
+                "dashboardConfig":{  
+                    "showDetailsButton":true,
+                    "conceptNames":[  
+                        "Additional Medical History And Examination",
+                        "VTE Assessment",
+                        "Forwarded Results",
+                        "Adhoc Updates(Medical)",
+                        "Adhoc Calls And Actions(Medical)",
+                        "Follow up Assessment(Medical)"
+                    ],
+                    "numberOfVisits":3
+                },
+                "expandedViewConfig":{  
+                    "conceptNames":[  
+                        "Additional Medical History And Examination",
+                        "VTE Assessment",
+                        "Forwarded Results",
+                        "Adhoc Updates(Medical)",
+                        "Adhoc Calls And Actions(Medical)",
+                        "Follow up Assessment(Medical)"
+                    ],
+                    "numberOfVisits":2,
+                    "showDetailsButton":true,
+                    "pivotTable":{  
+
+                    }
+                }
+            },
+            "gynaecology":{  
+                "translationKey":"DASHBOARD_TITLE_MENTAL_HEALTH_RISK_KEY",
+                "type":"gynaecology",
+                "isObservation":true,
+                "displayOrder":15,
+                "dashboardConfig":{  
+                    "conceptNames":[  
+                        "Mental Health Risk Assessment",
+                        "VTE Assessment"
+                    ],
+                    "showDetailsButton":true,
+                    "numberOfVisits":2
+                },
+                "expandedViewConfig":{  
+                    "conceptNames":[  
+                        "Mental Health Risk Assessment "
+                    ],
+                    "numberOfVisits":2,
+                    "showDetailsButton":true,
+                    "pivotTable":{  
+
+                    }
+                }
+            },
+            "patientContacts": {
+                "type": "custom",
+                "displayOrder": 30,
+                "config": {
+                    "title": "DASHBOARD_PATIENT_ACCOUNT_DETAILS_KEY",
+                    "template": "<patient-account-details section='config' patient='patient'></patient-account-details>"
+                }
+            },
+            "obstetrics":{  
+                "translationKey":"DASHBOARD_TITLE_OBSTETRICS_KEY",
+                "type":"obstetrics",
+                "isObservation":true,
+                "displayOrder":16,
+                "dashboardConfig":{  
+                    "showDetailsButton":true,
+                    "conceptNames":[  
+                        "Initial Psychiatric History",
+                        "Mental State Examination",                      
+                        "Adhoc Updates(Psychiatry)",
+                        "Adhoc Calls And Actions(Psychiatry)",            
+                        "Follow up Assessment(Psychiatry)",
+                        "Mental Health Care Plan",
+                        "Serious incident Report"
+                    ],
+                    "numberOfVisits":2
+                },
+                "expandedViewConfig":{  
+                    "conceptNames":[  
+                        "Initial Psychiatric History",
+                        "Mental State Examination",                      
+                        "Adhoc Updates(Psychiatry)",
+                        "Adhoc Calls And Actions(Psychiatry)",            
+                        "Follow up Assessment(Psychiatry)",
+                        "Mental Health Care Plan",
+                        "Serious incident Report"
+                    ],
+                    "numberOfVisits":2,
+                    "showDetailsButton":true,
+                    "pivotTable":{  
+
+                    }
+                }
+            },
+            "visits":{  
+                "translationKey":"DASHBOARD_TITLE_VISITS_KEY",
+                "type":"visits",
+                "displayOrder":1,
+                "dashboardConfig":{  
+                    "title":null,
+                    "maximumNoOfVisits":8,
+                    "groupByVisits":true
+                }
+            },
+            "diabetes":{  
+                "title":"Diabetes",
+                "templateName":"Diabetes Templates",
+                "type":"diseaseTemplate",
+                "displayOrder":18,
+                "dashboardConfig":{  
+                    "showOnly":[  
+
+                    ]
+                },
+                "expandedViewConfig":{  
+                    "showDetailsButton":true,
+                    "pivotTable":{  
+                        "numberOfVisits":"15",
+                        "groupBy":"encounters",
+                        "obsConcepts":[  
+                            "Weight",
+                            "Height",
+                            "Systolic",
+                            "Diastolic",
+                            "Diabetes, Foot Exam",
+                            "Diabetes, Eye Exam"
+                        ],
+                        "drugConcepts":[  
+                            "Ipratropium Pressurised",
+                            "Garbhpal Rasa"
+                        ],
+                        "labConcepts":[  
+                            "RBS",
+                            "FBS",
+                            "PP2BS",
+                            "Hb1AC",
+                            "Creatinine",
+                            "Albumin",
+                            "Polymorph"
+                        ]
+                    }
+                }
+            },
+            "admissionDetails":{  
+                "translationKey":"DASHBOARD_TITLE_ADMISSION_DETAILS_KEY",
+                "type":"admissionDetails",
+                "displayOrder":19,
+                "showDetailsButton":true
+            },
+            "conditions": {
+                "translationKey":"CONDITION_LIST_DISPLAY_CONTROL_TITLE",
+                "type": "conditionsList",
+                "displayOrder": 20
+            },
+            "formsDisplay": {
+                "type": "forms",
+                "displayOrder": 21,
+                "dashboardConfig": {
+                    "title": null,
+                    "maximumNoOfVisits": 10
+                },
+                "formGroup": [ ],
+                "translationKey": "DASHBOARD_TITLE_FORMS_DISPLAY_CONTROL_KEY"
+            },
+            "patientAppointments": {
+                "type": "custom",
+                "displayOrder": 22,
+                "config": {
+                    "title": "DASHBOARD_TITLE_APPOINTMENTS_KEY",
+                    "template": "<patient-appointments-dashboard section='config' patient='patient'></patient-appointments-dashboard>"
+                }
+            }
+        },
             "treatments":{  
                 "translationKey":"DASHBOARD_TITLE_TREATMENTS_KEY",
                 "type":"treatment",
@@ -343,8 +778,7 @@
                     "conceptNames": []
                 }
             }
-        }
-    },
+        },
     "trends":{  
         "translationKey":"DASHBOARD_TAB_TRENDS_KEY",
         "maxRecentlyViewedPatients":10,
@@ -353,16 +787,25 @@
                 "translationKey":"DASHBOARD_TITLE_PATIENT_INFORMATION_KEY",
                 "type":"patientInformation",
                 "patientAttributes":[  
-                    "caste",
-                    "class",
-                    "education",
-                    "occupation",
-                    "debt",
-                    "distanceFromCenter",
-                    "isUrban",
-                    "cluster",
-                    "RationCard",
-                    "familyIncome"
+                    "Allergies?",
+                    "knownAllergens",
+                    "typesofAllergicReactions",
+                    "legalstatus",
+                    "paymentCategory",
+                    "accountStatus",
+                    "primaryContact(MTN/WhatsApp)",
+                    "mainRisk(s)",
+                    "severityofRisk",
+                    "additionalRiskDetails",
+                    "principalCarer",
+                    "principalCarerContact(s)",
+                    "outstandingItem(s)1",
+                    "outstandingItem(s)2",
+                    "outstandingItem(s)3",
+                    "outstandingItem(s)4",
+                    "otherOutstandingItem(s)",
+                    "currentManagementPlan/Message:",
+                    "preferredLanguage"
                 ],
                 "addressFields":[  
                     "address1",
