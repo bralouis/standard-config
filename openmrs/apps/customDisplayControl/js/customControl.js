@@ -250,13 +250,14 @@ angular.module('bahmni.common.displaycontrol.custom')
 }]).directive('patientAccountDetails', ['$http', '$q', '$window','appService', 'virtualConsultService', function ($http, $q, $window, appService, virtualConsultService) {
     var link = function ($scope) {
         $scope.contentUrl = appService.configBaseUrl() + "/customDisplayControl/views/patientAccountDetails.html";
-       
+        // var patidentifier = "MOM5";
        var getPatientWalletInfo = function () {
         var params = {
              identifier : $scope.patient.identifier
+            // identifier : patidentifier
              
         };
-        return $http.get('/openmrs/ws/rest/v1/odooconnector/patient-balance', {
+        return $http.get('/openmrs/ws/rest/v1/odooconnector/patient-balance-direct', {
             method: "GET",
             params: params,
             withCredentials: true
