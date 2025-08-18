@@ -27,13 +27,35 @@
         "config" : {
             "patientInformation": {
                 "additionalPatientInformation": {
-                    "title": "Allergy Information",
-                    "translationKey": "ALLERGY_INFO_KEY",
+                    "title": "Death Information",
+                    "translationKey": "DEATH_INFO_KEY",
                     "attributes": [
-                        "distanceFromCenter",
-                        "Allergies?",
-                        "knownAllergens"
+                        "patient_death_info"
                     ]
+                },
+                "registerNewPatient2": {
+                    "title": "Register A New Patient",
+                    "translationKey": "IDENTIFIER_INFO_KEY",
+                    "attributes": [
+                        "Patient Identifier",
+                        "Identifiervalue"
+                    ],
+					"expand": true,
+					"order": 1
+                },
+                "registerNewPatient3": {
+                    "title": "Register A New Patient",
+                    "translationKey": "CONTACTS_INFO_KEY",
+                    "attributes": [
+                        "phoneNumber",
+                        "alternatePhoneNumber",
+						"primaryContact(MTN/WhatsApp)",
+                        "SecondaryContact(Non-MTN)",
+                        "whatsappContact",
+                        "email"
+                    ],
+					"expand": true,
+					"order": 2
                 },
                 "registerNewPatient1": {
                     "title": "Contacts Information",
@@ -54,9 +76,9 @@
                         
                     ],
 					"expand": true,
-					"order": 2
+					"order": 4
                 },
-                "registerNewPatient0": {
+                "registerNewPatient4": {
                     "title": "Register A New Patient",
                     "translationKey": "RELATIONSHIP_INFO_KEY",
                     "attributes": [
@@ -66,7 +88,7 @@
                         
                     ],
 					"expand": true,
-					"order": 3
+					"order": 5
                 },
                 "hidden": {
                     "attributes": [
