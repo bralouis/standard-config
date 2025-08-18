@@ -22,7 +22,9 @@
   "FEE_INFORMATION_LOCALE_KEY": "Fee Information",
   "NUTRITIONAL_VALUES_LOCALE_KEY": "Nutritional Values",
   "REGISTRATION_PRINT_WITH_BARCODE": "Bar<u>c</u>ode Print",
-  "ADDITIONAL_INFO_KEY": "Additonal Information",
-  "ALLERGY_INFO_KEY": "Allergy Information",
-  "RELATIONSHIP_INFO_KEY": "relationship Information"
+  "ADDITIONAL_INFO_KEY": "Additional Information",
+  "DEATH_INFO_KEY": "Death Information",
+  "RELATIONSHIP_INFO_KEY": "Relationship Information",
+  "CONTACTS_INFO_KEY": "Contacts Information",
+  "IDENTIFIER_INFO_KEY" : "Identifier Information"
 }
