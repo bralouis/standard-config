@@ -43,36 +43,30 @@
 					"expand": true,
 					"order": 1
                 },
-                "registerNewPatient3": {
-                    "title": "Register A New Patient",
-                    "translationKey": "CONTACTS_INFO_KEY",
-                    "attributes": [
-                        "phoneNumber",
-                        "alternatePhoneNumber",
-						"primaryContact(MTN/WhatsApp)",
-                        "SecondaryContact(Non-MTN)",
-                        "whatsappContact",
-                        "email"
-                    ],
-					"expand": true,
-					"order": 2
-                },
                 "registerNewPatient1": {
                     "title": "Contacts Information",
                     "translationKey": "ADDITIONAL_INFO_KEY",
                     "attributes": [
-						"education",
+                        "highestEducationlevel",
                         "other_education_status",
-                        "occupation",
-                        "other_occupation_specify",
-                        "Religion",
-                        "other_religion_specify",
-                        "Tribe",
-                        "otherTribe(Pleasespecify)",
-                        "preferredLanguage",
+
                         "Nationality",
                         "otherNationality(PleaseSpecify)",
-                        "anyOtherInformation"
+
+                        "patient_religion",
+                        "other_religion_specify",
+
+                        "occupation",
+                        "other_occupation_specify",
+                        
+                       
+                        "Tribe",
+                        "otherTribe(Pleasespecify)",
+
+                        "preferredLanguage",
+                      
+                        "anyOtherInformation",
+                        "Health facility code"
                         
                     ],
 					"expand": true,
@@ -93,7 +87,22 @@
                 "hidden": {
                     "attributes": [
                         "primaryContact",
-                        "registrationLocation"
+                        "registrationLocation",
+                        "postalAddress",
+                        "nextOfKinEmail",
+                        "otherNextOfKinDetails",
+                        "nextofKinName",
+                        "Specify Occupation",
+                        
+                        "phoneNumber",
+                        "nextOfKinPhoneNumber",
+                        "civilstatus",
+                        "nextofKinRelationship",
+                      
+                        "typeofPatient",
+                        "Patient NHIS number",
+                        "CCC"
+
                     ]
                 },
                 "defaults":  {
