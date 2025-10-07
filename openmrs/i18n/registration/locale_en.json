@@ -26,5 +26,7 @@
   "DEATH_INFO_KEY": "Death Information",
   "RELATIONSHIP_INFO_KEY": "Relationship Information",
   "CONTACTS_INFO_KEY": "Contacts Information",
-  "IDENTIFIER_INFO_KEY" : "Identifier Information"
+  "IDENTIFIER_INFO_KEY" : "Identifier Information",
+  "INSURANCE_INFO_KEY" : "Insurance Information",
+  "NOTIFICATION_INFO_KEY" : "Notification Information"
 }

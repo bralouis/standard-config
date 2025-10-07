@@ -49,30 +49,34 @@
                     "attributes": [
                         "highestEducationlevel",
                         "other_education_status",
-
                         "Nationality",
                         "otherNationality(PleaseSpecify)",
-
                         "patient_religion",
                         "other_religion_specify",
-
                         "occupation",
-                        "other_occupation_specify",
-                        
-                       
+                        "other_occupation_specify",  
                         "Tribe",
                         "otherTribe(Pleasespecify)",
-
-                        "preferredLanguage",
-                      
-                        "anyOtherInformation",
-                        "Health facility code"
+                        "preferredLanguage",               
+                        "anyOtherInformation"
                         
                     ],
 					"expand": true,
 					"order": 4
                 },
-                "registerNewPatient4": {
+                "registerNewPatient5": {
+                    "title": "Insurance Information",
+                    "translationKey": "INSURANCE_INFO_KEY",
+                    "attributes": [
+                        "typeOfInsurance",
+                        "Patient NHIS number",
+                        "CCC",
+                        "Health facility code"
+                    ],
+					"expand": true,
+					"order": 5
+                },
+                "registerNewPatient6": {
                     "title": "Register A New Patient",
                     "translationKey": "RELATIONSHIP_INFO_KEY",
                     "attributes": [
@@ -82,7 +86,17 @@
                         
                     ],
 					"expand": true,
-					"order": 5
+					"order": 6
+                },
+                "registerNewPatient7": {
+                    "title": "Notification Information",
+                    "translationKey": "NOTIFICATION_INFO_KEY",
+                    "attributes": [
+						"receiveSMSNotification",
+                        "smsContact"
+                    ],
+					"expand": true,
+					"order": 7
                 },
                 "hidden": {
                     "attributes": [
@@ -92,16 +106,12 @@
                         "nextOfKinEmail",
                         "otherNextOfKinDetails",
                         "nextofKinName",
-                        "Specify Occupation",
-                        
+                        "Specify Occupation",               
                         "phoneNumber",
                         "nextOfKinPhoneNumber",
                         "civilstatus",
-                        "nextofKinRelationship",
-                      
-                        "typeofPatient",
-                        "Patient NHIS number",
-                        "CCC"
+                        "nextofKinRelationship",                  
+                        "typeofPatient"
 
                     ]
                 },
