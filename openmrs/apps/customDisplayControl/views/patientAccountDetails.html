@@ -1,15 +1,35 @@
-<section class="app-dashboard-integration"></section>
-    <h2 class="section-title" ng-click="goToListView()"><span style="border-bottom: 1px solid white;">{{ section.title | titleTranslate}}</span></h2>
+<section class="app-dashboard-integration">
+    <h2 class="section-title"><span style="border-bottom: 1px solid white;">{{ section.title | titleTranslate}}</span></h2>
 
-    <ul style="font-size: 14px;color: #000000">
-        <li style="background-color:#ddd;padding-top:3px;padding-bottom:3px">
-            <span style="padding-left: 10px"> {{::"DASHBOARD_ACCOUNT_STATUS_KEY" | translate}} : </span>
-            <span style="padding-left: 10px;color: #008000"> <b>{{ accountStatus | translate}}</b></span>
-        </li>
+    <div ng-if="isLoading" style="padding: 8px 10px; color: #555; font-size: 13px;">
+        {{ ::"DASHBOARD_ACCOUNT_LOADING_KEY" | translate }}
+    </div>
 
-        <ul class="form-field">
-            <span> {{::"DASHBOARD_ACCOUNT_BALANCE_KEY" | translate}} : </span>
-            <span style="color: #0a4b70"> <b>{{ accountBalance }}</b></span>
+    <div ng-if="loadError" style="padding: 8px 10px; color: #cc0000; font-size: 13px;">
+        {{ ::"DASHBOARD_ACCOUNT_ERROR_KEY" | translate }}
+    </div>
+
+    <div ng-if="!isLoading && !loadError">
+        <div ng-if="trafficLight" style="display: flex; align-items: center; padding: 8px 10px 4px 10px;">
+            <div style="width: 18px; height: 18px; border-radius: 50%; margin-right: 8px; flex-shrink: 0;"
+                 ng-style="{'background-color': trafficLightColor, 'box-shadow': '0 0 4px ' + trafficLightColor}">
+            </div>
+            <span style="font-size: 13px; color: #333;">{{ trafficLightLabel | translate }}</span>
+        </div>
+
+        <ul style="font-size: 14px; color: #000000; list-style: none; padding: 0; margin: 0;">
+            <li style="background-color: #ddd; padding: 4px 0;">
+                <span style="padding-left: 10px;">{{ ::"DASHBOARD_ACCOUNT_STATUS_KEY" | translate }} : </span>
+                <span style="padding-left: 4px; color: #008000;"><b>{{ accountStatus | translate }}</b></span>
+            </li>
+            <li style="padding: 4px 0; border-bottom: 1px solid #eee;">
+                <span style="padding-left: 10px;">{{ ::"DASHBOARD_ACCOUNT_BALANCE_KEY" | translate }} : </span>
+                <span style="padding-left: 4px; color: #0a4b70;"><b>{{ accountBalance | number: 2 }}</b></span>
+            </li>
+            <li ng-if="maxTopUp != null" style="padding: 4px 0; border-bottom: 1px solid #eee;">
+                <span style="padding-left: 10px;">{{ ::"DASHBOARD_ACCOUNT_MAX_TOPUP_KEY" | translate }} : </span>
+                <span style="padding-left: 4px; color: #0a4b70;"><b>{{ maxTopUp | number: 2 }}</b></span>
+            </li>
         </ul>
-    </ul>
+    </div>
 </section>
