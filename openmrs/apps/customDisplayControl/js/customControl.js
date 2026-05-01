@@ -247,34 +247,61 @@ angular.module('bahmni.common.displaycontrol.custom')
         },
         template: '<ng-include src="contentUrl"/>'
     };
-}]).directive('patientAccountDetails', ['$http', '$q', '$window','appService', 'virtualConsultService', function ($http, $q, $window, appService, virtualConsultService) {
+}]).directive('patientAccountDetails', ['$http', 'appService', function ($http, appService) {
     var link = function ($scope) {
         $scope.contentUrl = appService.configBaseUrl() + "/customDisplayControl/views/patientAccountDetails.html";
-        // var patidentifier = "MOM5";
-       var getPatientWalletInfo = function () {
-        var params = {
-             identifier : $scope.patient.identifier
-            // identifier : patidentifier
-             
+
+        var getPatientWalletInfo = function () {
+            return $http.get('/openmrs/ws/rest/v1/odooconnector/patient-balance', {
+                params: { identifier: $scope.patient.identifier },
+                withCredentials: true
+            });
         };
-        return $http.get('/openmrs/ws/rest/v1/odooconnector/patient-balance-direct', {
-            method: "GET",
-            params: params,
-            withCredentials: true
+
+        var resolveTrafficLight = function (percentage) {
+            if (percentage >= 60) {
+                return { color: 'green', hexColor: '#28a745', label: 'DASHBOARD_ACCOUNT_TRAFFIC_GREEN_KEY' };
+            } else if (percentage >= 30) {
+                return { color: 'amber', hexColor: '#ffc107', label: 'DASHBOARD_ACCOUNT_TRAFFIC_AMBER_KEY' };
+            } else {
+                return { color: 'red', hexColor: '#dc3545', label: 'DASHBOARD_ACCOUNT_TRAFFIC_RED_KEY' };
+            }
+        };
+
+        $scope.isLoading = true;
+        $scope.loadError = false;
+
+        getPatientWalletInfo().then(function (response) {
+            $scope.isLoading = false;
+            var data = response.data;
+
+            if (data && data.balance != null) {
+                $scope.accountBalance = data.balance;
+                $scope.maxTopUp = data.max_top_up;
+                $scope.accountStatus = 'DASHBOARD_ACCOUNT_ACTIVE_KEY';
+
+                if (data.max_top_up && data.max_top_up > 0) {
+                    var percentage = (data.balance / data.max_top_up) * 100;
+                    $scope.balancePercentage = percentage;
+                    var light = resolveTrafficLight(percentage);
+                    $scope.trafficLight = light.color;
+                    $scope.trafficLightColor = light.hexColor;
+                    $scope.trafficLightLabel = light.label;
+                }
+            } else {
+                $scope.accountBalance = '0.00';
+                $scope.accountStatus = 'DASHBOARD_ACCOUNT_DORMANT_KEY';
+                $scope.trafficLight = 'grey';
+                $scope.trafficLightColor = '#999999';
+                $scope.trafficLightLabel = 'DASHBOARD_ACCOUNT_DORMANT_KEY';
+            }
+        }, function () {
+            $scope.isLoading = false;
+            $scope.loadError = true;
+            $scope.accountStatus = 'DASHBOARD_ACCOUNT_DORMANT_KEY';
         });
     };
 
-    $q.all([getPatientWalletInfo()]).then(function (response) {
-        $scope.balanceInfo = response[0].data;
-        if ($scope.balanceInfo.balance != null) {
-            $scope.accountBalance = $scope.balanceInfo.balance
-            $scope.accountStatus = 'Active';
-        } else {
-            $scope.accountBalance = '0.00';
-            $scope.accountStatus = 'Dormant';
-        }
-    })
-    };
     return {
         restrict: 'E',
         link: link,
