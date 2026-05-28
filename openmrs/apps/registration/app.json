@@ -30,9 +30,20 @@
                     "title": "Death Information",
                     "translationKey": "DEATH_INFO_KEY",
                     "attributes": [
-                        "patient_death_info",
+                        "patient_death_info"
+                    ],
+                    "expand": true,
+                    "order": 8
+                },
+                "causeOfDeathSection": {
+                    "title": "Cause of Death",
+                    "translationKey": "CAUSE_OF_DEATH_KEY",
+                    "attributes": [
                         "causeOfDeath"
-                    ]
+                    ],
+                    "expand": true,
+                    "order": 9,
+                    "canShow": false
                 },
                 "registerNewPatient2": {
                     "title": "Register A New Patient",
@@ -84,10 +95,11 @@
 						"relationship",
                         "comments",
                         "relationshipContacts"
-                        
+
                     ],
 					"expand": true,
-					"order": 6
+					"order": 6,
+					"repeatable": true
                 },
                 "registerNewPatient7": {
                     "title": "Notification Information",
