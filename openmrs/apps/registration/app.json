@@ -30,7 +30,8 @@
                     "title": "Death Information",
                     "translationKey": "DEATH_INFO_KEY",
                     "attributes": [
-                        "patient_death_info"
+                        "patient_death_info",
+                        "causeOfDeath"
                     ]
                 },
                 "registerNewPatient2": {
