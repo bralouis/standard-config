@@ -89,4 +89,17 @@
     <include file ="addMoreObsSplitterProperty.xml"/>
     <include file ="addMultiSelectObsSplitterProperty.xml"/>
     <include file ="addLabRoleWithPrivilege.xml"/>
+    <changeSet id="expand-person-attribute-value-to-text" author="moment">
+        <preConditions onFail="MARK_RAN">
+            <sqlCheck expectedResult="1">
+                SELECT COUNT(*) FROM information_schema.COLUMNS
+                WHERE TABLE_SCHEMA = DATABASE()
+                  AND TABLE_NAME = 'person_attribute'
+                  AND COLUMN_NAME = 'value'
+                  AND DATA_TYPE != 'text';
+            </sqlCheck>
+        </preConditions>
+        <comment>Expand person_attribute.value from VARCHAR(50) to TEXT to support JSON relationship data storage</comment>
+        <sql>ALTER TABLE person_attribute MODIFY COLUMN value TEXT;</sql>
+    </changeSet>
 </databaseChangeLog>

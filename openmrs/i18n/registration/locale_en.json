@@ -28,5 +28,6 @@
   "CONTACTS_INFO_KEY": "Contacts Information",
   "IDENTIFIER_INFO_KEY" : "Identifier Information",
   "INSURANCE_INFO_KEY" : "Insurance Information",
-  "NOTIFICATION_INFO_KEY" : "Notification Information"
+  "NOTIFICATION_INFO_KEY" : "Notification Information",
+  "CAUSE_OF_DEATH_KEY": "Cause of Death"
 }
