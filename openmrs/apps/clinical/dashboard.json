@@ -877,6 +877,18 @@
                     "numberOfVisits":10
                 },
                 "displayOrder":5
+            },
+             "whoGraph":{  
+                "type":"observationGraph",
+                "translationKey": "DASHBOARD_TITLE_DISABILITY_WHO_GRAPH",
+                "config":{  
+                    "yAxisConcepts":[  
+                        "World Health Organization Disability Assessment Schedule 2.0 Score"
+                    ],
+                    "xAxisConcept":"observationDateTime",
+                    "numberOfVisits":10
+                },
+                "displayOrder":6
             }
         }
     },
