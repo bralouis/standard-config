@@ -18,7 +18,7 @@
             "description": "Bahmni Patient search, lookups Page"
         }
     ],
-    "contextModel": [
+    "contextModel": [ 
         "patientUuid",
         "visitUuid"
     ],
