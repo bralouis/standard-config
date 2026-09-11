@@ -1,0 +1,97 @@
+Uuid,Void/Retire,Same as mappings,Fully specified name:en,Fully specified name:fr,Short name:en,Short name:fr,Description:en,Description:fr,Data class,Data type,Complex data handler,Answers,Members,Allow decimals,Units,Normal low,Normal high,Absolute low,Absolute high,_version:1,_order:206
+25535e1c-1da1-48f0-aee0-4bd2bc5ec87b,,,ORTH01A Bandaging/Cast (POP Application) >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+376052c4-1532-4945-8dc0-bea4d8d6cdb3,,,ORTH01C Bandaging/Cast (POP Application) <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+8dbbfe94-dad2-4012-8eb0-d6fe4cefc61b,,,ORTH02A Bone Biopsy >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+9d9904f4-9b32-4581-b372-3ee7d7b2beb3,,,ORTH02C Bone Biopsy <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+731d5eff-eba9-41e7-b0d7-4a38226c80fe,,,ORTH03A Bone Graft >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+95ba05ca-92fb-4cfd-9cc1-12114a58d027,,,ORTH03C Bone Graft <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+1fc05101-0853-4da0-80d0-59df94289105,,,ORTH04A Closed Reduction and Splintage of Fractures and Joints >=12 Yrs,,,,,,Procedure,N/A,,,,,,,,,,,
+a819878f-f9c6-4ae6-bd0d-c5c37193a0d6,,,ORTH04C Closed Reduction and Splintage of Fractures and Joints <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+1fbdeb42-e011-4946-a1a1-e42fa690618a,,,ORTH05A Debridement and Suturing >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+531feeb3-81e4-4e16-8943-92ea848a202a,,,ORTH05C Debridement and Suturing <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+79c56ec9-a190-4e4e-9946-8c8fe100868a,,,ORTH07A Excision of Soft Tissue Lumps >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+0ea32352-d9ce-4925-bb6f-1e18ffc8e2ec,,,ORTH07C Excision of Soft Tissue Lumps <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+a1e8d44a-e193-4bb8-843b-86d293fcf203,,,ORTH08A External Fixation >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+7d4d30e3-7c6b-4697-8968-eea7da1f152f,,,ORTH08C External Fixation <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+0eac2d6b-a012-469f-a3d7-f0bf89833e8b,,,ORTH09A Fasciotomy >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+4a067e1f-6658-475a-8064-432caea100d0,,,ORTH09C Fasciotomy <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+0fde803f-61e3-4e42-9839-36d4c6c0515f,,,ORTH10A Hemi-Arthroplasty >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+ea27ebd7-d713-4de3-b3cf-1e37de45d8ef,,,ORTH10C Hemi-Arthroplasty <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+10efce36-575b-4f9a-b89c-3c7efb0dfa2e,,,ORTH11A Incision and Drainage of Abscesses >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+6dc21fb1-fad9-4387-a240-5b1953fa7f63,,,ORTH11C Incision and Drainage of Abscesses < 12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+e0269509-66e8-4036-8b79-2ceedae117e3,,,ORTH12A Internal Fixation of Fractures >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+9c8d70d9-f10d-413e-bb2e-97d1a22273d4,,,ORTH12C Internal Fixation of Fractures <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+c1291c06-6d85-4ff7-9d8d-d7bc0968025e,,,ORTH14A Major Surgery of Joints >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+99cac3f1-118c-492f-8257-d9e6d8d668c4,,,ORTH14C Major Surgery of Joints <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+2492d2c9-59e8-4629-ae65-55ab7167cb8c,,,ORTH15A Minor Surgery of Joints >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+8466a3f6-c133-4a8f-8c30-52997cdfa222,,,ORTH15C Minor Surgery of Joints <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+b2d6306e-b6d4-4b8f-9b19-fa1fed47041d,,,ORTH16A Nail Avulsion >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+16fe988c-e548-426d-900e-df82244d982d,,,ORTH16C Nail Avulsion <12 Yrs,,,,,,Procedure,N/A,,,,,,,,,,,
+2d30f047-c43f-4c5e-ae80-3219a9f29657,,,ORTH17A Open Reduction and Internal Fixation >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+b952789a-f780-4673-adea-eca73c614450,,,ORTH17C Open Reduction and Internal Fixation <12 Yrs,,,,,,Procedure,N/A,,,,,,,,,,,
+0915d81e-cbe7-4a0f-aa89-9128f472c0f3,,,ORTH18A Osteotomy >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+482d944f-f9e8-4efd-aa34-440d9768e047,,,ORTH18C Osteotomy <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+8feddcc0-3636-468b-93cf-5f5a54cb43be,,,ORTH19A Skin traction >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+11e3adcf-cad1-4d69-88c7-b913b7307e12,,,ORTH19C Skin traction <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+4d62f3ef-c3bb-4ec9-a2aa-6243a252b102,,,ORTH20A Surgery for Infected Bone >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+ec5f6538-e0a5-4567-a229-482b48217374,,,ORTH20C Surgery for Infected Bone <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+5e12ee3b-bf0e-41e6-9748-3c93605bbaf3,,,ORTH22A Synovectomy >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+cf1ed9fd-7903-4cdf-8965-35e0207b30fd,,,ORTH22C Synovectomy <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+24896098-7862-453f-99ca-56975b257042,,,ORTH23A Tendon Surgery >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+e9048bf9-f432-4975-bde8-2ab8c22aacd9,,,ORTH23C Tendon Surgery <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+8da4c6cc-94ff-415c-9058-eaabb6c53e8d,,,ORTH24A Head injury/spinal injury >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+220f1e83-e834-49a1-b1ed-524cd33325ce,,,ORTH24C Head injury/spinal injury >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+f55c9aa4-bee5-4e06-856f-7d3731a6660b,,,ORTH25A Surgery for removal of finger/toe >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+40c172fc-285d-459a-9870-0360458e37b0,,,ORTH25C Surgery for removal of finger/toe <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+77b919a7-c398-4f8d-8d69-d48b91af87a2,,,ORTH26A Surgery for amputation of hand/foot (through or below ankle/wrist joint) >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+bd265138-7e2a-4c13-ab29-b8b8c4bc671d,,,ORTH26C Surgery for amputation of hand/foot (through or below ankle/wrist joint) <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+afa456fb-7a49-4fdc-9af9-da79ed2cb63a,,,"ORTH27A Amputation below or through elbow or knee, through proximal joints or for the complete removal of limb >=12 Yrs ",,,,,,Procedure,N/A,,,,,,,,,,,
+b6fb6459-a7fd-4bea-9aee-8c448d9f5e19,,,"ORTH27C Amputation below or through elbow or knee, through proximal joints or for the complete removal of limb <12 Yrs ",,,,,,Procedure,N/A,,,,,,,,,,,
+72cb1852-005e-4a78-bef7-df46fb7e100f,,,Procedure (Orthopaedics),,,,,,ConvSet,N/A,,,"ORTH01A Bandaging/Cast (POP Application) >=12 Yrs;
+ORTH01C Bandaging/Cast (POP Application) <12 Yrs;
+ORTH02A Bone Biopsy >=12 Yrs;
+ORTH02C Bone Biopsy <12 Yrs;
+ORTH03A Bone Graft >=12 Yrs;
+ORTH03C Bone Graft <12 Yrs;
+ORTH04A Closed Reduction and Splintage of Fractures and Joints >=12 Yrs;
+ORTH04C Closed Reduction and Splintage of Fractures and Joints <12 Yrs;
+ORTH05A Debridement and Suturing >=12 Yrs;
+ORTH05C Debridement and Suturing <12 Yrs;
+ORTH07A Excision of Soft Tissue Lumps >=12 Yrs;
+ORTH07C Excision of Soft Tissue Lumps <12 Yrs;
+ORTH08A External Fixation >=12 Yrs;
+ORTH08C External Fixation <12 Yrs;
+ORTH09A Fasciotomy >=12 Yrs;
+ORTH09C Fasciotomy <12 Yrs;
+ORTH10A Hemi-Arthroplasty >=12 Yrs;
+ORTH10C Hemi-Arthroplasty <12 Yrs;
+ORTH11A Incision and Drainage of Abscesses >=12 Yrs;
+ORTH11C Incision and Drainage of Abscesses < 12 Yrs;
+ORTH12A Internal Fixation of Fractures >=12 Yrs;
+ORTH12C Internal Fixation of Fractures <12 Yrs;
+ORTH14A Major Surgery of Joints >=12 Yrs;
+ORTH14C Major Surgery of Joints <12 Yrs;
+ORTH15A Minor Surgery of Joints >=12 Yrs;
+ORTH15C Minor Surgery of Joints <12 Yrs;
+ORTH16A Nail Avulsion >=12 Yrs;
+ORTH16C Nail Avulsion <12 Yrs;
+ORTH17A Open Reduction and Internal Fixation >=12 Yrs;
+ORTH17C Open Reduction and Internal Fixation <12 Yrs;
+ORTH18A Osteotomy >=12 Yrs;
+ORTH18C Osteotomy <12 Yrs;
+ORTH19A Skin traction >=12 Yrs;
+ORTH19C Skin traction <12 Yrs;
+ORTH20A Surgery for Infected Bone >=12 Yrs;
+ORTH20C Surgery for Infected Bone <12 Yrs;
+ORTH22A Synovectomy >=12 Yrs;
+ORTH22C Synovectomy <12 Yrs;
+ORTH23A Tendon Surgery >=12 Yrs;
+ORTH23C Tendon Surgery <12 Yrs;
+ORTH24A Head injury/spinal injury >=12 Yrs;
+ORTH24C Head injury/spinal injury >=12 Yrs;
+ORTH25A Surgery for removal of finger/toe >=12 Yrs;
+ORTH25C Surgery for removal of finger/toe <12 Yrs;
+ORTH26A Surgery for amputation of hand/foot (through or below ankle/wrist joint) >=12 Yrs;
+ORTH26C Surgery for amputation of hand/foot (through or below ankle/wrist joint) <12 Yrs;
+ORTH27A Amputation below or through elbow or knee, through proximal joints or for the complete removal of limb >=12 Yrs;
+ORTH27C Amputation below or through elbow or knee, through proximal joints or for the complete removal of limb <12 Yrs; ",,,,,,,,

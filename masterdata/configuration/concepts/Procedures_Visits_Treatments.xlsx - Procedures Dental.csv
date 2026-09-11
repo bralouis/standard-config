@@ -1,0 +1,95 @@
+Uuid,Void/Retire,Same as mappings,Fully specified name:en,Fully specified name:fr,Short name:en,Short name:fr,Description:en,Description:fr,Data class,Data type,Complex data handler,Answers,Members,Allow decimals,Units,Normal low,Normal high,Absolute low,Absolute high,_version:1,_order:210
+b74f3e9a-1fb0-423c-9816-7e2360767f1d,,,DENT01A Forceps Extraction of Tooth >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+ec2bac66-91c5-4e05-ba60-256809afe9e9,,,DENT01C Forceps Extraction of Tooth <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+2ee3fa1e-8082-409c-a208-ac7fee2a1cac,,,DENT02A Surgical Removal of Tooth >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+0ee97f8b-2954-4dd6-9265-f678e16516c7,,,DENT03A Temporary Filling >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+04bd8e59-f60d-49e3-90bf-a04e5fc66ecb,,,DENT03C Temporary Filling <12 Yrs,,,,,,Procedure,N/A,,,,,,,,,,,
+962fd30f-7178-400d-9642-161f5e6fd774,,,DENT04A Amalgam Filling >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+02b21fe3-13e4-4f51-8f66-2059f7f4df59,,,DENT04C Amalgam Filling <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+1ce5cd1b-30e4-497f-8d51-bb6f3554de15,,,DENT05A Composite/GI Filling >=12 Yrs,,,,,,Procedure,N/A,,,,,,,,,,,
+217e6314-50af-4f1e-a959-d27230f1556c,,,DENT05C Composite/GI Filling <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+17782d61-bac8-4ccb-8770-b23dda6e7b2e,,,DENT06A Scaling & Polishing >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+e8e67b71-5e42-4ab5-8b9d-0b274baa27d2,,,DENT06C Scaling & Polishing <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+ac947e77-9f8a-4048-a855-b4b5118c0b88,,,DENT07A Gingivectomy >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+620282db-ca66-4c36-83fc-f0349993e1bf,,,DENT07C Gingivectomy <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+97dc2340-3c7e-4a1d-9277-d65b38846687,,,DENT08A Root Canal Therapy - Single Root (RCT) >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+fb8934de-24b5-4427-9444-847bd14baf80,,,DENT08C Root Canal Therapy - Single Root (RCT) <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+2ebc76f8-249d-4708-83d1-b98a1cc84190,,,DENT09A Apicectomy >=12 Yrs,,,,,,Procedure,N/A,,,,,,,,,,,
+ea102a61-7501-4924-b72e-612fc2eb3f01,,,DENT09C Apicectomy <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+c5f73cde-7e19-453c-a067-d8570d6a2301,,,DENT10A Incision and Drainage (I & D) of Oro-Facial Abscess >=12 Yrs,,,,,,Procedure,N/A,,,,,,,,,,,
+fade7cde-2f97-4e09-98c1-62b237190ea0,,,DENT10C Incision and Drainage (I & D) of Oro-Facial Abscess <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+ff7662dd-a22b-41e2-b990-bbbdac5d21ec,,,DENT11A Surgical Excision of Intraoral Lesions >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+a3212bf1-b1bd-4c93-a4cc-d6678ab85f53,,,DENT11C Surgical Excision of Intraoral Lesions <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+5868f755-b0f3-45b3-ad65-57cdfec88786,,,DENT12A Curetage/Sequestrectomy of Facial Bone >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+ce6cfe5f-b644-43d5-9a33-69a78f852869,,,DENT12C Curetage/Sequestrectomy of Facial Bone <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+c032b53a-282f-4e09-b934-ad3611023f27,,,DENT13A Removal of Stone from Salivary Duct >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+79c3018c-a13d-4cc6-91b2-b90ba4a18c98,,,DENT13C Removal of Stone from Salivary Duct <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+78724963-a7af-49b4-b158-2ab951092daa,,,DENT14A Sialoadenectomy >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+c79593c5-8d4d-4aa0-b4a5-30b3b8a6a3df,,,DENT14C Sialoadenectomy <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+57ad3909-ec17-4ba5-b3e4-c1521d41cedc,,,DENT15A Suturing of Lacerations of Facial Region >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+87b54388-4c84-4f39-8722-83afcb2d9b9a,,,DENT15C Suturing of Lacerations of Facial Region <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+bd47c3aa-b281-487d-8fab-a91dd9465158,,,DENT16A Dressing of Open Facial Wounds >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+231fc1dc-b99f-4d32-894a-37f294794af0,,,DENT16C Dressing of Open Facial Wounds <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+319db700-d47c-4f36-bc64-a16190c31823,,,DENT17A Frenectomy/Frenotomy >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+616fdb4a-fd39-4e51-b517-3147b83b6d7a,,,DENT17C Frenectomy/Frenotomy <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+4b2385cd-c911-4fc5-b66d-4aee20b31423,,,DENT18A Partial Resection of Facial Bones or Soft Tissues >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+ae48bb4c-02b5-44e5-ab31-d6826b8617a2,,,DENT18C Partial Resection of Facial Bones or Soft Tissues <12 Yrs,,,,,,Procedure,N/A,,,,,,,,,,,
+71c58c77-b9f9-4bf1-aa14-0fab36f0758f,,,DENT19A Total Resection of Facial Bones and Soft Tissues >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+77855f07-f4dd-4823-a0ca-d46d91a0f801,,,DENT19C Total Resection of Facial Bones and Soft Tissues <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+767dffc8-e72b-405c-84c2-2c42997fc0d7,,,DENT20A Closed Reduction of Fractures of Facial Bones (IMF) >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+0be40a4c-81f7-463f-9f35-954d48bb5b02,,,DENT20C Closed Reduction of Fractures of Facial Bones (IMF) <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+48169749-e363-4416-a5eb-afb4a0bd86f7,,,DENT21A Open Reduction of Facial Fractures >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+0f7b8048-194f-4995-8186-caa0746a90eb,,,DENT21C Open Reduction of Facial Fractures <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+152af94c-bf1c-4c50-80c3-585e9b70bae6,,,DENT22A Removal of Dental Wiring >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+03c0c790-e0a8-4660-a6e5-36b8aca80ebf,,,DENT22C Removal of Dental Wiring <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+f61cf58b-7671-4224-9dd4-77b445aa9d2b,,,DENT23A Manual Reduction of TMJ Dislocation >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+a2321093-559a-46a3-a70c-c0d85e8ce9f8,,,DENT23C Manual Reduction of TMJ Dislocation <12 Yrs,,,,,,Procedure,N/A,,,,,,,,,,,
+bf830664-a8f3-4a64-a47e-ab7e89c60369,,,DENT24A Dental Examination (Medical Management) >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+08d5101f-1d8d-4765-9a09-3732439bcd43,,,DENT24C Dental Examination (Medical Management) <12 Yrs  ,,,,,,Procedure,N/A,,,,,,,,,,,
+438ab211-f4ce-4a9f-adf7-e6ec83f3093f,,,Procedure (Dental),,,,,,ConvSet,N/A,,,"DENT01A Forceps Extraction of Tooth >=12 Yrs;
+DENT01C Forceps Extraction of Tooth <12 Yrs;
+DENT02A Surgical Removal of Tooth >=12 Yrs;
+DENT03A Temporary Filling >=12 Yrs;
+DENT03C Temporary Filling <12 Yrs;
+DENT04A Amalgam Filling >=12 Yrs;
+DENT04C Amalgam Filling <12 Yrs;
+DENT05A Composite/GI Filling >=12 Yrs;
+DENT05C Composite/GI Filling <12 Yrs;
+DENT06A Scaling & Polishing >=12 Yrs;
+DENT06C Scaling & Polishing <12 Yrs;
+DENT07A Gingivectomy >=12 Yrs;
+DENT07C Gingivectomy <12 Yrs;
+DENT08A Root Canal Therapy - Single Root (RCT) >=12 Yrs;
+DENT08C Root Canal Therapy - Single Root (RCT) <12 Yrs;
+DENT09A Apicectomy >=12 Yrs;
+DENT09C Apicectomy <12 Yrs;
+DENT10A Incision and Drainage (I & D) of Oro-Facial Abscess >=12 Yrs;
+DENT10C Incision and Drainage (I & D) of Oro-Facial Abscess <12 Yrs;
+DENT11A Surgical Excision of Intraoral Lesions >=12 Yrs;
+DENT11C Surgical Excision of Intraoral Lesions <12 Yrs;
+DENT12A Curetage/Sequestrectomy of Facial Bone >=12 Yrs;
+DENT12C Curetage/Sequestrectomy of Facial Bone <12 Yrs;
+DENT13A Removal of Stone from Salivary Duct >=12 Yrs;
+DENT13C Removal of Stone from Salivary Duct <12 Yrs;
+DENT14A Sialoadenectomy >=12 Yrs;
+DENT14C Sialoadenectomy <12 Yrs;
+DENT15A Suturing of Lacerations of Facial Region >=12 Yrs;
+DENT15C Suturing of Lacerations of Facial Region <12 Yrs;
+DENT16A Dressing of Open Facial Wounds >=12 Yrs;
+DENT16C Dressing of Open Facial Wounds <12 Yrs;
+DENT17A Frenectomy/Frenotomy >=12 Yrs;
+DENT17C Frenectomy/Frenotomy <12 Yrs;
+DENT18A Partial Resection of Facial Bones or Soft Tissues >=12 Yrs;
+DENT18C Partial Resection of Facial Bones or Soft Tissues <12 Yrs;
+DENT19A Total Resection of Facial Bones and Soft Tissues >=12 Yrs;
+DENT19C Total Resection of Facial Bones and Soft Tissues <12 Yrs;
+DENT20A Closed Reduction of Fractures of Facial Bones (IMF) >=12 Yrs;
+DENT20C Closed Reduction of Fractures of Facial Bones (IMF) <12 Yrs;
+DENT21A Open Reduction of Facial Fractures >=12 Yrs;
+DENT21C Open Reduction of Facial Fractures <12 Yrs;
+DENT22A Removal of Dental Wiring >=12 Yrs;
+DENT22C Removal of Dental Wiring <12 Yrs;
+DENT23A Manual Reduction of TMJ Dislocation >=12 Yrs;
+DENT23C Manual Reduction of TMJ Dislocation <12 Yrs;
+DENT24A Dental Examination (Medical Management) >=12 Yrs;
+DENT24C Dental Examination (Medical Management) <12 Yrs;",,,,,,,,

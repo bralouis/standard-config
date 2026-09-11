@@ -1,0 +1,172 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:502,Data class,Data type,Answers
+f1739a15-6a2a-4523-a358-a764335cf30c,,"Death Note, brought dead",,,,,,Misc,N/A,
+94e8ea1e-5a4c-45aa-98dc-f9b20fdae1ed,,"Sudden infant death, syndrome",Sudden infant death syndrome,,,,,Misc,N/A,
+d6405673-ec64-47ce-835a-e2a8bed5a100,,Death from natural causes,,,,,,Misc,N/A,
+c3d62d45-7b7c-417b-b283-8004e8e37e31,,"Death Note, Death occured post operative",,,,,,Misc,N/A,
+01837ada-d818-4682-8f92-6b1efe36f5c7,,"Death Note, Maternal Death",,,,,,Misc,N/A,
+ae2e3b26-ea4e-4918-a14b-40cfd85f1ded,,Death by suicide,Suicide,,,,,Misc,N/A,
+"7675a25c-f567-4143-9086-dde2d53dceff ",,Death by homicide,Homicide,,,,,Misc,N/A,
+9ec0ae82-b2a5-40d8-bedf-5ecc0f2b004c,,"Cause of Death, Accidental death",Accidental Death,,,,,Misc,N/A,
+872ebeae-973d-4455-9e57-b7e7c17f5557,,Iatrogenic causes,Iatrogenic causes,,,,,Misc,N/A,
+9f232320-de64-424a-bbb6-05ae3f9c507d,,Death from medical complications,,,,,,Misc,N/A,
+"f2f4576a-eea3-4d1b-b028-c1762debc104 ",,Death from natural causes,,,,,,Misc,N/A,
+d6405673-ec64-47ce-835a-e2a8bed5a100,,"Sudden death cause unknown",,,,,,Misc,N/A,
+5afd4f97-7891-4750-a4cd-eb3c080423e6,,Cause of Death,Reason For Death,,,,,Question,Coded,"Death Note, brought dead;
+Sudden infant death, syndrome;
+Death from natural causes;
+Death Note, Death occured post operative;
+Death Note, Maternal Death;
+Death by suicide;
+Death by homicide;
+Cause of Death, Accidental death;
+Death from medical complications;
+Sudden death cause unknown;
+
+"
+30e1c728-f008-4dd1-ab34-2c34a00fd3a5,,Reason For Death,,,,,,Misc,N/A,
+b93c3ff5-1eae-499a-b5cc-8568989d1avd,,"carelevel, Standard",Standard,,,,,Misc,N/A,
+b93c3ff5-1eae-499a-b5cc-8568989d1aad,,"carelevel, Enhanced",Enhanced,,,,,Misc,N/A,
+3e68806c-af08-4255-a70d-f9cb7b87b52c,,Care Level,,,,,,Question,Coded,"carelevel, Standard;
+carelevel, Enhanced"
+f2decc33-9979-42f7-b889-9a5464e68312,,Uninsured,,,,,,Misc,N/A,
+f2decc33-9979-42f7-b889-9a5464e68313,,Corporate,,,,,,Misc,N/A,
+f2decc33-9979-42f7-b889-9a5464e68314,,National Insurance,,,,,,Misc,N/A,
+f2decc33-9979-42f7-b889-9a5464e68315,,Insurance Class,,,,,,Question,Coded,"Uninsured;
+Corporate;National Insurance"
+6cf0ddd0-59f5-44d1-8bbd-dc9875071ee1,,Type of Insurance,,,,,,Question,Coded,"Uninsured;
+Corporate;National Insurance;"
+ce874363-3c35-44e4-92e2-d3d8e8bd6fb3,,"Eng, Language",Eng,,,,,Misc,N/A,
+e9f71502-96b8-412f-84ee-e91f05b9070a,,"Dangme, Language",Dangme,,,,,Misc,N/A,
+0dbaed14-a0f0-4f1b-9cbc-9f6329599186,,"Nzema, Language",Nzema,,,,,Misc,N/A,
+4c856851-37e2-4c0e-b9c5-d6a7600684e1,,"Asante Twi, Language",Asante Twi,,,,,Misc,N/A,
+1b2689a7-9150-4dd4-8fd2-ff386ed4c2fb,,"Akuapem Twi, Language",Akuapem Twi,,,,,Misc,N/A,
+dbd8e419-31f9-4649-a3a0-49cef30ebd80,,"Kasem, Language",Kasem,,,,,Misc,N/A,
+7b7178c1-f1a7-4e57-8bbb-ae3371bc0c44,,"Dagaare, Language",Dagaare,,,,,Misc,N/A,
+55e604ef-d3c4-4e96-810d-9e02c03274d6,,"Dagbani, Language",Dagbani,,,,,Misc,N/A,
+5b5d70ee-1bfb-4bca-a454-7e0388c6d53c,,"Gonja, Language",Gonja,,,,,Misc,N/A,
+110e53eb-3dd5-4ba4-ad90-096e93084105,,"Twl, Language",Twl,,,,,Misc,N/A,
+10cc65f7-6c35-4626-b208-b8cbcdf0c486,,"Fante, Language",Fante,,,,,Misc,N/A,
+f5e485f9-84d4-4212-b31d-e755668b1c66,,"Ga, Language",Ga,,,,,Misc,N/A,
+7f198532-79e5-45a1-abc7-111439292cf3,,"Ewe, Language",Ewe,,,,,Misc,N/A,
+5638428b-a88b-40ef-8acf-142ada4897b6,,"Hausa, Language",Hausa,,,,,Misc,N/A,
+10e93be0-d574-469e-9096-484cf946a5d8,,"Dagarti, Language",Dagarti,,,,,Misc,N/A,
+2064512d-6d60-4dd3-a81e-4886a197444e,,Preferred Language,,,,,,Question,Coded,"Eng, Language;
+Dangme, Language;
+Nzema, Language;
+Asante Twi, Language;
+Akuapem Twi, Language;
+Kasem, Language;
+Dagaare, Language;
+Dagbani, Language;
+Gonja, Language;
+Twl, Language;
+Fante, Language;
+Ga, Language;
+Ewe, Language;
+Hausa, Language;
+Dagarti, Language;"
+3f4bac18-7838-4444-ba15-67d4167d26ad,,Ghanaian,,,,,,Misc,N/A,
+b22356c0-ed52-4d85-8135-3b2c88d7dc4a,,Nigerian,,,,,,Misc,N/A,
+77eac51c-1ba1-4842-91a4-ddf70978685a,,Togolese,,,,,,Misc,N/A,
+3ade0ef8-e395-4fc7-9e46-6cec62063c9f,,Burkinabe,,,,,,Misc,N/A,
+01b61bc1-51fb-4345-8e2a-39d5e25c92e4,,Ivorian,,,,,,Misc,N/A,
+eb68706f-8fe3-4dd8-abba-4c54e2450ea1,,Other Nationality,,,,,,Misc,N/A,
+1289c2e3-0f4e-4e19-88b3-2065f8a1ff80,,Nationality,,,,,,Question,Coded,"Ghanaian ; 
+Nigerian ; 
+Togolese ; 
+Burkinabe ; 
+Ivorian ; 
+Other Nationality"
+86980a09-60be-475b-86cf-d2531b85437b,,Christian,,,,,,Misc,N/A,
+0ecb5a90-fe63-456f-8815-a4431bcdf74b,,Moslen,,,,,,Misc,N/A,
+9f7604bc-c259-4203-8a26-605715a8c412,,Traditionalist,,,,,,Misc,N/A,
+bec17192-43d4-4e30-8439-438519a03518,,"Atheist, Religion",Atheist,,,,,Misc,N/A,
+73c5a51d-2236-448d-bc05-91b671b0fe38,,Other Religion,,,,,,Misc,N/A,
+fe9549f4-2466-47ec-afc8-1928d90e5d47,,Patient Religion,Religion,,,,,Question,Coded,"Christian;
+Moslen;
+Traditionalist;Atheist, Religion;
+Other Religion"
+b62008b3-09a1-42ef-93fe-db2296ecd975,,"Parent, relationship",Parent,,,,,Misc,N/A,
+bd5c25c2-a5da-4baf-888d-fd0b2f2fad8c,,"Sibling, relationship",Sibling,,,,,Misc,N/A,
+937635d1-3d48-414f-b1d4-631fec7446ca,,"Uncle/Aunt, relationship",Uncle/Aunt,,,,,Misc,N/A,
+57a13f65-534a-4625-a0af-96dae3073bb2,,"Private Doctor(Medical), relationship",Private Doctor(Medical),,,,,Misc,N/A,
+85ddd52f-cd02-48ee-a242-d8395e054b1a,,"Private Doctor(Psychiatry), relationship",Private Doctor(Psychiatry),,,,,Misc,N/A,
+6f45da9b-cb50-4b52-8ba6-dedadde28cd8,,"Community Nurse, relationship",Community Nurse,,,,,Misc,N/A,
+e413b277-9acf-4c44-8af8-8da699b3edad,,"Pharmacy, relationship",Pharmacy,,,,,Misc,N/A,
+9b07e55f-99a0-48b3-af0a-c85a50ab4df7,,"Laboratory, relationship",Laboratory,,,,,Misc,N/A,
+81a5550a-4b79-4af7-9c10-142bca33f5ac,,"Psychologist/Counsellor, relationship",Psychologist/Counsellor,,,,,Misc,N/A,
+d655ee9a-5dbb-42d5-a486-eb296ee81cfd,,"Dentist, relationship",Dentist,,,,,Misc,N/A,
+09a2fc71-6268-46ff-a87e-11e4e2ede15b,,"Occupational Therapist, relationship",Occupational Therapist,,,,,Misc,N/A,
+acbf4a71-5857-4bea-9f84-5657d90296dd,,"Social worker, relationship",Social worker,,,,,Misc,N/A,
+4fbf050a-492b-44a3-909b-52dce019b079,,"Faith worker/Pastor, relationship",Faith worker/Pastor,,,,,Misc,N/A,
+4e2ae5a0-3c89-46ef-a874-a5f31a1ef198,,"Physiotherapist, relationship",Physiotherapist,,,,,Misc,N/A,
+832d94cf-1dc9-4d1a-ab86-5c8d61a5a442,,"Community support worker, relationship",Community support worker,,,,,Misc,N/A,
+cf8f666f-7471-4c03-8e5f-9d69821fd0b0,,relationship,Relationship Type,,,,,Question,Coded,"Parent, relationship;
+Sibling, relationship;
+Uncle/Aunt, relationship;
+Private Doctor(Medical), relationship;
+Private Doctor(Psychiatry), relationship;
+Community Nurse, relationship;
+Pharmacy, relationship;
+Laboratory, relationship;
+Psychologist/Counsellor, relationship;
+Dentist, relationship;
+Occupational Therapist, relationship;
+Social worker, relationship;
+Faith worker/Pastor, relationship;
+Physiotherapist, relationship;
+Community support worker, relationship;"
+7ccd31db-4bc9-40f0-b2ca-b53227db6a12,,NHIA,,,,,,Misc,N/A,
+f0192908-aed3-4610-9e65-ef822d8b1402,,Ghana Card,"Ghana Card ",,,,,Misc,N/A,
+d26b329a-1122-413b-af21-a984e0ebf061,,Passport,Passport,,,,,Misc,N/A,
+076809d9-0830-44c1-bf21-51fc3503d013,,Voters Card,Voters Card,,,,,Misc,N/A,
+c171a573-b8ef-4417-bca5-1f336a6f9f64,,Patient Identifier,Patient Identifier,,,,,Question,Coded,"NHIA;
+Ghana Card;
+Passport;
+Voters Card;"
+9f9519f7-bf1f-4a10-931a-a565ff3268fe,,Ewe,,,,,,Misc,N/A,
+6707ba4f-fa4e-4469-bf73-4da2950a78d8,,Ga,,,,,,Misc,N/A,
+e6f64436-a3ef-4d16-9c6e-119f8b6d4693,,Ga Adangme,,,,,,Misc,N/A,
+acb28dde-8a84-45ee-96af-52ebc99cedec,,Fante,,,,,,Misc,N/A,
+7e09b7e3-c9af-47af-9cfc-3d4085d261a6,,Nzema,,,,,,Misc,N/A,
+0461d287-1864-47f5-b57b-e162b66195ad,,Bono,,,,,,Misc,N/A,
+704f52ee-67ea-46ce-8bb0-b6a0306fe818,,Ashanti,,,,,,Misc,N/A,
+af76ec5a-40b4-4cb1-ae85-467c25fd9e07,,Akan - Other,,,,,,Misc,N/A,
+6a279247-362f-41d0-a685-cb9125d088d6,,Dagarti,,,,,,Misc,N/A,
+2f083e2e-e546-44c9-beb8-4482adb68e14,,Dagomba,,,,,,Misc,N/A,
+1a534c26-cd46-4a73-b7e8-7d0680cfc6c0,,Gonja,,,,,,Misc,N/A,
+cf7b7d0b-eb62-4829-a99b-567368ea7a85,,Sisaala,,,,,,Misc,N/A,
+6b382702-8074-49e5-8b47-7bf1ab18ae96,,Mamprusi,,,,,,Misc,N/A,
+29c74fee-40da-410a-ac64-b91263757887,,Kusasi,,,,,,Misc,N/A,
+790642a5-685c-46e8-8860-763b59a51075,,Hausa,,,,,,Misc,N/A,
+c5e752e2-4969-437b-a53b-b345c734a5f2,,Other tribe,,,,,,Misc,N/A,
+fdb2f017-ce26-4696-a391-c403e225b251,,Tribe,,,,,,Question,Coded,"Ewe;
+Ga;
+Ga Adangme;
+Fante;
+Nzema;
+Bono;
+Ashanti;
+Akan - Other;
+Dagarti;
+Dagomba;
+Gonja;
+Sisaala;
+Mamprusi;
+Kusasi;
+Hausa;
+Other tribe;"
+79bdb24a-a7ba-43a8-9efb-f6ece23eb9a0,,Dead?,,,,,,Question,Coded,Yes;No
+d1e05738-e1bb-4857-b498-d4d1ec799b6f,,Receive SMS Notification,,,,,,Question,Coded,Yes;No
+b11a8afa-783b-4cbe-ab84-55fef021fcff,,Rapid Malaria Test,Malaria Test,,,,,Question,Coded,Positive ; Negative
+9f51a6c9-9dca-4971-8a66-43d47811bddc,,Rapid Typhoid Test,Typhoid Test,,,,,Question,Coded,Positive ; Negative
+7b809436-b5de-457e-a928-490e9ce2c93b,,Rapid Blood Glucose,Blood Glucose,,,,,Question,Text,
+e91e633a-adc2-4831-b216-c6375379b1f0,,Rapid HIV Test,HIV Test,,,,,Question,Coded,Positive ; Negative
+f03466f4-d963-485d-bd13-a567099d05bc,,Rapid Red Blood Cells,Red Blood Cells,,,,,Question,Coded,Positive ; Negative
+2a9c8770-26b5-4044-9970-09adf0cfc067,,"Urinalysis, Leukocytes",Leukocytes,,,,,Question,Coded,Positive ; Negative
+0cc4d254-0fba-4ce9-866b-c50df15d0bbe,,"Urinalysis, Proteins",Proteins,,,,,Question,Coded,Positive ; Negative
+158be59e-c5d5-485b-b20d-1c54922d7fea,,"Urinalysis, Ketones",Ketones,,,,,Question,Coded,Positive ; Negative
+d16f4823-397f-4b18-9cdf-e647b1c49ece,,"Urinalysis, Urobilinogen",Urobilinogen,,,,,Question,Coded,Positive ; Negative
+2c5969d1-36c8-46cc-bcd6-b8bbbfdac806,,"Urinalysis, Nitrate",Nitrate,,,,,Question,Coded,Positive ; Negative
+0d288700-ee06-4eda-ae6a-35c22c7ed303,,"Urinalysis, pH",pH,,,,,Question,Text,
+a8ecd4a6-1803-4422-aabf-461a09d98761,,"Urinalysis, specific gravity",specific gravity,,,,,Question,Text,

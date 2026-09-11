@@ -1,0 +1,61 @@
+Uuid,Void/Retire,Same as mappings,Fully specified name:en,Fully specified name:fr,Short name:en,Short name:fr,Description:en,Description:fr,Data class,Data type,Complex data handler,Answers,Members,Allow decimals,Units,Normal low,Normal high,Absolute low,Absolute high,_version:1,_order:208
+5eef3029-53f1-44fc-9c0c-a199d781fb76,,,RSUR01A Reconstructive repair >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+cd419a20-4c86-426e-ad22-fcf379a023da,,,RSUR01C Reconstructive repair <12 Yrs,,,,,,Procedure,N/A,,,,,,,,,,,
+5811da2b-4bf1-46d8-a325-5e5a629db6cf,,,RSUR02A Shaving and Skin Grafting >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+27048f32-17b6-4459-b490-e83337854e4c,,,RSUR02C Shaving and Skin Grafting <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+18eb9ffa-2a66-4ef0-9acc-795ee6bdb8f5,,,RSUR03A Excisional Debridement and Dressing >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+3b54138b-ae72-4f9c-8f0c-19de7a6b9f4a,,,RSUR03C Excisional Debridement and Dressing <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+939e4eab-33bf-471f-96be-8d7da35e3904,,,RSUR04A Excisional Debridement with Suturing >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+f0be7a61-2252-47b0-8506-368c85c1fb5e,,,RSUR04C Excisional Debridement with Suturing <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+d6da2792-615b-42ee-9e26-6dc98a93d48e,,,RSUR05A Excisional Debridement with Skin Grafting >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+8b18a3e6-13e6-4566-afb0-9092a1bce712,,,RSUR05C Excisional Debridement with Skin Grafting <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+48ae705c-8414-4703-bec4-daeb374c886e,,,RSUR06A Excisional Debridement with Flap Reconstruction >=12 Yrs,,,,,,Procedure,N/A,,,,,,,,,,,
+e61684a8-fb22-4a01-9fa8-6441fbcf7e45,,,RSUR06C Excisional Debridement with Flap Reconstruction <12 Yrs,,,,,,Procedure,N/A,,,,,,,,,,,
+2ee127f6-7880-4bd2-bcd2-cb76b2bb2cb8,,,RSUR07A Excision Biopsy >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+cea1f899-c863-41e8-bf71-f9c01ad1fd71,,,RSUR07C Excision Biopsy <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+3fba2af8-91bd-484e-a1a0-60f786d37637,,,RSUR08A Escharotomy >=12 Yrs,,,,,,Procedure,N/A,,,,,,,,,,,
+44fb04e9-7dd6-48af-90ff-1d21e95b0ac6,,,RSUR08C Escharotomy <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+2c880c4e-9093-4674-94e5-259901923741,,,RSUR09A Z-plasty >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+25b2a5c0-d101-46e1-a485-31344a5492b4,,,RSUR09C Z-plasty <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+43194fcb-8d5c-4db4-bfc6-55a706d90905,,,RSUR10A Corrective Osteotomy >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+9fa0ef8e-044c-4586-ba1f-8069ad1706c1,,,RSUR10C Corrective Osteotomy <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+75d372f8-37ee-4f62-93a7-052d54681d76,,,RSUR11A Reconstruction >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+694ed260-8d8c-437f-82ce-6a9d3e9ab8fb,,,RSUR11C Reconstruction <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+6453c2f0-4d6f-4f77-a666-6cdfe641f666,,,RSUR12A Release/Excision and Split Skin Grafting >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+2dfb0558-b230-4e7a-9b39-6cad46f3bf6a,,,RSUR12C Release/Excision and Split Skin Grafting <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+85f08dd2-744d-4bc2-982a-8b295dc96a41,,,RSUR13A Release/Excision and Full thickness skin graft >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+876a4cfa-1c3c-4c69-aae0-70808ce97191,,,RSUR13C Release/Excision and Full thickness skin graft <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+36161e1e-205a-4667-b840-61d286eddcee,,,RSUR14A Debaulking >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+b3de7fea-1718-4c15-bab3-01fd9bb93df4,,,RSUR14C Debaulking <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+11732a20-f95d-471b-a360-d09ba8074762,,,RSUR15A Primary Suturing >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+6046024a-5265-40bf-8df7-31abc170d7e6,,,RSUR15C Primary Suturing <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+4b5a1be2-149a-4a06-975e-f581c144b569,,,Procedure (Reconstructive Surgery),,,,,,ConvSet,N/A,,,"RSUR01A Reconstructive repair >=12 Yrs;
+RSUR01C Reconstructive repair <12 Yrs;
+RSUR02A Shaving and Skin Grafting >=12 Yrs;
+RSUR02C Shaving and Skin Grafting <12 Yrs;
+RSUR03A Excisional Debridement and Dressing >=12 Yrs;
+RSUR03C Excisional Debridement and Dressing <12 Yrs;
+RSUR04A Excisional Debridement with Suturing >=12 Yrs;
+RSUR04C Excisional Debridement with Suturing <12 Yrs;
+RSUR05A Excisional Debridement with Skin Grafting >=12 Yrs;
+RSUR05C Excisional Debridement with Skin Grafting <12 Yrs;
+RSUR06A Excisional Debridement with Flap Reconstruction >=12 Yrs;
+RSUR06C Excisional Debridement with Flap Reconstruction <12 Yrs;
+RSUR07A Excision Biopsy >=12 Yrs;
+RSUR07C Excision Biopsy <12 Yrs;
+RSUR08A Escharotomy >=12 Yrs;
+RSUR08C Escharotomy <12 Yrs;
+RSUR09A Z-plasty >=12 Yrs;
+RSUR09C Z-plasty <12 Yrs;
+RSUR10A Corrective Osteotomy >=12 Yrs;
+RSUR10C Corrective Osteotomy <12 Yrs;
+RSUR11A Reconstruction >=12 Yrs;
+RSUR11C Reconstruction <12 Yrs;
+RSUR12A Release/Excision and Split Skin Grafting >=12 Yrs;
+RSUR12C Release/Excision and Split Skin Grafting <12 Yrs;
+RSUR13A Release/Excision and Full thickness skin graft >=12 Yrs;
+RSUR13C Release/Excision and Full thickness skin graft <12 Yrs;
+RSUR14A Debaulking >=12 Yrs;
+RSUR14C Debaulking <12 Yrs;
+RSUR15A Primary Suturing >=12 Yrs;
+RSUR15C Primary Suturing <12 Yrs;",,,,,,,,

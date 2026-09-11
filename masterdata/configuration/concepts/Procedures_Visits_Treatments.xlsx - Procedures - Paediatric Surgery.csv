@@ -1,0 +1,73 @@
+Uuid,Void/Retire,Same as mappings,Fully specified name:en,Fully specified name:fr,Short name:en,Short name:fr,Description:en,Description:fr,Data class,Data type,Complex data handler,Answers,Members,Allow decimals,Units,Normal low,Normal high,Absolute low,Absolute high,_version:1,_order:207
+ffefcfed-8b63-4fee-aef9-6a9de31353e5,,,PSUR01C Laparotomy and Resection <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+cebb8086-41d3-47e7-914f-36862eedf46a,,,PSUR02C Laparotomy and Excision Biopsy <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+5bfba5bb-b599-4994-8008-1d0ff715cff8,,,PSUR03C Laparotomy and surgery for upper renal anomalies <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+c56f13da-d8aa-49a3-b037-c1535961afc4,,,PSUR04C Excision Biopsy deep masses <12 Yrs,,,,,,Procedure,N/A,,,,,,,,,,,
+9a38c004-a2ef-4443-9f3a-5ebc80e686cd,,,PSUR05C Excision Biopsy Superficial masses <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+9870baa7-bf97-4054-a3bf-895573127b8e,,,PSUR06C Incision and Drainage GA <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+4644b2c8-f413-403f-8840-b7280b6cd374,,,PSUR07C Repair of Minor Abdominal Wall Defects <12 Yrs,,,,,,Procedure,N/A,,,,,,,,,,,
+18af935b-6431-4455-9784-dc8b8c588e44,,,PSUR08C Repair of Major Abdominal Wall Defects <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+a14a28b4-29e7-4132-85a7-9a9a2a8585bf,,,PSUR09C Exploratory Laparotomy <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+c70130b2-6cd0-4f75-8faf-d804f8244aed,,,PSUR10C Gastrostomy <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+4dc0c42f-d0d9-4d11-a910-7985e6e665de,,,PSUR11C Laparotomy with Repair <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+19ffdb6c-9f27-4320-8e10-fb80793ebeee,,,PSUR12C Laparotomy with Appendicectomy <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+2482ba7e-9b7f-48b2-a67d-c463efbc713c,,,PSUR14C Thoracotomy and oesophageal surgery <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+2ff20a44-d4f3-4678-96dc-4ddaeaf2fe30,,,PSUR15C Repair of Lower Urinary Tract Malformation <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+f7564c05-d83a-4b0f-a39d-16ccf9233f2a,,,PSUR16C Repair of Congenital Genito-Urinary Malformations <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+63ff1d73-c069-4aae-ae6c-b266ed0072bb,,,PSUR17C Surgery for anal conditions <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+abae0c8e-117a-4994-8670-9645fdfc04dc,,,PSUR18C Primary Closure and Repair <12 Yrs,,,,,,Procedure,N/A,,,,,,,,,,,
+86fbe847-49bf-4311-99ad-0aa58280fa60,,,PSUR19C Laparatomy for biliary surgery <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+1e3240cc-e2bd-458d-ac29-49e206cff4a6,,,PSUR20C Laparotomy with Separation <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+6e5375ed-b67b-499f-b8b3-ae32e8924ebf,,,PSUR21C Surgery of Scrotal contents and testes <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+92f23baf-6c01-4b2e-8e68-52552c8d44df,,,PSUR23C Laparotomy for Haemoperitoneum <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+f315534c-39c0-42f0-8f04-e8a128b8b170,,,PSUR24C Laparotomy with Enterostomy Formation and closure <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+a748a2ad-cc49-4424-a750-b531804de989,,,PSUR25C Posterior Sagittal Anorectoplasty (PSARP) <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+917febe1-af6e-4dce-b32f-d250988c436f,,,PSUR26C Burns - OPD Wound Dressing <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+2435ea87-0bb7-4eee-9bcd-bb97fa8d1553,,,PSUR27C Burns - Non operative Management - Inpatient <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+554e3c7b-34ee-43b6-9b56-5621cdc0aa83,,,PSUR28C Surgery for Burns <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+0b4f4730-4d30-4646-9ffe-ea192edc8d87,,,PSUR29C Minor Surgery for Sexual Assault <12 Yrs,,,,,,Procedure,N/A,,,,,,,,,,,
+33fdb8d0-8b55-4941-9da0-4738de9f3caf,,,PSUR30C Major Surgery for Sexual Assault <12 Yrs,,,,,,Procedure,N/A,,,,,,,,,,,
+ca7bad32-a856-4805-a342-6e06221a25ae,,,PSUR31C Laparotomy with anastomosis <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+38d2963e-37a0-46f7-8e0e-1e67be222996,,,PSUR33C Endoscopic surgery for bleeding oesophageal varices <12 Yrs,,,,,,Procedure,N/A,,,,,,,,,,,
+4f01f411-2230-49a0-b7c2-486798cb5013,,,PSUR34C Thoracostomy and chest tube insertion <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+646e1db0-2a9b-470d-8395-3f30fc63e75e,,,PSUR35C Vascular Surgery Operations <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+033bc78d-e7a3-41ed-a93a-df66ad3d3443,,,PSUR36C Conservative management of surgery ,,,,,,Procedure,N/A,,,,,,,,,,,
+9b5b9d70-e770-4894-ae0b-e325a899e8a0,,,PSUR37C Surgery for removal of finger/toe <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+8dda337f-a0fe-4856-8131-86ded12774a9,,,PSUR38C Surgery for amputation of hand/foot (through or below ankle or wrist joint) < 12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+6eb0117a-ac32-4e65-aed8-a2b2874fb3ad,,,"PSUR39C Amputation below or through elbow or knee, through proximal joints or for the complete removal of limb <12 Yrs  ",,,,,,Procedure,N/A,,,,,,,,,,,
+702e5021-b6db-4c69-9b1f-d813dfffc258,,,Procedure (Paediatric Surgery),,,,,,ConvSet,N/A,,,"PSUR01C Laparotomy and Resection <12 Yrs;
+PSUR02C Laparotomy and Excision Biopsy <12 Yrs;
+PSUR03C Laparotomy and surgery for upper renal anomalies <12 Yrs;
+PSUR04C Excision Biopsy deep masses <12 Yrs;
+PSUR05C Excision Biopsy Superficial masses <12 Yrs;
+PSUR06C Incision and Drainage GA <12 Yrs;
+PSUR07C Repair of Minor Abdominal Wall Defects <12 Yrs;
+PSUR08C Repair of Major Abdominal Wall Defects <12 Yrs;
+PSUR09C Exploratory Laparotomy <12 Yrs;
+PSUR10C Gastrostomy <12 Yrs;
+PSUR11C Laparotomy with Repair <12 Yrs;
+PSUR12C Laparotomy with Appendicectomy <12 Yrs;
+PSUR14C Thoracotomy and oesophageal surgery <12 Yrs;
+PSUR15C Repair of Lower Urinary Tract Malformation <12 Yrs;
+PSUR16C Repair of Congenital Genito-Urinary Malformations <12 Yrs;
+PSUR17C Surgery for anal conditions <12 Yrs;
+PSUR18C Primary Closure and Repair <12 Yrs;
+PSUR19C Laparatomy for biliary surgery <12 Yrs;
+PSUR20C Laparotomy with Separation <12 Yrs;
+PSUR21C Surgery of Scrotal contents and testes <12 Yrs;
+PSUR23C Laparotomy for Haemoperitoneum <12 Yrs;
+PSUR24C Laparotomy with Enterostomy Formation and closure <12 Yrs;
+PSUR25C Posterior Sagittal Anorectoplasty (PSARP) <12 Yrs;
+PSUR26C Burns - OPD Wound Dressing <12 Yrs;
+PSUR27C Burns - Non operative Management - Inpatient <12 Yrs;
+PSUR28C Surgery for Burns <12 Yrs;
+PSUR29C Minor Surgery for Sexual Assault <12 Yrs;
+PSUR30C Major Surgery for Sexual Assault <12 Yrs;
+PSUR31C Laparotomy with anastomosis <12 Yrs;
+PSUR33C Endoscopic surgery for bleeding oesophageal varices <12 Yrs;
+PSUR34C Thoracostomy and chest tube insertion <12 Yrs;
+PSUR35C Vascular Surgery Operations <12 Yrs;
+PSUR36C Conservative management of surgery;
+PSUR37C Surgery for removal of finger/toe <12 Yrs;
+PSUR38C Surgery for amputation of hand/foot (through or below ankle or wrist joint) < 12 Yrs;
+PSUR39C Amputation below or through elbow or knee, through proximal joints or for the complete removal of limb <12 Yrs; ",,,,,,,,

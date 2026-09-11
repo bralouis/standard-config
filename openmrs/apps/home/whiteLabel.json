@@ -42,21 +42,21 @@
 			"linkPrefix": "payments"
 		},
 		{
-			"enabled": true,
+			"enabled": false,
 			"name": "connect",
 			"title": "Connect",
 			"logo": "/bahmni/images/connect.png",
 			"link": "/bahmni-connect"
 		},
 		{
-			"enabled": true,
+			"enabled": false,
 			"name": "dcm",
 			"title": "Radiology",
 			"logo": "/bahmni/images/pac.png",
 			"link": "/dcm4chee-web3"
 		},
 		{
-			"enabled": true,
+			"enabled": false,
 			"name": "metabase",
 			"title": "Analytics",
 			"logo": "/bahmni/images/analytics.png",

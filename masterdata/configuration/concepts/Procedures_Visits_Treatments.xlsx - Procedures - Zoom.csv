@@ -1,0 +1,29 @@
+Uuid,Void/Retire,Same as mappings,Fully specified name:en,Fully specified name:fr,Short name:en,Short name:fr,Description:en,Description:fr,Data class,Data type,Complex data handler,Answers,Members,Allow decimals,Units,Normal low,Normal high,Absolute low,Absolute high,_version:1,_order:209
+9e03fe88-889b-4f3d-b5f4-f167b5a5e3a1,,,ZOOM01A Endoscopy (Rigid & Flexible) >=12 Yrs,,,,,,Procedure,N/A,,,,,,,,,,,
+911571b6-2414-4354-9ce1-48c9d05af588,,,ZOOM01C Endoscopy (Rigid & Flexible) <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+e671b723-c4b3-4da5-ad90-c00813334c9d,,,ZOOM02A Detention for Observation and Treatment - Adult ,,,,,,Procedure,N/A,,,,,,,,,,,
+9f6f9d21-86e1-4030-bde3-19812f4f6e29,,,ZOOM02C Detention for Observation and Treatment - Child ,,,,,,Procedure,N/A,,,,,,,,,,,
+b5de8a52-9a63-45d2-80b7-ebfa303803b4,,,ZOOM03A Inpatient transfer out/Referral- Adult ,,,,,,Procedure,N/A,,,,,,,,,,,
+b75d80a6-1ba2-4cfe-9c73-00988168531e,,,ZOOM03C Inpatient transfer out/Referral- Child ,,,,,,Procedure,N/A,,,,,,,,,,,
+2fe5f37a-7ed3-42e5-8059-8375e3f1ac83,,,ZOOM04A Change of Catheter >= 12 Yrs,,,,,,Procedure,N/A,,,,,,,,,,,
+fc5c3db7-737c-4803-a0ea-0713955c6696,,,ZOOM04C Change of Catheter <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+f7bfd166-61dd-4bb2-b9f0-071da8c6dd8a,,,ZOOM05A Change of Dressing >= 12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+8dcbae2c-155f-4041-a5b8-4eb8a021682d,,,ZOOM05C Change of Dressing < 12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+92802f9e-45c2-47ce-afa4-1d7f5ba1ccf1,,,ZOOM06A Male Circumcision >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+f9db6285-d00b-4a02-9bcb-f0606871e63f,,,ZOOM06C Male Circumcision <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+b4511346-ad31-4ef3-87fd-4539de33a1f6,,,ZOOM07A Dressing And Minor Suturing >=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+3a18111b-7dd9-48a5-bcbc-18b2b2a17ca9,,,ZOOM07C Dressing And Minor Suturing <=12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+b5544864-dd75-4b58-8213-763c066afd5d,,,Procedure (Zoom),,,,,,ConvSet,N/A,,,"ZOOM01A Endoscopy (Rigid & Flexible) >=12 Yrs;
+ZOOM01C Endoscopy (Rigid & Flexible) <12 Yrs;
+ZOOM02A Detention for Observation and Treatment - Adult;
+ZOOM02C Detention for Observation and Treatment - Child;
+ZOOM03A Inpatient transfer out/Referral- Adult;
+ZOOM03C Inpatient transfer out/Referral- Child;
+ZOOM04A Change of Catheter >= 12 Yrs;
+ZOOM04C Change of Catheter <12 Yrs;
+ZOOM05A Change of Dressing >= 12 Yrs;
+ZOOM05C Change of Dressing < 12 Yrs;
+ZOOM06A Male Circumcision >=12 Yrs;
+ZOOM06C Male Circumcision <12 Yrs;
+ZOOM07A Dressing And Minor Suturing >=12 Yrs;
+ZOOM07C Dressing And Minor Suturing <=12 Yrs;",,,,,,,,

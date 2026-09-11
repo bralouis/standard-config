@@ -1,0 +1,14 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:35,Data class,Data type,Answers
+f999da4a-d8cc-11eb-b8bc-0242ac130003,,"Date/Time Patient was Sectioned ",,,,,,Misc,Datetime,
+f999dc98-d8cc-11eb-b8bc-0242ac130003,,Section Number,,,,,,Misc,Text,
+f999dd88-d8cc-11eb-b8bc-0242ac130003,,Mental Health Tribunal Notified,,,,,,Question,Boolean,
+f999de46-d8cc-11eb-b8bc-0242ac130003,,Planned Section Review Date,,,,,,Misc,Date,
+81dbd1ca-3f10-11e4-adec-0800271c1b75,,"Outcome of Appeal Against Section, DISCHARGE",Discharge,,,,,Misc,N/A,
+f999df04-d8cc-11eb-b8bc-0242ac130003,,Revoked,,,,,,Misc,N/A,
+f999dfb8-d8cc-11eb-b8bc-0242ac130003,,Upheld,,,,,,Misc,N/A,
+f999e06c-d8cc-11eb-b8bc-0242ac130003,,"Outcome of Appeal Against Section ",,,,,,Question,Coded,"Upheld; Revoked;Outcome of Appeal Against Section, DISCHARGE
+
+"
+f999e120-d8cc-11eb-b8bc-0242ac130003,,Tribunal Hearing,,,,,,Misc,Date,
+f999e3aa-d8cc-11eb-b8bc-0242ac130003,,Section Lapse/Discharge DateTime,,,,,,Misc,Datetime,
+f999e45e-d8cc-11eb-b8bc-0242ac130003,,Other MHA-Related Info,,,,,,Misc,Text,

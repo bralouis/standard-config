@@ -1,0 +1,25 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:23,Data class,Data type,Answers
+5404ce65-dba1-4ca7-8f50-cad1802ca6ef,,Date/Time of Serious Incident,,,,,,Question,Datetime,
+88d6092c-63fb-414a-b800-006c4c50bb7c,,During Phonecall,,,,,,Misc,N/A,
+61c443fe-6a8c-4df7-b8bb-0c05a55afecf,,Outpatients Dept.,,,,,,Misc,N/A,
+10d4212d-8cf2-469e-b943-242c6a3c7da8,,Inpatient Ward/Office,,,,,,Misc,N/A,
+13abe9b1-a434-478d-8028-a4a830ebb481,,Patient's Home,,,,,,Misc,N/A,
+a6d1db95-0834-4325-b864-9cb41f2d8239,,Outside Patient's Home,,,,,,Misc,N/A,
+c2336e8e-7172-445c-95de-8380fd1f91f5,,Place of Serious Incident,,,,,,Question,Coded,"During Phonecall ; 
+Outpatients Dept. ; 
+Inpatient Ward/Office ;
+Patient's Home ; 
+Outside Patient's Home"
+f94f2b74-f0cb-4d3c-875d-4ce69cb59669,,Does incident involve a staff?,,,,,,Question,Boolean,
+d626b771-9af9-4367-bcdb-d3cb6bbb22c4,,Details of Serious Incident ( Attach photo below),,,,,,Question,Text,
+3428445c-d0ac-4dbc-8b05-2820b8370d04,,No Further Action,,,,,,Misc,N/A,
+d6f0963f-a752-40d6-82af-5d83350ff339,,Reported to Admin,,,,,,Misc,N/A,
+03fb9c38-c169-4903-82ed-3bab780af921,,Reported to Police,,,,,,Misc,N/A,
+bb5c5eb1-4905-4caa-9d21-b4d3c032d011,,Other Action taken (Specify),Others Specify,,,,,Misc,N/A,
+cb83ed8c-acae-496b-a998-54e3aed472d8,,Action Taken Following Incident,,,,,,Question,Coded,"No Further Action ; 
+Reported to Admin ; 
+Reported to Police ; 
+Other Action taken (Specify) "
+9c6e5da9-9bfa-4944-86a6-dd933404584f,,Other Action Taken (Please specify),Specify,,,,,Question,Text,
+3096a994-ed93-4560-a34c-fe50e30e27fd,,Risk assessment done and documented?,,,,,,Question,Boolean,
+2db813d6-83bf-4f6f-9657-786b35c81f6e,,Serious incident Report,,,,,,Misc,N/A,

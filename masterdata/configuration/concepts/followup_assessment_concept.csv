@@ -1,0 +1,68 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:17,Data class,Data type,Answers
+78e78bec-f2b4-4d89-bd23-5016ee99a25f,,Date of discharge from hospital,,,,,,Question,Date,
+037bcd04-5035-471d-88ba-8a73240f6e13,,Persistence of mood or psychotic symptoms,,,,,,Question,Text,
+3d4ff566-efc4-49fc-9bab-9ddf36dcdd0b,,Emerging or new psychiatric symptoms?,,,,,,Question,Text,
+142152BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,Compliance good,,,,,,Misc,N/A,
+19ae1139-1ad3-4d31-add1-d59f4a1f48cb,,"ER General Notes, Non Compliance",Compliance poor,,,,,Misc,N/A,
+f0b536b6-4908-43ad-95e8-ed087836cacc,,Compliance mixed,,,,,,Misc,N/A,
+5ea03995-40de-4e62-b243-9af5e6478579,,Compliance with medications,,,,,,Question,Coded,"Compliance good ; 
+ER General Notes, Non Compliance ;
+Compliance mixed"
+41437BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,Dry Eyes,Dry eye,,,,,Misc,N/A,
+102323BBBBBBBBBBBBBBBBBBBBBBBBBBBBBA,,"Dry Mouth, Side effects of medications","Dry Mouth (Dry mouth, unspecified)",,,,,Misc,N/A,
+576e3dc5-83a1-4d5a-911d-ada45778ccba,,"Increased Appetite, Side effects of medications",Increased Appetite,Increased Appetite,,,,Misc,N/A,
+82ccc128-d568-4364-89aa-bf75caa3ab10,,Drowsiness,,Drowsiness,,,,Misc,N/A,
+40476852-8e38-4461-8ed6-08ac3c28f1d4,,"Blurred Vision, Side effects of medications",Blurred vision,Blurred Vision,,,,Misc,N/A,
+2668BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBA,,"Weight gain, Side effects of medications",Weight gain,Weight Gain,,,,Misc,N/A,
+e145a566-4e14-11e4-8a57-0800271c1b75,,"Psychosexual dysfunction., unspec.","Sedative, Hypnotic and/or Anxiolytic-Induced Sexual Dysfunction",Sexual Dysfunction,,,,Misc,N/A,
+1e233bb7-4e15-11e4-8a57-0800271c1b75,,"Constipation, Side effects of medications",Constipation,Constipation,,,,Misc,N/A,
+212d295f-4e15-11e4-8a57-0800271c1b75,,"Palpitations, Side effects of medications","Palpitations
+",Palpitations,,,,Misc,N/A,
+7aba59e1-ed2d-4968-9e09-1ba177ed4f4f,,"Dizziness, Side effects of medications",Dizziness,Dizziness,,,,Misc,N/A,
+e4ec4d56-4e14-11e4-8a57-0800271c1b75,,"Hypotension,Orthostatic","Hypotension,Orthostatic","Hypotension,Orthostatic",,,,Misc,N/A,
+33ead84c-9395-408d-ad59-763a79108c66,,"Weakness, Side effects of medications",Lethargy,Feeling lethargic or Slowed down,,,,Misc,N/A,
+33537BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBA,,"Muscle Rigidity, Side effects of medications",Rigidity,,,,,Misc,N/A,
+17165BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBA,,"Rubral Tremors, Side effects of medications",Tremors,,,,,Misc,N/A,
+e353f85f-4e14-11e4-8a57-0800271c1b75,,"Restless legs syndrome, Side effects of medications",Restless Legs Syndrome,Motor Restlessness,,,,Diagnosis,N/A,
+85987BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBA,,"Tardive Dyskinesia, Side effects of medications",Tardive Dyskinesia,,,,,Diagnosis,N/A,
+0a7d2258-6737-4d22-8958-0e22f17f68c9,,Side effects of medications,,,,,,Question,Coded,"Dry Eyes;
+Dry Mouth, Side effects of medications;
+Increased Appetite, Side effects of medications;
+Drowsiness;
+Blurred Vision, Side effects of medications;
+Weight gain, Side effects of medications;
+Psychosexual dysfunction., unspec.;
+Constipation, Side effects of medications;
+Palpitations, Side effects of medications;
+Dizziness, Side effects of medications;
+Hypotension,Orthostatic;
+Weakness, Side effects of medications;
+Muscle Rigidity, Side effects of medications;
+Rubral Tremors, Side effects of medications;
+Restless legs syndrome, Side effects of medications;
+Tardive Dyskinesia, Side effects of medications;"
+ba297bbd-b4ca-40cd-be82-6299edabb08d,,Feedback from carer,,,,,,Question,Text,
+544cb5e4-eef5-4ae1-9c83-89bd74fd2c4d,,Comment on social and occupational functioning,,,,,,Question,Text,
+135436BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,WHODAS,WHO Disability Assessment Schedule 2.0 Score,,,,,Question,Numeric,
+0dcd07f3-3a00-42f7-a72c-b1f86ceb6db0,,Moderate Risk,,,,,,Misc,N/A,
+c673bf1d-f09b-44e1-a180-0766b844ae80,,Overall assessment of risk,,,,,,Question,Coded,Low Risk ; Moderate Risk ; High Risk
+844528d1-48d7-447d-ba5b-00ab54835e06,,No Changes,,,,,,Misc,N/A,
+988e4f1a-0b56-4bf6-927e-c6bcf3e7b4ad,,Arrange OPD Review,,,,,,Misc,N/A,
+669ddb23-9cb9-4171-9e33-bf8acdd26453,,Arrange MHA assessment,,,,,,Misc,N/A,
+4400f84d-c570-4073-8ad1-7acfd55a0960,,Refer To psychologist,,,,,,Misc,N/A,
+5d8fe310-0b59-42b1-9b3a-004c817fa06c,,Refer To Social Services,,,,,,Misc,N/A,
+37740a7a-1fc4-4f68-aefb-2b70182a22cb,,Refer To Occupational Therapist,,,,,,Misc,N/A,
+aaeaa0c1-0608-49c0-b5ae-b54b51f8c597,,Require Intensive Home Support,,,,,,Misc,N/A,
+c1d87a0b-d63b-4a7a-b3a0-2670bcfb42a3,,Refer To Medical Assessment,,,,,,Misc,N/A,
+00ad0601-b220-40e7-9b48-c0fe0bb86238,,Other coutcomes (Please specify),Please Specify,,,,,Misc,N/A,
+5c752cab-97e0-49d1-a0b7-6aa433f1dd9e,,Outcome of follow-up assessment,,,,,,Question,Coded,"No Changes ;
+Arrange OPD Review ; 
+Arrange MHA assessment ; 
+Refer To psychologist ; 
+Refer To Social Services ; 
+Refer To Occupational Therapist ; 
+Require Intensive Home Support ; 
+Refer To Medical Assessment ; 
+Other coutcomes (Please specify)"
+00ad0601-b220-40e7-9b48-c0fe0bb86212,,Specify Other coutcomes (Please specify),Specify,,,,,Question,Text,
+00ad0601-b220-40e7-9b48-c0fe0bb86223,,Follow up Assessment,,,,,,Misc,N/A,

@@ -1,0 +1,62 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:15,Data class,Data type,Answers
+cfa48190-b2bf-4797-99ef-26ccd6f04d2c,,Date/Time of VTE assessment,,,,,,Question,Datetime,
+48c4a356-ec05-4886-828a-72a05c3d9b53,,Venothrombotic Episode,,,,,,Question,Boolean,
+691580e9-38b1-4eba-b00d-654ef9cf176a,,At admission,,,,,,Misc,N/A,
+01b4040f-969c-4154-863b-27b6ba524ef3,,24 hours after admission,,,,,,Misc,N/A,
+b2ce475c-4a3b-48ba-abc3-cd95383dc1e1,,Initiating a medications that increases VTE risk,,,,,,Misc,N/A,
+7ec4216c-c52e-4a95-b2f8-35daba2ef97a,,Change in clinical presentation,,,,,,Misc,N/A,
+38b8cebf-7eb8-483f-90c8-b42bf3a8ad0b,,Point of Completion of VTE risk assessment,,,,,,Question,Coded,"At admission;
+24 hours after admission;
+Initiating a medications that increases VTE risk;
+Change in clinical presentation"
+36bcdf60-9f1b-4b4e-8d61-d37ffaf67430,,Patient's mobility,,Has there been  a significant recent change or expected to be a significant change in the level of mobility of the patient compared to their normal?,,,,Question,Boolean,
+fd872b09-42a9-445d-b129-10718a706a34,,Low VTE risk,,,,,,Misc,N/A,
+e7e5140f-766a-40a1-9477-76904864c5ae,,Moderate VTE risk,,,,,,Misc,N/A,
+d0403047-893b-4317-947b-895f052a7c81,,High VTE risk,,,,,,Misc,N/A,
+2253ce70-570d-430f-8715-5bfddb31cf16,,Risk of VTE,,,,,,Question,Coded,"Low VTE risk;
+Moderate VTE risk;
+High VTE risk"
+7b5de721-d73f-4844-b039-0d206ea20f2a,,Significantly reduced mobility for 3 days or more,,,,,,Misc,N/A,
+e987f2e5-4ee9-4770-9b3f-f3bfdeb2f4d9,,Active cancer or cancer treatment,,,,,,Misc,N/A,
+fe05c55b-e79e-4750-8457-cdf40607f1e6,,Thrombosis risk - Dehydration,Dehydration,,,,,Misc,N/A,
+bc0ee9a3-f098-4466-9024-3bbeb9556c95,,Known thrombophilias,,,,,,Misc,N/A,
+97e9c00e-03d5-4fc5-8ada-9a8c10e61b26,,Obesity (BMI greater than 30kg/m2),,,,,,Misc,N/A,
+c5583a8d-abd6-4093-9a5e-5e3206b5768d,,Personal history or first-degree relative with a history of VTE,,,,,,Misc,N/A,
+308ab1c6-34f4-4284-8c81-432ee9eee487,,Recent surgery with significant reduction in mobility,,,,,,Misc,N/A,
+443f30f7-0d33-4339-a69b-d8ac22b28f16,,Use of hormone replacement therapy (HRT) or oestrogen-containing contraceptive therapy,,,,,,Misc,N/A,
+19c65fe6-de54-405f-a9b5-39db85c5b95c,,Use of antipsychotics,,,,,,Misc,N/A,
+2677e54d-c3b2-4b53-a12d-1141f0373646,,One or more significant medical co-morbidities,," medical co-morbidities( heart disease; metabolic, endocrine or respiratory pathologies; acute infectious diseases; inflammatory conditions)",,,,Misc,N/A,
+77dd64e5-7079-4f73-89ce-ae3ca81c9b2f,,Thrombosis risk,,Does the patient have the following that will result in a increased risk of thombosis?,,,,Question,Coded,"Significantly reduced mobility for 3 days or more;
+Active cancer or cancer treatment;
+Thrombosis risk - Dehydration ; 
+Known thrombophilias;
+Obesity (BMI greater than 30kg/m2);
+Personal history or first-degree relative with a history of VTE;
+Recent surgery with significant reduction in mobility;
+Use of hormone replacement therapy (HRT) or oestrogen-containing contraceptive therapy;
+Use of antipsychotics;One or more significant medical co-morbidities"
+c007aeac-0471-4c13-b2a6-0f4892f0db4e,,Active GI bleeding or risk of GI bleed,,,,,,Misc,N/A,
+becbb252-fc87-4aa3-9ec5-c5ee79a7f315,,Acquired bleeding disorders (such as acute liver failure),,,,,,Misc,N/A,
+e199c680-8a9a-440b-858e-7eb20510e7dd,,Concurrent use of anticoagulants known to increase the risk of bleeding (such as Warfarin with INR > 2),,,,,,Misc,N/A,
+7bc8c14f-e4a2-4974-9799-9ff4f77b2a8a,,Thrombocytopenia,Thrombocytopenia platelets less than 75 x 10 Ʌ 9/l,,,,,Misc,N/A,
+4c947c71-68e5-4672-85ea-4eb54609c794,,Acute stroke,,,,,,Misc,N/A,
+0ec63afe-f3ab-4962-9084-a1ee5f7681fa,,Uncontrolled systolic hypertension (>= 230/120 mmHg),,,,,,Misc,N/A,
+b5df9bf9-63a6-49b0-9c9f-a7d8ad4cec18,,Untreated inherited bleeding disorders (such as haemophilia or von Willebrand's disease),,,,,,Misc,N/A,
+df941a74-d850-4f16-8667-825b859ded51,,Other conditions with high risk of serious bleed,,,,,,Misc,N/A,
+9e7d2890-6189-4668-8c3b-79f94334f5de,,Bleeding risk,," Does the patient have the following conditions that will result in a increased risk of bleeding?",,,,Question,Coded,"Active GI bleeding or risk of GI bleed ; 
+Acquired bleeding disorders (such as acute liver failure) ; 
+Concurrent use of anticoagulants known to increase the risk of bleeding (such as Warfarin with INR > 2) ;
+Acute stroke ;
+Uncontrolled systolic hypertension (>= 230/120 mmHg); Thrombocytopenia ; 
+Untreated inherited bleeding disorders (such as haemophilia or von Willebrand's disease);
+Other conditions with high risk of serious bleed"
+b4f3e94e-3fd6-4705-ab83-94b98cf4db0e,,High risk patient identified?,,,,,,Question,Boolean,
+f27e5983-3f3d-4634-91cc-e5c8a68b73d0,,Early mobilisation (Encourage patients to mobilise as soon as possible),,,,,,Misc,N/A,
+c5170077-59b1-46a0-b156-47f4e1cc3f70,,Consider mechanical VTE prophylaxis (e.g. Elastic stockings),,,,,,Misc,N/A,
+9fec7b1a-496c-4646-93bc-c059740c6001,,Pharmacological VTE prophylaxis  (Do not regard aspirin or other anti-platelet agents as adequate prophylaxis for VTE),,,,,,Misc,N/A,
+871dc658-94c2-4da0-b3ba-0a8ce914ec7d,,Any risks identified refer the patient to the relevant Acute Hospital department,,,,,,Misc,N/A,
+650c8513-c796-4d19-a8a1-46ff1458450a,,Recommended prophylaxis,,,,,,Question,Coded,"Early mobilisation (Encourage patients to mobilise as soon as possible) ; 
+Consider mechanical VTE prophylaxis (e.g. Elastic stockings) ; 
+Pharmacological VTE prophylaxis  (Do not regard aspirin or other anti-platelet agents as adequate prophylaxis for VTE) ; 
+Any risks identified refer the patient to the relevant Acute Hospital department"
+aab8d525-0764-4cd4-855b-3fdab1087c9b,"","VTE Assessment ","","","","","",Misc,N/A,""

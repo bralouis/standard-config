@@ -1,0 +1,97 @@
+Uuid,Void/Retire,Name
+a3cb2fc8-f341-4452-9cde-37bc6e5a95e6,,Anesthetics
+035a73d7-13ba-4343-aba1-56f20bcc192b,,Audiological medicine
+ecbccccb-a5d9-4c89-b4a7-d74212e77c67,,Transfusion medicine
+93927945-02bd-4a5f-8edf-1ec58658d51a,,Burns care
+6cbe5b35-bf9c-4098-8cf4-56ccc39ab8ee,,Cardiology
+9e1fdd53-8a6c-4a83-bca5-8aa0c74312d7,,Clinical genetics
+a9d431d2-9876-4394-9edd-257edd45fcdd,,Clinical hematology
+8ef74919-5bb7-43f8-9ae4-80a4031b6bd9,,Clinical immunology
+76ed432a-65a6-4737-8081-67d1cf20e76f,,Clinical microbiology
+b790d9ca-df4d-462e-a503-a41ff2c30d17,,Clinical neurophysiology
+34e9c2c5-4c4c-40f3-8d29-94ef0bc1bf18,,Clinical oncology
+722f9784-8440-421d-8e1a-a36ef26de102,,Clinical pharmacology
+4416b064-737f-4b80-9b1c-ffd2b7a7028a,,Clinical physiology
+529a84fa-ca6a-43b8-a594-ff61cbf733db,,Community medicine
+d2ccd21b-a363-4ee4-ae05-4fc988efdecf,,Critical care medicine
+642adbe6-312c-4669-85f5-10207318eaec,,Dental medicine
+d1da7820-c719-40cb-899f-f915425a1e83,,General dental
+ab5d4433-2591-4660-b0d2-384b1f24ee90,,Dermatology
+53ac3238-ba47-44d5-aa7b-1977b5da6e09,,Endocrinology
+5235ca12-dcf9-46e8-929c-8024deb0a9be,,Family practice
+ef4085d2-cfc8-4af8-a3c1-8c91de41f7ac,,Gastroenterology
+85062fd7-06a3-457e-ba17-5227053357b1,,General medicine
+ead4e5cf-4dd3-4703-b997-7585ef055a08,,General pathology
+42b18a91-5f8e-4c03-99bc-39f75f8e66f4,,General practice
+39bd687b-660b-48b2-9296-fe3ca1eba836,,Genitourinary medicine
+f18858b5-1189-49a3-80f1-132f0c05e404,,Geriatric medicine
+064c47b9-b0c1-4c9a-9e46-46422016b0d4,,Gynecological oncology
+dd4143aa-8aed-46c0-8a91-6b41beee7ffa,,Gynecology
+ece37417-b4c6-4ca9-83eb-cd6c22791ad8,,Hematopatology
+cf3c9f1e-cc90-4e9b-8c7f-e5781a749f11,,Hepatology
+15dc4df9-9aee-4c39-8917-823207b0b76d,,Histopathology
+f1ae2f67-3ef9-4ff0-9e2c-0e9cc971c03e,,Immunopathology
+fdc178bd-75ac-4796-9704-4fb2a8c9718f,,Infectious disease
+94378f9b-4d86-4c79-abac-e0987bddc33e,,Internal medicine
+bc7d06db-1225-450d-bb34-0e4d995e5191,,Medical oncology
+023565f8-89fe-414d-8060-27393994bf04,,Medical ophthalmology
+0598597e-74fe-47b8-9f5b-55a78f8d1920,,Nephrology
+aa20643d-53b2-4e87-b1b4-f8edbc71f442,,Neurology
+7fdf718a-948d-46a2-9dbb-b42e9d77b988,,Neuropathology
+8b7344e6-1848-4c7a-b47d-e47f76647a11,,Nuclear medicine
+2a4d688d-eecc-4a54-a635-8d22e3dd0695,,Obstetrics
+dfff23b0-e7da-41d9-971a-84414a513450,,Obstetrics and gynecology
+81888d27-9896-4e64-a72b-7275219bf1e8,,Occupational medicine
+eb4e4621-9bd6-4ebc-a2fc-b24d81b4f7dc,,Ophthalmic surgery
+c084f783-3fc0-43e5-8f0b-830e7d05b5c3,,Ophthalmology
+531ea27c-2f1d-4e8c-b52a-52e5f21ad631,,Otolaryngology
+6472e650-377c-456e-9c29-fc3df14bf330,,Pain management
+33917ccd-f3de-4453-9b70-ddf96135ecbd,,Palliative medicine
+30143770-4ec6-47c9-a39f-173dfded5c23,,Pediatric psychiatry
+43452737-f948-4bb5-8aed-6b93b881f30b,,Pediatric cardiology
+2f225e91-9a20-4712-b961-938277c7caf5,,Pediatric dentistry
+09cd9cee-1060-47e8-8c97-b10b31378755,,Pediatric endocrinology
+c7365307-2c15-427e-bc84-3e45f3f75cec,,Pediatric gastroenterology
+37aedc5d-95ce-46e3-bc9c-43263720c901,,Pediatric genetics
+a8459d8a-145f-4f64-bccb-d97b178200d5,,Pediatric hematology
+b686f6f9-689b-4ad0-8054-931067589c7b,,Pediatric immunology
+b323e45b-16cf-4bba-b7c7-bb04902b4db8,,Pediatric infectious diseases
+d86dec20-abea-43e2-b38c-08d94afa34d2,,Pediatric nephrology
+6be1f597-6d5c-45c7-974b-83ed47e0f33d,,Pediatric oncology
+c6f7a005-57cc-4cd5-937d-d881b1b14ec5,,Pediatric ophthalmology
+e7840385-b33b-489c-bc49-887261b9d5dc,,Pediatric pulmonology
+64bc7d7c-23d1-4a00-b3bb-e57f45b6bdac,,Pediatrics
+c7e32d22-1c3a-4b16-93f1-6be8b36f2278,,Pediatric rheumatology
+f61b1e83-ae55-425f-8c91-2a3f0d1d3b8d,,Pediatric surgery
+5382be06-e1dd-4c25-9651-8720d68af5ee,,Preventive medicine
+d519a3d6-5ca0-41d8-a9b4-431fea947adb,,Psychiatry (General Adult)
+d9a9c784-7381-470b-a33d-81d243fd7cc6,,Psychiatry (Older Adult)
+bc760d9c-e1cb-4893-9d17-baef8da33b96,,Psychotherapy
+3564e20e-99ba-477e-8ba8-75505d56a932,,Public health medicine
+cb775b6f-3133-48a0-a8ac-31a447c01a67,,Pulmonary medicine
+10432a9f-0950-44ba-99dd-00a99162c047,,Radiation oncology
+8d5a0706-2f6f-48cf-9a57-73d6c70c0eed,,Radiology
+a9c4daeb-40e9-49b9-8b3d-9a731143fdff,,Interventional radiology
+c8d1142c-be1f-4792-999a-2d6236597196,,Rehabilitation
+2f301fdc-1109-4f03-9be1-27f270e7bcb0,,Rheumatology
+59cae1fc-9027-4c99-887f-16316ff2e57c,,Breast surgery
+8ca898a8-c6bb-4e53-a33e-905068fd6021,,Cardiac surgery
+f4b88598-666f-4d53-a064-a43bfa41187b,,Colorectal surgery
+1a896ad2-8045-42c2-a5b8-d96a4d0ff2b1,,Endodontics
+d34f32ba-312d-48cc-9be6-067963b58632,,Oral and maxillofacial surgery
+3eff783a-41be-4aa8-8798-1604201a21b6,,Oral surgery
+032ff79f-5485-4c98-9f46-2b546837a4c9,,Orthodontics
+1524e917-1797-4c9e-84af-83cca1137036,,Periodontal surgery
+09189a24-07ab-423e-848f-a2ec48b06bd8,,Prosthetic dentistry
+d403e40e-c3da-4702-854d-7225d769bc1e,,Restorative dentistry
+1b2af973-15e0-4a3a-be5b-3d07916556d8,,Dermatologic surgery
+5e04873c-f0b5-44d9-8a4c-ffbfd9b9c2c1,,ENT surgery
+1a0f2a4f-4fec-4f3d-985d-cf3b2c5dcb74,,General surgery
+9a418645-8659-4562-8d62-50b936b14ce9,,Neurosurgery
+926497be-a408-4923-a18c-5af60f864bcd,,Plastic surgery
+673c6a76-003e-4e3c-b4f1-dd6a384655f8,,Orthopedics
+e3afec26-4717-44a2-9a45-85ff87e7cd5d,,Vascular surgery
+59b7033d-53c7-4ddc-9102-fdab5c55f75f,,Accident and emergency
+aa0fb1ee-df59-4403-ad16-c86e382b5726,,Toxicology
+ed6e28f2-e132-49ce-9866-f8931db3a148,,Tropical medicine
+d34f4bc4-6d95-4789-bce7-440e1a74bd84,,Urology

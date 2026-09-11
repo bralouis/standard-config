@@ -1,0 +1,10 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:21,Data class,Data type,Answers
+33935a47-a901-4e94-8e4d-106890797024,,Hospital Course (Day/Emergency/Planned etc),,,,,,Question,Text,
+25ed4236-b573-4f27-9223-40d2dc1864cc,,History and Examination Notes (145),,,,,,Question,Text,
+e554d7f5-10b2-4c9c-8598-95b057f0d9cc,,Surgeries and Procedures ,,,,,,Question,Text,
+82730fa2-183d-4ab0-8132-41fe6646d573,,Follow up Date ,,,,,,Question,Date,
+55cc6988-2bcb-47bf-b91a-0f1e91f91472,,Lab Investigation Notes ,,,,,,Question,Text,
+4a35381b-8388-4089-8c03-b62e544d16cd,,Radiology Notes ,,,,,,Question,Text,
+76cc8077-2a6f-49f0-899f-b410a104e6e1,,Other Notes ,,,,,,Question,Text,
+e5cdeb5c-1cef-468b-87fb-7cc796bcfa21,,Additional Advice on Discharge ,,,,,,Question,Text,
+bdf6d648-76e8-49ad-b5c5-d739a8059b58,,"Discharge Summary, Plan for follow up ",,,,,,Question,Text,

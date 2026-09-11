@@ -1,0 +1,71 @@
+Uuid,Void/Retire,Same as mappings,Fully specified name:en,Fully specified name:fr,Short name:en,Short name:fr,Description:en,Description:fr,Data class,Data type,Complex data handler,Answers,Members,Allow decimals,Units,Normal low,Normal high,Absolute low,Absolute high,_version:1,_order:206
+b910debc-a6f3-484f-b972-2cc509efb87a,,,OPHT01A Enucleation >=12 Yrs 478.79,,OPHT01A Enucleation >=12 Yrs 478.79,,,,Procedure,N/A,,,,,,,,,,,
+b8c002f9-ca11-4fe8-a622-dae426903d80,,,OPHT01C Enucleation <12 Yrs 452.66,,OPHT01C Enucleation <12 Yrs 452.66,,,,Procedure,N/A,,,,,,,,,,,
+5aef4582-e5cc-467b-a651-a79e93f5d3c2,,,OPHT02A Evisceration >=12 Yrs 490.56,,OPHT02A Evisceration >=12 Yrs 490.56,,,,Procedure,N/A,,,,,,,,,,,
+8be50f5c-998f-444a-9dc7-78d6e23df6b4,,,OPHT02C Evisceration <12 Yrs 454.16,,OPHT02C Evisceration <12 Yrs 454.16,,,,Procedure,N/A,,,,,,,,,,,
+ee0a7d64-dd77-4c33-9551-9e929365ec94,,,OPHT03A Removal of superficial foreign body >=12 Yrs 24.06,,OPHT03A Removal of superficial foreign body >=12 Yrs 24.06,,,,Procedure,N/A,,,,,,,,,,,
+1ad57b78-e7b2-4da3-8b84-4fa0befdfdcb,,,OPHT03C Removal of superficial foreign body <12 Yrs 22.34,,OPHT03C Removal of superficial foreign body <12 Yrs 22.34,,,,Procedure,N/A,,,,,,,,,,,
+af24ca99-574b-463e-8ebd-945529202cfd,,,OPHT04A Removal of intraocular foreign body >=12 Yrs 241.67,,OPHT04A Removal of intraocular foreign body >=12 Yrs 241.67,,,,Procedure,N/A,,,,,,,,,,,
+260aecd2-c703-493c-aba5-9c27b6c98f2f,,,OPHT04C Removal of intraocular foreign body <12 Yrs 237.76,,OPHT04C Removal of intraocular foreign body <12 Yrs 237.76,,,,Procedure,N/A,,,,,,,,,,,
+fe3a96cc-f345-4500-b36b-603200b69370,,,OPHT05A Removal of intraorbital foreign body >=12 Yrs 317.59,,OPHT05A Removal of intraorbital foreign body >=12 Yrs 317.59,,,,Procedure,N/A,,,,,,,,,,,
+30cf1953-8cfb-48d9-9285-41f5b6807b71,,,OPHT05C Removal of intraorbital foreign body <12 Yrs 291.37,,OPHT05C Removal of intraorbital foreign body <12 Yrs 291.37,,,,Procedure,N/A,,,,,,,,,,,
+e2b4188d-b507-44e3-a68c-4247f31159e4,,,OPHT06A Eyelid surgery >=12 Yrs 179.05,,OPHT06A Eyelid surgery >=12 Yrs 179.05,,,,Procedure,N/A,,,,,,,,,,,
+ff54f712-764a-46ca-a5ae-a4162df7e9d3,,,OPHT06C Eyelid surgery <12 Yrs 181.87,,OPHT06C Eyelid surgery <12 Yrs 181.87,,,,Procedure,N/A,,,,,,,,,,,
+6222e56b-690f-49a5-b5a5-5362ec0a3ded,,,OPHT07A Scleral and Corneal surgery >=12 Yrs 155.71,,OPHT07A Scleral and Corneal surgery >=12 Yrs 155.71,,,,Procedure,N/A,,,,,,,,,,,
+b5fb14cc-e56b-4b5b-a16e-d68d7053aec4,,,OPHT07C Scleral and Corneal surgery <12 Yrs 146.42,,OPHT07C Scleral and Corneal surgery <12 Yrs 146.42,,,,Procedure,N/A,,,,,,,,,,,
+2e22bb8c-7cc3-431b-96aa-cf42b4ed1c41,,,OPHT08A Anterior chamber washout >=12 Yrs 175.86,,OPHT08A Anterior chamber washout >=12 Yrs 175.86,,,,Procedure,N/A,,,,,,,,,,,
+e73e297e-003f-41d4-b8cc-4307141dd652,,,OPHT08C Anterior chamber washout <12 Yrs 169.58,,OPHT08C Anterior chamber washout <12 Yrs 169.58,,,,Procedure,N/A,,,,,,,,,,,
+10ecf561-1f13-476e-9145-eddbfab598d6,,,OPHT09A Glaucoma surgery >=12 Yrs 183.83,,OPHT09A Glaucoma surgery >=12 Yrs 183.83,,,,Procedure,N/A,,,,,,,,,,,
+b3bb3bab-f0cb-4cf7-97c0-274286388e97,,,OPHT09C Glaucoma surgery <12 Yrs 184.18,,OPHT09C Glaucoma surgery <12 Yrs 184.18,,,,Procedure,N/A,,,,,,,,,,,
+380a9f45-1d90-4e87-9238-2b756d5f8fca,,,OPHT10A Cataract surgery >=12 Yrs 222.44,,OPHT10A Cataract surgery >=12 Yrs 222.44,,,,Procedure,N/A,,,,,,,,,,,
+72cbd7e3-a6c6-41f3-9e97-51fc2535b84c,,,OPHT10C Cataract surgery <12 Yrs 216.54,,OPHT10C Cataract surgery <12 Yrs 216.54,,,,Procedure,N/A,,,,,,,,,,,
+c19970eb-3402-4ad9-a469-1480b61ede91,,,OPHT11A Strabismus surgery >=12 Yrs 322.75,,OPHT11A Strabismus surgery >=12 Yrs 322.75,,,,Procedure,N/A,,,,,,,,,,,
+60d7347a-3821-4f48-9dd5-b3557c845075,,,OPHT11C Strabismus surgery <12 Yrs 287.84,,OPHT11C Strabismus surgery <12 Yrs 287.84,,,,Procedure,N/A,,,,,,,,,,,
+7d30656b-ed07-4f1e-9650-8dbf204b2ba9,,,OPHT12A Incision and curettage of eyelid >=12 Yrs 122.14,,OPHT12A Incision and curettage of eyelid >=12 Yrs 122.14,,,,Procedure,N/A,,,,,,,,,,,
+dae6d0b6-e099-44f0-91a6-09e04632a619,,,OPHT12C Incision and curettage of eyelid <12 Yrs 119.58,,OPHT12C Incision and curettage of eyelid <12 Yrs 119.58,,,,Procedure,N/A,,,,,,,,,,,
+c644de5a-5281-40d5-b277-57370c82e7cc,,,OPHT13A Reconstructive surgery of eyelid >=12 Yrs 150.05,,OPHT13A Reconstructive surgery of eyelid >=12 Yrs 150.05,,,,Procedure,N/A,,,,,,,,,,,
+fb92fcd7-694f-486a-b93d-28a1bb780bc4,,,OPHT13C Reconstructive surgery of eyelid <12 Yrs 153.70,,OPHT13C Reconstructive surgery of eyelid <12 Yrs 153.70,,,,Procedure,N/A,,,,,,,,,,,
+9d83d780-d4c2-4200-a9d4-33b0de1927fa,,,OPHT14A Nasolacrimal drainage system surgery >=12 Yrs 211.36,,OPHT14A Nasolacrimal drainage system surgery >=12 Yrs 211.36,,,,Procedure,N/A,,,,,,,,,,,
+1d135b90-b5e5-4cfc-93b3-76f1ee1acf8d,,,OPHT14C Nasolacrimal drainage system surgery <12 Yrs 173.17,,OPHT14C Nasolacrimal drainage system surgery <12 Yrs 173.17,,,,Procedure,N/A,,,,,,,,,,,
+de95a163-c863-44c4-9354-27d455b1014e,,,OPHT15A Incision and drainage of abscesses >=12 Yrs 179.58,,OPHT15A Incision and drainage of abscesses >=12 Yrs 179.58,,,,Procedure,N/A,,,,,,,,,,,
+e230c5ce-cab3-4ea0-8bc1-c0ea4a5b95c8,,,OPHT15C Incision and drainage of abscesses <12 Yrs 176.23,,OPHT15C Incision and drainage of abscesses <12 Yrs 176.23,,,,Procedure,N/A,,,,,,,,,,,
+ceb2d2ba-4061-40a3-b65c-074798df2d26,,,OPHT16A Examination under anaesthesia >=12 Yrs 46.81,,OPHT16A Examination under anaesthesia >=12 Yrs 46.81,,,,Procedure,N/A,,,,,,,,,,,
+392242f5-4e67-4c00-b787-f5c47d59ba0c,,,OPHT16C Examination under anaesthesia <12 Yrs 44.65,,OPHT16C Examination under anaesthesia <12 Yrs 44.65,,,,Procedure,N/A,,,,,,,,,,,
+9eba7bd3-27f0-4987-b6f8-5f8a97be792e,,,OPHT17A Uveitis Management 23.71,,OPHT17A Uveitis Management 23.71,,,,Procedure,N/A,,,,,,,,,,,
+7958aeb9-0841-43a5-8b45-12b43beabdfa,,,OPHT18A Cataract Surgery with Implants >=12 Yrs 276.53 ,,OPHT18A Cataract Surgery with Implants >=12 Yrs 276.53 ,,,,Procedure,N/A,,,,,,,,,,,
+2c887343-6988-4ea9-8b03-7fb66c3e0236,,,Procedure ( Ophthalmology),,,,,,ConvSet,N/A,,,"OPHT01A Enucleation >=12 Yrs 478.79;
+OPHT01C Enucleation <12 Yrs 452.66;
+OPHT02A Evisceration >=12 Yrs 490.56;
+OPHT02C Evisceration <12 Yrs 454.16;
+OPHT03A Removal of superficial foreign body >=12 Yrs 24.06;
+OPHT03C Removal of superficial foreign body <12 Yrs 22.34;
+OPHT04A Removal of intraocular foreign body >=12 Yrs 241.67;
+OPHT04C Removal of intraocular foreign body <12 Yrs 237.76;
+OPHT05A Removal of intraorbital foreign body >=12 Yrs 317.59;
+OPHT05C Removal of intraorbital foreign body <12 Yrs 291.37;
+OPHT06A Eyelid surgery >=12 Yrs 179.05;
+OPHT06C Eyelid surgery <12 Yrs 181.87;
+OPHT07A Scleral and Corneal surgery >=12 Yrs 155.71;
+OPHT07C Scleral and Corneal surgery <12 Yrs 146.42;
+OPHT08A Anterior chamber washout >=12 Yrs 175.86;
+OPHT08C Anterior chamber washout <12 Yrs 169.58;
+OPHT09A Glaucoma surgery >=12 Yrs 183.83;
+OPHT09C Glaucoma surgery <12 Yrs 184.18;
+OPHT10A Cataract surgery >=12 Yrs 222.44;
+OPHT10C Cataract surgery <12 Yrs 216.54;
+OPHT11A Strabismus surgery >=12 Yrs 322.75;
+OPHT11C Strabismus surgery <12 Yrs 287.84;
+OPHT12A Incision and curettage of eyelid >=12 Yrs 122.14;
+OPHT12C Incision and curettage of eyelid <12 Yrs 119.58;
+OPHT13A Reconstructive surgery of eyelid >=12 Yrs 150.05;
+OPHT13C Reconstructive surgery of eyelid <12 Yrs 153.70  ;
+OPHT14A Nasolacrimal drainage system surgery >=12 Yrs 211.36;
+OPHT14C Nasolacrimal drainage system surgery <12 Yrs 173.17;
+OPHT15A Incision and drainage of abscesses >=12 Yrs 179.58;
+OPHT15C Incision and drainage of abscesses <12 Yrs 176.23;
+OPHT16A Examination under anaesthesia >=12 Yrs 46.81;
+OPHT16C Examination under anaesthesia <12 Yrs 44.65;
+OPHT17A Uveitis Management 23.71;
+OPHT18A Cataract Surgery with Implants >=12 Yrs 276.53 ;
+
+",,,,,,,,

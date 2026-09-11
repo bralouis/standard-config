@@ -1,0 +1,15 @@
+Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Description:en,Data class,Data type,Answers,Members,_version:1,_order:3001
+c11f699a-fab2-4189-adf6-a995b357d2df,,,Consumables,,,ConvSet,N/A,,"Wound Consumables; 
+",,
+6a8bb973-e61e-4fbb-b7ca-94ebf163874e,,,Procedure Orders,,,ConvSet,N/A,,"Treatments (Adult Medicine);
+Treatments (OPD); 
+Treatment ( Paediatrics);
+Procedure (Adult Surgery); 
+Procedure ( Ophthalmology); 
+Procedure (Orthopaedics); 
+Procedure (Paediatric Surgery); 
+Procedure (Reconstructive Surgery); 
+Procedure (Zoom); 
+Procedure (Dental); 
+Procedure (Obs Gyn); ",,
+d6344fab-5e07-11ef-8f7c-0242ac120002,,,All Orderables,All Orderables,,ConvSet,N/A,,Consumables; Radiology Orders ;  Procedure Orders,,

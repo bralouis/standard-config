@@ -1,0 +1,16 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:21,Data class,Data type,Answers
+fbfa6a69-77ea-47b4-940e-1f8ed7c1556f,,Plan in relation to Occupational Therapy,,,,,,Question,Text,
+5a4bd5d2-f7d2-4614-a096-d800013300d9,,Plan towards return to work,,,,,,Question,Text,
+021e90f0-9a0c-4c21-9678-4583dca55fd3,,Plan in relation to adequate housing,,,,,,Question,Text,
+e49ff2ac-c044-4036-a3e9-f6e85909cc92,,Plans in relation to financial problems,,,,,,Question,Text,
+a7825217-202b-4e5a-aa0d-bb35169252b7,,Plan towards social re-integration and stigma reduction,,,,,,Question,Text,
+bb3c3176-36bd-4448-943d-5960df20df66,"",Plan for resolving physical health problems,"","","","","",Question,Text,""
+dbfbb53d-3765-4489-9145-7d5cc70acff4,"",Plan towards meeting emotional needs of patient,"","","","","",Question,Text,""
+abb64780-a8f6-410e-91b2-bdcc6baad96c,"",Any other relevant plans,"","","","","",Question,Text,""
+9169c53d-936e-45b9-a8b1-555128e17e8f,"",Has patient been involved in preparing the care plan?,"","","","","",Question,Boolean,""
+b44615d5-7b4c-4cea-8f36-a9759c9c9140,"",Has the patient's principal carer been involved in preparing this treatment/care plan,"","","","","",Question,Boolean,""
+191790d5-33e8-4aa7-accc-ccdc39eb0489,"","If this patient is a minor, have the parent(s) been involved in preparing this treatment/care plan?","","","","","",Question,Boolean,""
+ef5a8576-9fb7-43f7-9529-b6ce8d326cff,"","If this patient is a minor, has his/her wishes been taken into consideration is preparing this treatment/care plan?","","","","","",Question,Boolean,""
+586210c7-9c06-408a-960e-e2c3435f19d7,"","If this patient has no capacity, has his/her guardian been involved in drawing this plan?","","","","","",Question,Boolean,""
+97ecbb59-9dbf-4211-b2e9-e6a50f896e1e,"",Planned date for review of care plan,"","","","","",Question,Date,""
+584cbc3a-15a1-4430-aa99-6cb71e4abe55,"",Mental Health Care Plan,"","","","","",Misc,N/A,""

@@ -1,0 +1,9 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:21,Data class,Data type,Answers
+f2e50100-b753-431e-8231-011eea1106f2,,"IMAM, Mid-Upper-Arm Circumference (MUAC)",MUAC (2086),,,,,Question,Numeric,
+ddc4ac69-a866-46f3-a419-21ccbe6bc695,,"IMAM, Weight (2087)",,,,,,Question,Numeric,
+521dc7c9-cdcb-44bb-8610-98a9798c5950,,"IMAM, Length (if under 2 years) (2088)",,,,,,Question,Numeric,
+3ea2eaaa-36b8-4b57-83ed-f6d60407f899,,"IMAM, Height (2089)",,,,,,Question,Numeric,
+41ae7091-e313-4b93-9fa5-7924781d8548,,"IMAM, Indicator (2092)",,,,,,Question,Text,
+aad564a7-134c-4879-87cf-4b5f350eb363,,"IMAM, Admission  Date (2096)",,,,,,Question,Date,
+e9fa956b-f3b9-4f76-8ad3-9506d7f1747c,,"IMAM, Discharge Date (2102)",,,,,,Question,Date,
+8264eab7-f000-4e2d-9b71-fb14c54bc727,,"IMAM, Remarks (2103)",,,,,,Question,Text,

@@ -1,0 +1,15 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:8,Data class,Data type,Answers
+60ad0679-1dae-4aca-ae38-f86c721f47c7,,Date and Time of Risk Assessment,,,,,,Misc,Datetime,
+0dcd07f3-3a00-42f7-a72c-b1f86ceb6db0,," Moderate Risk ",,	,	,,,Misc,N/A,
+df7c2444-ccdc-4784-9c7f-8ade27fe236a,,Risk of deliberate self-harm (DSH) or suicide,,,,,,Question,Coded,Low Risk ; Moderate Risk ;High Risk
+babedaf3-f4a3-4c48-82c6-1646a97c6c63,,Risk of Overdose,,,,,,Question,Coded,Low Risk ; Moderate Risk ;High Risk
+04da48ab-5232-4cc4-91d9-e990d26af03e,,Risk of suicidal attempt,,,,,,Question,Coded,Low Risk ; Moderate Risk ;High Risk
+ce67043a-4171-4fef-85b3-5555fab207ee,,Risk of self-neglect,,,,,,Question,Coded,Low Risk ; Moderate Risk ;High Risk
+43ffa0a8-579e-4f35-b07f-c07606a747bc,,Risk of accidental injury,,,,,,Question,Coded,Low Risk ; Moderate Risk ;High Risk
+1429c3f4-5bb8-4b66-bd2b-2c5fca9e58e4,,Risk of  aggression or violence,,,,,,Question,Coded,Low Risk ; Moderate Risk ;High Risk
+1bc94373-bba0-4e43-8b9c-ad10dae6d2fe,,"Risk of sexual exploitation ",,,,,,Question,Coded,Low Risk ; Moderate Risk ;High Risk
+256d6801-d8e1-484d-8571-db287aaf9ebf,,Risk of financial exploitation,,,,,,Question,Coded,Low Risk ; Moderate Risk ;High Risk
+e2ecbb44-7bed-48c0-be1d-b718c6ccacf7,,Risk of retaliation,,,,,,Question,Coded,Low Risk ; Moderate Risk ;High Risk
+d5d15021-1914-40d9-a3cb-efc56631972e,,Additional comment on risk,,,,,,Question,Text,
+c673bf1d-f09b-44e1-a180-0766b844ae80,,Overall assessment of risk,,,,,,Question,Coded,Low Risk ; Moderate Risk ;High Risk
+909677e4-ed26-4573-a1e7-090f2e42a098,,Recommendations for risk management,,,,,,Question,Text,

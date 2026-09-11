@@ -1,0 +1,77 @@
+Uuid,Void/Retire,Same as mappings,Fully specified name:en,Fully specified name:fr,Short name:en,Short name:fr,Description:en,Description:fr,Data class,Data type,Complex data handler,Answers,Members,Allow decimals,Units,Normal low,Normal high,Absolute low,Absolute high,_version:1,_order:211
+9a0fa100-5a24-4a14-a59f-4bbfbc79860b,,,OBGY01A Gynaecological Laparotomy ,,,,,,Procedure,N/A,,,,,,,,,,,
+4b09fbfb-b357-42bd-831c-d4215eab7009,,,OBGY02A Diagnostic Laparascopy ,,,,,,Procedure,N/A,,,,,,,,,,,
+f62c7173-10c9-4cb1-a9a0-f672bd04a57e,,,OBGY03A Operative Laparascopy ,,,,,,Procedure,N/A,,,,,,,,,,,
+a37a2ffa-9383-4317-8dde-80199b81f61e,,,OBGY04A Culdocentesis/Culdotomy ,,,,,,Procedure,N/A,,,,,,,,,,,
+e60dc53a-409b-45dc-8166-307fabd51fa1,,,OBGY05A Cauterization ,,,,,,Procedure,N/A,,,,,,,,,,,
+56dc3cf7-49a5-40e6-8a64-c490753e02b0,,,OBGY06A MVA/EOU ,,,,,,Procedure,N/A,,,,,,,,,,,
+ae324264-ed87-40ab-9217-9dcd60838b15,,,OBGY07A Suction Curettage ,,,,,,Procedure,N/A,,,,,,,,,,,
+536b0ad9-04a9-415b-b6bb-ff1241922a6c,,,OBGY08A Manual Removal of Placenta ,,,,,,Procedure,N/A,,,,,,,,,,,
+63ff8357-397e-44ed-998d-ce9234baca4e,,,OBGY09A Expectant management/Medical Treatment in Obstetrics and Gynaecology ,,,,,,Procedure,N/A,,,,,,,,,,,
+66459d03-64ca-4820-8720-8bd0df07b20f,,,OBGY10A Marsupialization of Batholin's gland ,,,,,,Procedure,N/A,,,,,,,,,,,
+8b67a186-155d-48cc-b1f4-349ae2ead1dc,,,OBGY11A Excision of genital lesions ,,,,,,Procedure,N/A,,,,,,,,,,,
+4c0256b2-aa0c-45cd-89ec-9974c340e7b1,,,OBGY12A Incision and drainage in Gynaecology Cases,,,,,,Procedure,N/A,,,,,,,,,,,
+c7641e32-34b0-4df7-a764-68f9cc2e245f,,,OBGY13A Pelvic Floor Repair - Simple ,,,,,,Procedure,N/A,,,,,,,,,,,
+5e54fbe5-4de6-45ec-991a-39ebbb31119c,,,OBGY14A Vaginal Hysterectomy,,,,,,Procedure,N/A,,,,,,,,,,,
+700edbc1-ccdf-4ed2-a0b1-fe42d2c07fdb,,,OBGY15A Repair of Enterocele ,,,,,,Procedure,N/A,,,,,,,,,,,
+81a5d04e-ec91-4e21-94bd-a6e636ac561a,,,OBGY16A Vaginal Pessary Insertion,,,,,,Procedure,N/A,,,,,,,,,,,
+1d8bab2a-d408-4119-b11f-5c6b3883e96c,,,OBGY17A Colpocleisis ,,,,,,Procedure,N/A,,,,,,,,,,,
+88437a74-cd92-44e4-a8bf-d69b94bfa418,,,OBGY18A Fistula Repair - Simple ,,,,,,Procedure,N/A,,,,,,,,,,,
+efb6da36-1914-4b1e-b67b-3817c7dd8622,,,OBGY19A Fistula Repair - Complex ,,,,,,Procedure,N/A,,,,,,,,,,,
+fffe2ea5-849c-497e-8417-5c51051bc872,,,OBGY20A Abdominal Hysterectomy,,,,,,Procedure,N/A,,,,,,,,,,,
+a1b056bc-59ab-4c15-af23-f5e2f0bf5133,,,OBGY21A Perineal repair - Complex ,,,,,,Procedure,N/A,,,,,,,,,,,
+2ec4dda8-698a-4bec-8167-4887dbdda282,,,OBGY22A Pelvic Floor Repair - Complex ,,,,,,Procedure,N/A,,,,,,,,,,,
+89112da2-7df8-406e-ac2f-918c3086fb48,,,OBGY23A Colposcopy and Biopsy ,,,,,,Procedure,N/A,,,,,,,,,,,
+40feafd8-bcdc-4caf-b1aa-b24430d9656d,,,OBGY24A Partial Vaginectomy ,,,,,,Procedure,N/A,,,,,,,,,,,
+8e516623-6721-41f4-beef-5f11ab5a81a5,,,OBGY25A Polypectomy (Avulsion) ,,,,,,Procedure,N/A,,,,,,,,,,,
+4d9aa712-e115-44da-a1f0-1927ecc1b519,,,OBGY26A Hysteroscopy ,,,,,,Procedure,N/A,,,,,,,,,,,
+f366ced0-5c85-44fc-85b2-b1c3567dabb3,,,OBGY27A Correction of Malposition of Uterus ,,,,,,Procedure,N/A,,,,,,,,,,,
+d399f8ee-1b91-4446-b12a-4143acfc46de,,,OBGY28A Vulvectomy ,,,,,,Procedure,N/A,,,,,,,,,,,
+3db9fbcc-9788-44e0-9532-e3d34d15a2a5,,,OBGY29A Instrumental delivery ,,,,,,Procedure,N/A,,,,,,,,,,,
+a7daef33-9adb-4cbc-a490-028ed22be364,,,OBGY30A Internal Podalic Version with Breech Extraction ,,,,,,Procedure,N/A,,,,,,,,,,,
+14b7cb8c-af7e-4e02-9d7f-5549a8f08b2f,,,OBGY31A Destructive Delivery ,,,,,,Procedure,N/A,,,,,,,,,,,
+3ec20e21-0356-4d0b-898e-169fd85abce4,,,OBGY32A Caesarean Section ,,,,,,Procedure,N/A,,,,,,,,,,,
+093297a1-8995-4f32-b7f8-87bf00f4e0a8,,,OBGY34A Spontaneous Vaginal Delivery with or without Episiotomy ,,,,,,Procedure,N/A,,,,,,,,,,,
+16bb5a4c-4b10-432f-a70a-88c86e902662,,,OBGY35A Cervical Cerclage suture ,,,,,,Procedure,N/A,,,,,,,,,,,
+08ab6243-1e67-4e19-8f4b-f19a1537faf7,,,OBGY36A Myomectomy ,,,,,,Procedure,N/A,,,,,,,,,,,
+84e3c3fb-36e8-4410-9411-abfb0f599f48,,,OBGY38A Post Partum Haemorrhage ,,,,,,Procedure,N/A,,,,,,,,,,,
+c80c6449-b0bf-488c-a61e-de390398fafe,,,OBGY39A Wertheim's Operation ,,,,,,Procedure,N/A,,,,,,,,,,,
+04dbd1b3-0240-43eb-8fc2-861acfb4dc54,,,OBGY40A Eclampsia ,,,,,,Procedure,N/A,,,,,,,,,,,
+480a9e22-a251-42b6-8d5b-d56041716650,,,Procedure (Obs Gyn),,,,,,ConvSet,N/A,,,"OBGY01A Gynaecological Laparotomy;
+OBGY02A Diagnostic Laparascopy;
+OBGY03A Operative Laparascopy;
+OBGY04A Culdocentesis/Culdotomy;
+OBGY05A Cauterization;
+OBGY06A MVA/EOU;
+OBGY07A Suction Curettage;
+OBGY08A Manual Removal of Placenta;
+OBGY09A Expectant management/Medical Treatment in Obstetrics and Gynaecology;
+OBGY10A Marsupialization of Batholin's gland;
+OBGY11A Excision of genital lesions;
+OBGY12A Incision and drainage in Gynaecology Cases;
+OBGY13A Pelvic Floor Repair - Simple;
+OBGY14A Vaginal Hysterectomy;
+OBGY15A Repair of Enterocele;
+OBGY16A Vaginal Pessary Insertion;
+OBGY17A Colpocleisis;
+OBGY18A Fistula Repair - Simple;
+OBGY19A Fistula Repair - Complex;
+OBGY20A Abdominal Hysterectomy;
+OBGY21A Perineal repair - Complex;
+OBGY22A Pelvic Floor Repair - Complex;
+OBGY23A Colposcopy and Biopsy;
+OBGY24A Partial Vaginectomy;
+OBGY25A Polypectomy (Avulsion);
+OBGY26A Hysteroscopy;
+OBGY27A Correction of Malposition of Uterus;
+OBGY28A Vulvectomy;
+OBGY29A Instrumental delivery;
+OBGY30A Internal Podalic Version with Breech Extraction;
+OBGY31A Destructive Delivery;
+OBGY32A Caesarean Section;
+OBGY34A Spontaneous Vaginal Delivery with or without Episiotomy;
+OBGY35A Cervical Cerclage suture;
+OBGY36A Myomectomy;
+OBGY38A Post Partum Haemorrhage;
+OBGY39A Wertheim's Operation;
+OBGY40A Eclampsia;",,,,,,,,

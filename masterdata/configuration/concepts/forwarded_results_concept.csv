@@ -1,0 +1,23 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:19,Data class,Data type,Answers
+fb531afa-fd25-48ba-8296-0c5683d47a52,,Date investigation requested,,,,,,Question,Date,
+0b0e72d6-7e46-4b2b-ae4a-154c6e2e11c9,,Haematology Tests,,,,,,Misc,N/A,
+e8de337e-62d2-46e1-b164-658f2d47d660,,Biochemistry Tests,,,,,,Misc,N/A,
+1274792c-16b4-4f06-ad13-509f98de8e38,,Microbiology Tests,,,,,,Misc,N/A,
+b4ef76c0-d175-4189-9796-40b902ba40e4,,Radiology Tests,,,,,,Misc,N/A,
+329BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,URINALYSIS ORDER,Urinalysis,,,,,Misc,N/A,
+106650BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,Electroencephalogram,EEG Order,,,,,Misc,N/A,
+331c8a13-1775-463a-a34d-7146680e57bc,,ECG Order,,,,,,Misc,N/A,
+c506f0d1-7f2f-4405-bb2c-f5cac9974930,,Other tests,,,,,,Misc,N/A,
+d26d50a9-c962-4ed3-ad77-028d33b83ff7,,Type of investigation requested	,,,,,,Question,Coded,"Haematology Tests ; 
+Biochemistry Tests ; 
+Microbiology Tests  ;
+Radiology Tests ;
+URINALYSIS ORDER ; 
+Electroencephalogram ; 
+ECG Order ; 
+Other tests"
+afcb5bd7-6be7-4b62-adc3-fb10ad47758f,,Specify other Type of investigation requested	,Specify,,,,,Question,Text,
+ede7a2ab-acc0-4c9e-9745-05905f022b34,,Comments on results,,,,,,Question,Text,
+bd1124f4-5bed-464d-b5ed-4f617b456714,,Repeat tests later on/around,,,,,,Question,Date,
+5b7b2df0-49d6-4c83-8077-424a2d421395,,Patient instructed to repeat test?,,,,,,Question,Boolean,
+b8227337-1e2f-4f9e-b5fc-a5e89e0e3a8b,,Forwarded Results,,,,,,Misc,N/A,

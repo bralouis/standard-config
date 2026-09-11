@@ -1,0 +1,23 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:11,Data class,Data type,Answers
+d8534dc1-9767-4936-8138-684a84f3dece,"",Date/Time of Call,"","","","","",Question,Datetime,""
+09b0b927-c9d4-4974-86ee-f72dc5f05a48,"",Follow-up Call To Patient,"","","","","",Misc,N/A,""
+2bc5417b-ba11-49dd-9384-202245efc23f,"",Follow-up Call To Carer,"","","","","",Misc,N/A,""
+ed01a98d-b0fb-4b3a-acb4-93ebd7285368,"",Welfare Check Call,"","","","","",Misc,N/A,""
+ed26e257-f828-4002-b59c-afa288b04df8,"",Pharmacy Call,"","","","","",Misc,N/A,""
+52dc5197-c6fb-4ca4-8460-047b8f5cb9fd,"",Laboratory Call,"","","","","",Misc,N/A,""
+f3a5ff2f-1923-4c24-a30b-a340a379ab7b,"",Other Healthcare Professional Call,"","","","","",Misc,N/A,""
+3f748a85-765c-4639-9807-1af48f7b1126,"",Other Ad-hoc Call (Specify),Other Specify,"","","","",Misc,N/A,""
+948241bb-51a2-4b98-944a-604f50d44f97,"",Other Ad-hoc Call (Please specify,Specify,"","","","",Question,Text,""
+41abbddd-3e85-4785-8d33-d0b667fd7ee7,,Type of Call,,,,,,Question,Coded,"Follow-up Call To Patient ; Follow-up Call To Carer ;  Welfare Check Call ; Pharmacy Call ;  Laboratory Call ;  Other Healthcare Professional Call ;
+Other Ad-hoc Call (Specify)"
+2e7278d7-e1d3-4f28-8179-ba61422fed65,"",Details of Call,,"","","","",Question,Text,""
+e957068e-cd9d-4dab-b25a-70bf6f7cdfca,"",No immediate Action Needed,"","","","","",Misc,N/A,""
+934abfc1-f27e-4f40-9962-96921e83417c,"",Inform Patient's Doctor,"","","","","",Misc,N/A,""
+988e4f1a-0b56-4bf6-927e-c6bcf3e7b4ad,"",Arrange OPD Review,"","","","","",Misc,N/A,""
+722f320c-7427-4d0b-9325-b2a9cc10a9dc,"",Inform Key Nurse,"","","","","",Misc,N/A,""
+46409b65-9e56-4ce9-bfb2-7cfaee12bb23,"",Call Pharmacist,"","","","","",Misc,N/A,""
+845005e3-4e35-44ca-ae3f-a4aed06b3951,"",Call Laboratory,"","","","","",Misc,N/A,""
+aa3b7039-ddfd-4024-91f6-69e64e5be808,"",Other Action Following Call (Specify),Specify,"","","","",Misc,N/A,""
+6cf420e7-7044-4e15-a4bd-458699effeda,"",Other Action (Please specify),Other Specify,"","","","",Question,Text,""
+001db044-8b13-40ed-bcf2-1a2b2db1ac5d,,Action Following Call,,,,,,Question,Coded,"No immediate Action Needed ;  Inform Patient's Doctor ;  Arrange OPD Review ; 
+Inform Key Nurse ;  Call Pharmacist ;  Call Laboratory ;  Other Action Following Call (Specify)"

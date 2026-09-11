@@ -1,0 +1,91 @@
+Uuid,Void/Retire,Same as mappings,Fully specified name:en,Fully specified name:fr,Short name:en,Short name:fr,Description:en,Description:fr,Data class,Data type,Complex data handler,Answers,Members,Allow decimals,Units,Normal low,Normal high,Absolute low,Absolute high,_version:1,_order:205
+1aefc4ba-e256-4354-bc07-c52788c8fa41,,,PAED01C Thyroid Diseases <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+0726cee8-307f-40df-8f2a-c4ae00e954e9,,,PAED02C Diabetes - Simple <12 Yrs,,,,,,Procedure,N/A,,,,,,,,,,,
+e3f68186-aa72-4a62-bc64-785fdd7d2f6f,,,PAED03C Diabetes with Complications <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+41d40635-bac7-4d3c-8e04-d326877c06ad,,,PAED04C Other Endocrine Diseases <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+06634fdb-685a-45b7-9cb2-dd1a5517e16d,,,PAED05C Malnutrition <12 Yrs,,,,,,Procedure,N/A,,,,,,,,,,,
+2b8e09e5-c9fb-4199-85eb-f925e93daf28,,,PAED06C Anaemia <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+3ebc6e0a-a8f7-4811-9f75-052ed4fee0f0,,,PAED07C Other Neonatal Diseases ,,,,,,Procedure,N/A,,,,,,,,,,,
+67911119-b7c4-49b1-8aa0-79896ed163c4,,,PAED08C Neonatal Jaundice - Severe ,,,,,,Procedure,N/A,,,,,,,,,,,
+a07ec9c2-e336-4991-a359-c7bee13b4f69,,,PAED09C Neonatal Jaundice - Simple ,,,,,,Procedure,N/A,,,,,,,,,,,
+99356e34-b779-4e04-b650-6e982f97abdc,,,PAED10C Birth Weight Abnormalities,,,,,,Procedure,N/A,,,,,,,,,,,
+f054c438-0884-485f-adba-ae82782c1e1b,,,PAED11C Birth Trauma ,,,,,,Procedure,N/A,,,,,,,,,,,
+9f58b2da-f056-4e15-a479-bc11cc9edf8f,,,PAED12C Neonatal Respiratory Disorders without Ventilation ,,,,,,Procedure,N/A,,,,,,,,,,,
+c671f621-ccb0-4422-a3fd-026bacddd011,,,PAED13C Neonatal Respiratory Disorders with Ventilation ,,,,,,Procedure,N/A,,,,,,,,,,,
+298c7d61-2cea-43cb-98d5-9779884b86c6,,,PAED14C Neonatal Septicaemia ,,,,,,Procedure,N/A,,,,,,,,,,,
+acb0669e-b1c4-4f16-94b1-ce436c500b2f,,,PAED15C Heart Disease <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+49b3542d-1d88-4934-994e-d572c76f3f87,,,PAED16C Poisoning <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+45d27d41-ed5c-45a1-b823-ebb441d2e127,,,PAED18C Non-Traumatic Coma <12 Yrs,,,,,,Procedure,N/A,,,,,,,,,,,
+dd507842-6314-4ab8-9499-01ac3c3cb0ec,,,PAED19C Paralytic Conditions <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+e29383da-ad9c-4248-bef9-ffc816f15568,,,PAED20C Seizure Disorders <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+a701f51e-060f-4d0f-b6a8-767e5f5fa7ca,,,PAED21C Transient Loss of Consciousness <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+2f9b1c76-7d51-44f0-b88c-96b807a09a94,,,PAED22C Cerebro Vascular Accident/Stroke <12 Yrs,,,,,,Procedure,N/A,,,,,,,,,,,
+5ea0e351-bfee-4264-b802-50cd8911ac1e,,,PAED23C Bone Marrow Hypoplasia <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+76f38feb-dede-40af-ae35-ee699797a8dd,,,PAED24C Sickle Cell Disease with Complication/Crisis <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+1b3146c9-7fc5-45e9-886f-da2a2d835e4b,,,PAED25C Clotting/Bleeding Disorders <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+98ff5879-5247-49a3-bbc4-de42e9701bb3,,,PAED26C Diseases of Skin/Subcutaneous Tissues <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+f36f13fe-8134-42e8-9c6d-7ed7edbf494e,,,PAED27C Kidney Disease without Renal Failure <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+57b43079-f635-46d0-9f4c-384dff6ccee3,,,PAED28C Renal Failure without Dialysis <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+59ade96b-5cb5-434b-996e-4a8a2f2608ec,,,PAED29C Acute Renal Failure with Dialysis <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+10c523c6-e31a-4db8-bd95-518229e54ddf,,,PAED30C Obstructive Airway Disease <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+2556d0c6-a175-4eee-a3c0-2df7dc61566f,,,PAED31C Diarrhoea and Vomiting <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+e4e73742-984a-4899-a3b9-39911d3a83d3,,,PAED32C Liver Diseases <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+d9aa52c3-2a07-4c9e-aaa1-a16fcba113e8,,,PAED33C Gastro Intestinal Tract Bleeding <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+9969de6b-4c63-49e0-9e93-818a119cd9fc,,,PAED34C Non-Specific Abdominal Conditions <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+97425062-0201-44de-91b7-a9dedec5fce6,,,PAED35C Shock <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+d512fec1-6cc9-4a50-98db-85f5f11047fa,,,PAED36C Malaria <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+16e989eb-27d0-4d0a-8c47-5e0e305b37d2,,,PAED37C Black Water Fever <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+f6939819-3b7a-4433-81d0-dcd4ea63b205,,,PAED38C Severe Infections <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+cb52fee7-2090-404d-8d76-a558767c7962,,,PAED39C Localised Infections <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+4394a6c6-c529-452c-ae86-9b68b49d5bdf,,,PAED40C Hypertension <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+8f26f4c7-8a21-4a3e-a686-655ad32a5317,,,PAED41C Ischaemic Heart Disease <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+e39f6c3e-d888-46ff-ad4e-85a988135c15,,,PAED42C Pulmonary Embolism <12 Yrs,,,,,,Procedure,N/A,,,,,,,,,,,
+488a8e4f-7b73-4208-b2fc-3ad31d5fe75f,,,PAED43C Ulcer of Skin <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+f49213e8-2a38-4265-bfaf-4e01cef8b1e4,,,PAED44C Animal Bites <12 Yrs,,,,,,Procedure,N/A,,,,,,,,,,,
+2b56bc4f-5674-4cb6-bc22-9e2c6fedbec5,,,PAED45C Retroviral Infection/Immuno Suppression <12 Yrs ,,,,,,Procedure,N/A,,,,,,,,,,,
+1755829d-3737-437c-83fb-c90d560b48c7,,,PAED46C Cerebral Malaria ,,,,,,Procedure,N/A,,,,,,,,,,,
+e0df20c5-361e-415c-8ecc-af15884e5b07,,,Treatment ( Paediatrics),,,,,,ConvSet,N/A,,,"PAED01C Thyroid Diseases <12 Yrs;
+PAED02C Diabetes - Simple <12 Yrs;
+PAED03C Diabetes with Complications <12 Yrs;
+PAED04C Other Endocrine Diseases <12 Yrs;
+PAED05C Malnutrition <12 Yrs;
+PAED06C Anaemia <12 Yrs;
+PAED07C Other Neonatal Diseases;
+PAED08C Neonatal Jaundice - Severe;
+PAED09C Neonatal Jaundice - Simple;
+PAED10C Birth Weight Abnormalities;
+PAED11C Birth Trauma;
+PAED12C Neonatal Respiratory Disorders without Ventilation;
+PAED13C Neonatal Respiratory Disorders with Ventilation;
+PAED14C Neonatal Septicaemia;
+PAED15C Heart Disease <12 Yrs;
+PAED16C Poisoning <12 Yrs;
+PAED18C Non-Traumatic Coma <12 Yrs;
+PAED19C Paralytic Conditions <12 Yrs;
+PAED20C Seizure Disorders <12 Yrs;
+PAED21C Transient Loss of Consciousness <12 Yrs;
+PAED22C Cerebro Vascular Accident/Stroke <12 Yrs;
+PAED23C Bone Marrow Hypoplasia <12 Yrs;
+PAED24C Sickle Cell Disease with Complication/Crisis <12 Yrs;
+PAED25C Clotting/Bleeding Disorders <12 Yrs;
+PAED26C Diseases of Skin/Subcutaneous Tissues <12 Yrs;
+PAED27C Kidney Disease without Renal Failure <12 Yrs;
+PAED28C Renal Failure without Dialysis <12 Yrs;
+PAED29C Acute Renal Failure with Dialysis <12 Yrs;
+PAED30C Obstructive Airway Disease <12 Yrs;
+PAED31C Diarrhoea and Vomiting <12 Yrs;
+PAED32C Liver Diseases <12 Yrs;
+PAED33C Gastro Intestinal Tract Bleeding <12 Yrs;
+PAED34C Non-Specific Abdominal Conditions <12 Yrs;
+PAED35C Shock <12 Yrs;
+PAED36C Malaria <12 Yrs;
+PAED37C Black Water Fever <12 Yrs;
+PAED38C Severe Infections <12 Yrs;
+PAED39C Localised Infections <12 Yrs;
+PAED40C Hypertension <12 Yrs;
+PAED41C Ischaemic Heart Disease <12 Yrs;
+PAED42C Pulmonary Embolism <12 Yrs;
+PAED43C Ulcer of Skin <12 Yrs;
+PAED44C Animal Bites <12 Yrs;
+PAED45C Retroviral Infection/Immuno Suppression <12 Yrs;
+PAED46C Cerebral Malaria;",,,,,,,,

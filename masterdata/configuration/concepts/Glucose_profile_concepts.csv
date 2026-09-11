@@ -1,0 +1,5 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:21,Data class,Data type,Answers
+854126ca-4634-4e1b-bcd8-d84b16722567,,Fasting Blood Sugar ,,,,,,Question,Numeric,
+7d9949db-69f3-412d-ad5e-c91a0fdc5fa2,,Blood Sugar Random ,,,,,,Question,Numeric,
+a7de60d8-0b53-4058-9561-d263a139606f,,2 Hour Post Prandial Blood Glucose ,,,,,,Question,Numeric,
+e2e2c490-b190-44a9-8036-2c3d55b0dc17,,HbA1c ,,,,,,Question,Numeric,

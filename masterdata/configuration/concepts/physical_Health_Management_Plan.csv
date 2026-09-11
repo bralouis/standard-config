@@ -1,0 +1,8 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:21,Data class,Data type,Answers
+7f4b7abc-c394-40bd-835f-a01a14086425,,Comment on Vitals (7017),,,,,,Question,Text,
+edaa84ce-f2d5-4721-9b3e-138e73c905f6,,Treatment Initiated Continued or Completed? (7011),,,,,,Question,Boolean,
+15cf1019-3f70-479f-b89b-41644fedf9e5,,Investigations Outstanding? (7012),,,,,,Question,Boolean,
+92a39cec-4d74-4371-b2b5-c2c23eababde,,Risk Issues Addressed? (7013),,,,,,Question,Boolean,
+043d9f73-2ea7-4db6-bf9d-ff8ae905fd8d,,Next Appointment Arranged? (7016),,,,,,Question,Boolean,
+a84178e2-d1c3-467d-8035-70b73f367fcf,,Recommended Interval for Next Appoitment ,,,,,,Question,Numeric,
+d4fd74f7-1efb-4a08-ab00-d026b502168c,,Issues to Address At Next Review? (Message for Next Reviewer) ,,,,,,Question,Text,

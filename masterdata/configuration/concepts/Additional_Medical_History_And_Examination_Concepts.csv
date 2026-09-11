@@ -1,0 +1,259 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:6,Data class,Data type,Answers
+44b69859-1927-45dd-b3f1-74b4778f5909,,Jaundice present,Jaundice,,,,,Misc,N/A,
+9acd31a3-0565-47fc-a71c-15e436c556ff,,Nutrition Status Pallor,Pallor,,,,,Misc,N/A,
+143050AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,Cyanosis,Cyanosis,,,,,Misc,N/A,
+065bf21b-a0ce-4d2a-88af-76dc77fb522b,,Lymph Node Enlarged,Lymphadenopathy,,,,,Misc,N/A,
+a18b09a3-a3e6-4629-8c66-07e2f5898d56,,"Add general clinical features/details , Specify",Please Specify,,,,,Misc,N/A,
+b30ab4c6-5f19-4557-8280-6ae9eccc7c36,,General symptoms and signs,,,,,,Question,Coded,"Jaundice present ; Nutrition Status Pallor ; Headache ; Dizziness ; Fever ; Cyanosis ; Weight loss ; Obesity ; Lymph Node Enlarged ; Add general clinical features/details , Specify"
+4cafd4ef-583c-40f2-8f7a-cb8189951b3d,,Please add more general clinical features/details,Specify,,,,,Question,Text,
+131689AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,"Orthopnea, Cardiovascular symptoms",Orthopnea,,,,,Misc,N/A,
+1e0f4158-4e15-11e4-8a57-0800271c1b75,,"Chest Pain,  Cardiovascular symptoms",Chest Pain,,,,,Misc,N/A,
+19909766-298e-4595-942e-f8df8c293231,,"Dyspnea, Cardiovascular symptoms",Dyspnea at rest,,,,,Misc,N/A,
+dda62722-993a-4dcc-b1bc-9faf6ab43ea0,,"Dyspnoea on effort, Cardiovascular symptoms",Dyspnoea on effort,,,,,Misc,N/A,
+212d295f-4e15-11e4-8a57-0800271c1b75,,"Palpitations, Cardiovascular symptoms",Palpitations,,,,,Misc,N/A,
+e5cb594d-4e14-11e4-8a57-0800271c1b75,,"Tachycardia, paroxysmal SVT",Tachycardia,,,,,Misc,N/A,
+46651BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Bradycardia, Cardiovascular symptoms",Bradycardia,,,,,Misc,N/A,
+130783AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,,Paroxysmal Nocturnal Dyspnoea,Paroxysmal Nocturnal Dyspnoea,,,,,Misc,N/A,
+1f6a5ea9-4e15-11e4-8a57-0800271c1b75,,"Hemoptysis, Cardiovascular symptoms",Cough and hemoptysis,,,,,Misc,N/A,
+17162BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Intermittent claudication, Cardiovascular symptoms",Intermittent claudication,,,,,Misc,N/A,
+56222774-1c8b-48fc-a4ed-47d8c7747378,,"Cold extremetes, Cardiovascular symptoms",Cold extremetes,,,,,Misc,N/A,
+23420BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,Varicose Veins (Varicose veins of lower extremities),Varicose veins,,,,,Misc,N/A,
+8961717d-b30d-46b1-b917-ff5a463fcb51,,"Hypertension, Cardiovascular symptoms",Hypertension,,,,,Misc,N/A,
+e4ec4d56-4e14-11e4-8a57-0800271c1b75,,"Hypotension, orthostatic, Cardiovascular symptoms","Hypotension, orthostatic",,,,,Misc,N/A,
+38850BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Heart Murmur, Cardiovascular symptoms",Cardiac murmurs,,,,,Misc,N/A,
+39445BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Gallop rhythm, Cardiovascular symptoms",Gallop rhythm,,,,,Misc,N/A,
+2286BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Rhonchi, Cardiovascular symptoms",Rhonchi,,,,,Misc,N/A,
+2232BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Crepitations, Cardiovascular symptoms",Basal crepitations,,,,,Misc,N/A,
+e555f79d-4e14-11e4-8a57-0800271c1b75,,"Pulmonary edema, acute",Pulmonary edema,,,,,Misc,N/A,
+668a9a87-f579-4a71-ab69-0cfc56c30ce4,,Add cardiovascular system features/details,Please Specify,,,,,Misc,N/A,
+0fc88b7e-55a6-4064-9a3e-e9eba6379ccd,,Cardiovascular symptoms and signs,,,,,,Question,Coded,"Orthopnea, Cardiovascular symptoms;
+Chest Pain,  Cardiovascular symptoms;
+Dyspnea, Cardiovascular symptoms;
+Dyspnoea on effort, Cardiovascular symptoms;
+Palpitations, Cardiovascular symptoms;
+Tachycardia, paroxysmal SVT;
+Bradycardia, Cardiovascular symptoms;
+Paroxysmal Nocturnal Dyspnoea;
+Hemoptysis, Cardiovascular symptoms;
+Intermittent claudication, Cardiovascular symptoms;
+Cold extremetes, Cardiovascular symptoms;
+Varicose Veins (Varicose veins of lower extremities);
+Hypertension, Cardiovascular symptoms;
+Hypotension, orthostatic, Cardiovascular symptoms;
+Heart Murmur, Cardiovascular symptoms;
+Gallop rhythm, Cardiovascular symptoms;
+Rhonchi, Cardiovascular symptoms;
+Crepitations, Cardiovascular symptoms;
+Pulmonary edema, acute;
+Add cardiovascular system features/details;"
+e39c118c-b8fd-43be-9f59-1bfda14cda6d,,Please add more cardiovascular system features/details,Specify,,,,,Question,Text,
+1e2918fb-4e15-11e4-8a57-0800271c1b75,,"Cough, Respiratory signs",Cough,,,,,Misc,N/A,
+1e0f4158-4e15-11e4-8a57-0800271c1b75,,"Chest Pain, Respiratory signs",Chest Pain,,,,,Misc,N/A,
+22819b29-2d65-4051-acdd-747eee53bf1a,,"Greenish or brownish or brownish sputum, Respiratory signs",Greenish or brownish or brownish sputum,,,,,Misc,N/A,
+620a2194-40f9-46c4-a239-e7d4b07ffe27,,"Tachypnoea, Respiratory signs",Tachypnoea,,,,,Misc,N/A,
+224b7592-4e15-11e4-8a57-0800271c1b75,,"Wheezing, Respiratory signs",Wheezing,,,,,Misc,N/A,
+ee63844d-4668-49f6-9cf6-6c084135693b,,"Intercostal Recession, Respiratory signs",Intercostal/Subcostal Recession,,,,,Misc,N/A,
+545BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Deviated trachea, Respiratory signs",Deviated trachea,,,,,Misc,N/A,
+2243BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"DULLNESS TO PERCUSSION, Respiratory signs",Percussion note dull,,,,,Misc,N/A,
+1f52f7e9-3f39-4263-a0da-ee2b48e18f32,,"Percussion note stony dull, Respiratory signs",Percussion note stony dull,,,,,Misc,N/A,
+2286BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Rhonchi, Respiratory signs",Rhonchi,,,,,"Misc",N/A,
+2232BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Crepitations, Respiratory signs",Crepitations,,,,,Misc,N/A,
+fc3b3977-9c28-42aa-8d4f-297d66b64fb1,,Air entry reduced (specify zone),,,,,,Misc,N/A,
+aa9c0655-4648-4223-868c-c728d9b3bd27,,Add respiratory system features/details Specify,Other Specify,,,,,Misc,N/A,
+dad27b9d-6ab1-4dfb-b8a4-9682dd61805e,,Respiratory symptoms and signs,,,,,,Question,Coded,"Cough, Respiratory signs;
+Chest Pain, Respiratory signs;
+Greenish or brownish or brownish sputum, Respiratory signs;
+Tachypnoea, Respiratory signs;
+Wheezing, Respiratory signs;
+Intercostal Recession, Respiratory signs;
+Deviated trachea, Respiratory signs;
+DULLNESS TO PERCUSSION, Respiratory signs;
+Percussion note stony dull, Respiratory signs;
+Rhonchi, Respiratory signs;
+Crepitations, Respiratory signs;
+Air entry reduced (specify zone);
+Add respiratory system features/details Specify;"
+9d759436-a196-40d8-bc48-bfe2a14f70ce,,Please add more respiratory system features/details,Specify,,,,,Question,Text,
+1e01664e-4e15-11e4-8a57-0800271c1b75,,"Anorexia, Gastrointestinal symptoms",Anorexia,,,,,Misc,N/A,
+207d0654-4e15-11e4-8a57-0800271c1b75,,"Nausea, alone",Nausea,,,,,Misc,N/A,
+2216e20d-4e15-11e4-8a57-0800271c1b75,,"Vomiting, Gastrointestinal symptoms",Vomiting,,,,,Misc,N/A,
+ff7417f1-21a0-4dc8-98cb-cc11af13df49,,"Diarrhoea, Gastrointestinal symptoms",Diarrhoea,,,,,Misc,N/A,
+1fc47a4b-e35d-4f89-953e-52c4c6a69eb5,,"Weight loss, Gastrointestinal symptoms",Weight loss,,,,,Misc,N/A,
+1e35fb1a-4e15-11e4-8a57-0800271c1b75,,"Dysphagia, Gastrointestinal symptoms",Dysphagia,,,,,Misc,N/A,
+78d265e0-9141-41ca-84b4-ae92036ff6f5,,"Pain worse after food, Gastrointestinal symptoms",Pain worse after food,,,,,Misc,N/A,
+488e876e-b81d-409a-891f-a6b0ae9a5800,,"Pain worse on hunger, Gastrointestinal symptoms",Pain worse on hunger,,,,,Misc,N/A,
+2ec0d5a4-fef9-4939-a80b-ee1e20350059,,"Pain wakes patient at dawn, Gastrointestinal symptoms",Pain wakes patient at dawn,,,,,Misc,N/A,
+1e233bb7-4e15-11e4-8a57-0800271c1b75,,"Constipation, Gastrointestinal symptoms",Constipation,,,,,Misc,N/A,
+fa57592c-c137-4539-b02b-3489c3599f00,,"Changed bowel habits, Gastrointestinal symptoms",Changed bowel habits,,,,,Misc,N/A,
+efac48c7-d8b8-4cca-8f77-9c6b2b4b64b5,,"Bloody stools, Gastrointestinal symptoms",Bloody stools,,,,,Misc,N/A,
+92f14ed1-ac2e-4594-9268-fa8ee6bdc539,,"Mucoid stools, Gastrointestinal symptoms",Mucoid stools,,,,,Misc,N/A,
+2dff81e1-00e1-4ed5-9d07-1e3f4531090a,,"Pale bulky stools, Gastrointestinal symptoms",Pale bulky stools,,,,,Misc,N/A,
+39586BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Fresh Blood Passed Per Rectum, Gastrointestinal symptoms",Fresh blood per rectum,,,,,Misc,N/A,
+3bca473c-c614-4a77-bee5-2f8b609cd6cd,,"Tenderness in abdomen, Gastrointestinal symptoms",Tenderness in abdomen,,,,,Misc,N/A,
+50506BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Guarding of the Abdomen-Involuntary, Gastrointestinal symptoms",Guarding in abdomen,,,,,Misc,N/A,
+27889BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"rebound tenderness abdomen, Gastrointestinal symptoms",Rebound tenderness,,,,,"Misc",N/A,
+188a26e2-f171-43f2-b151-17382a0b3bd9,,"No abdominal masses palpable, Gastrointestinal symptoms",No abdominal masses palpable,,,,,Misc,N/A,
+2107BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Hepatomegaly, Gastrointestinal symptoms",Hepatomegaly,,,,,Misc,N/A,
+2108BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Splenomegaly, Gastrointestinal symptoms",Splenomegaly,,,,,Misc,N/A,
+ac18ef2b-a993-49c6-b4cf-cea11b3182c0,,"Palpable gall bladder, Gastrointestinal symptoms",Palpable gall bladder,,,,,"Misc",N/A,
+1dfe7928-4e15-11e4-8a57-0800271c1b75,,"Abdominal Lump, Gastrointestinal symptoms",Abdominal mass,,,,,Misc,N/A,
+99d06aaa-b700-4acd-8e5d-11c51dd83272,,Add gastrointestinal system features/details Specify,Other Specify,,,,,Misc,N/A,
+f4946302-f686-44cd-a5cd-429ded1f6a6f,,Gastrointestinal symptoms and signs,,,,,,Question,Coded,"Anorexia, Gastrointestinal symptoms;
+Nausea, alone;
+Vomiting, Gastrointestinal symptoms;
+Diarrhoea, Gastrointestinal symptoms;
+Weight loss, Gastrointestinal symptoms;
+Dysphagia, Gastrointestinal symptoms;
+Pain worse after food, Gastrointestinal symptoms;
+Pain worse on hunger, Gastrointestinal symptoms;
+Pain wakes patient at dawn, Gastrointestinal symptoms;
+Constipation, Gastrointestinal symptoms;
+Changed bowel habits, Gastrointestinal symptoms;
+Bloody stools, Gastrointestinal symptoms;
+Mucoid stools, Gastrointestinal symptoms;
+Pale bulky stools, Gastrointestinal symptoms;
+Fresh Blood Passed Per Rectum, Gastrointestinal symptoms;
+Tenderness in abdomen, Gastrointestinal symptoms;
+Guarding of the Abdomen-Involuntary, Gastrointestinal symptoms;
+rebound tenderness abdomen, Gastrointestinal symptoms;
+No abdominal masses palpable, Gastrointestinal symptoms;
+Hepatomegaly, Gastrointestinal symptoms;
+Splenomegaly, Gastrointestinal symptoms;
+Palpable gall bladder, Gastrointestinal symptoms;
+Abdominal Lump, Gastrointestinal symptoms;
+Add gastrointestinal system features/details Specify;"
+f2bc2037-f6b4-403f-8052-1a4aac3501e3,,Specify Other gastrointestinal system features/details,Specify,,,,,Question,Text,
+86a8e925-d8ce-4a0d-9aeb-6a6d51e773ac,,Vaginal / Penile Discharge,"Offensive vaginal discharge , Vaginal / Penile Discharge",,,,,Misc,N/A,
+f610001f-fa24-457e-84fb-5dba316e2d57,,"Dysuria, urological symptoms",Dysuria,,,,,Misc,N/A,
+e9fb3648-4e14-11e4-8a57-0800271c1b75,,"Hematuria unspec, urological symptoms",Hematuria,,,,,Misc,N/A,
+25310BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Suprapubic pain, urological symptoms",Suprapubic pain,,,,,Misc,N/A,
+ee3743c1-ece8-49a0-8b5c-b7fe84f1dca5,,"Suprapubic mass, urological symptoms",Suprapubic mass,,,,,Misc,N/A,
+103758BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Loin pain, urological symptoms",Loin pain,,,,,Misc,N/A,
+105481BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"urgency of micturition, urological symptoms",Urinary urgency,,,,,Misc,N/A,
+"104654BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+",,"Poor urinary stream, urological symptoms",Poor urinary stream,,,,,Misc,N/A,
+41515BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Dribbling of Urine, urological symptoms",Terminal dribbling,,,,,Misc,N/A,
+ef48f6f5-d101-445c-a118-ab8e78206cb7,,"Renal angle tenderness, urological symptoms",Renal angle tenderness,,,,,Misc,N/A,
+eb10aba3-4ead-4e3a-9054-78c0abb8a13e,,"Add GU system features/details, Specify",Other Specify,,,,,Misc,N/A,
+f8c8de16-1d09-4333-a9dc-92b3b21c0556,,"Genito-urinary and urological symptoms and signs ",,,,,,Question,Coded,"Vaginal / Penile Discharge;
+Dysuria, urological symptoms;
+Hematuria unspec, urological symptoms;
+Suprapubic pain, urological symptoms;
+Suprapubic mass, urological symptoms;
+Loin pain, urological symptoms;
+urgency of micturition, urological symptoms;
+Poor urinary stream, urological symptoms;
+Dribbling of Urine, urological symptoms;
+Renal angle tenderness, urological symptoms;
+Add GU system features/details, Specify;"
+005f4bc6-8043-4cfb-8afe-7725fce73508,,Please add more GU system features/details,Other Specify,,,,,Question,Text,
+86a8e925-d8ce-4a0d-9aeb-6a6d51e773ac,,Vaginal / Penile Discharge,Offensive vaginal discharge,,,,,Misc,N/A,
+e8c7c985-4e14-11e4-8a57-0800271c1b75,,"Amenorrhea, Gynaecological Symptoms",Amenorrhea,,,,,Misc,N/A,
+1fad62aa-4e15-11e4-8a57-0800271c1b75,,"Irregular menstrual cycle, Gynaecological Symptoms",Irregular menstrual cycle,,,,,Misc,N/A,
+e907dcb4-4e14-11e4-8a57-0800271c1b75,,"Metrorrhagia, Gynaecological Symptoms",Metrorrhagia,,,,,Misc,N/A,
+102876BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"history of menorrhagia, Gynaecological Symptoms",Menorrhagia,,,,,Misc,N/A,
+e905096c-4e14-11e4-8a57-0800271c1b75,,"Menstruation painful, Gynaecological Symptoms",Dysmenorrhoea,,,,,Misc,N/A,
+e92970af-4e14-11e4-8a57-0800271c1b75,,"Dyspareunia, Gynaecological Symptoms",Dyspareunia,,,,,Misc,N/A,
+fe3e1bfc-9f18-450c-9ca4-8c08bbd0003e,,"Waist pains, Gynaecological Symptoms",Waist pains,,,,,Misc,N/A,
+46857BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Vaginal bleeding, Gynaecological Symptoms",Vaginal bleeding,,,,,Misc,N/A,
+f610001f-fa24-457e-84fb-5dba316e2d57,,"Dysuria, Gynaecological Symptoms",Dysuria,,,,,Misc,N/A,
+948dbc78-f9ae-40b7-87fc-5a4c6799a919,,"Tender vaginal examination, Gynaecological Symptoms",Tender vaginal examination,,,,,Misc,N/A,
+21909BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Adnexal Tenderness, Gynaecological Symptoms ",Tender R/L adenexal masses,,,,,Misc,N/A,
+d2981e44-2ec6-44ee-a3bf-d5f63776ea45,,"Tenderness in R/L iliac fossa, Gynaecological Symptoms",Tenderness in R/L iliac fossa,,,,,Misc,N/A,
+bf3c7aa7-eff4-4aee-aa2b-61fd2fc76848,,"Positive cervical excitation, Gynaecological Symptoms",Positive cervical excitation,,,,,Misc,N/A,
+411cca80-3e10-4675-9c5e-91c61a0ddd11,,"Add Gyn/Obs clinical features/details , Specify",Other Specify,,,,,Misc,N/A,
+ad3fab55-14ba-4dcc-b1c7-08c7df5406a8,,Gynaecological and Obstetric symptoms and signs,,,,,,Question,Coded,"Vaginal / Penile Discharge;
+Amenorrhea, Gynaecological Symptoms;
+Irregular menstrual cycle, Gynaecological Symptoms;
+Metrorrhagia, Gynaecological Symptoms;
+history of menorrhagia, Gynaecological Symptoms;
+Menstruation painful, Gynaecological Symptoms;
+Dyspareunia, Gynaecological Symptoms;
+Waist pains, Gynaecological Symptoms;
+Vaginal bleeding, Gynaecological Symptoms;
+Dysuria, Gynaecological Symptoms;
+Tender vaginal examination, Gynaecological Symptoms;
+Adnexal Tenderness, Gynaecological Symptoms ;
+Tenderness in R/L iliac fossa, Gynaecological Symptoms;
+Positive cervical excitation, Gynaecological Symptoms;
+Add Gyn/Obs clinical features/details , Specify;"
+05590753-0082-4009-bd57-4aa587b077d1,,Specify other  Gyn/Obs clinical features/details,Specify,,,,,Question,Text,
+756883b1-cfbb-490d-bc98-e07118b5ff27,,"Joint Pain, Musculoskeletal symptoms",Joint Pains,,,,,Misc,N/A,
+75cb3485-5f36-46f3-bcf3-a5d8bbf8a9ed,,"Stiffness, Musculoskeletal symptoms",Joint stiffness,,,,,Misc,N/A,
+fff147ec-976f-47f1-83dd-395b230086a0,,"Joint Swelling, Musculoskeletal symptoms",Swollen joints,,,,,Misc,N/A,
+eb24c13a-4e14-11e4-8a57-0800271c1b75,,"Acquired deformity, limb, unspec-Musculoskeletal symptoms",Deformed joint(s),,,,,Misc,N/A,
+23475071-65d4-482a-8d25-14716df5f4b5,,"Pain worse in morning, Musculoskeletal symptoms",,,,,,Misc,N/A,
+32b78d1c-6602-44cb-ab7e-dbd9b308f924,,"Pain worse in evening, Musculoskeletal symptoms",,,,,,Misc,N/A,
+db71edd8-f86e-4f23-b19e-a72f7831e7d3,,"Muscle weakness/stiffness, Musculoskeletal symptoms",,,,,,Misc,N/A,
+212927fb-4e15-11e4-8a57-0800271c1b75,,"Low backache, Musculoskeletal symptoms",Low backache,,,,,Misc,N/A,
+416ebe63-0eb7-473a-b6e0-94fd4cc71239,,"Stiff neck, Musculoskeletal symptoms",Neck pain/stiffnes,,,,,Misc,N/A,
+1a934a17-caed-4526-8f32-188321f855fb,,"Parasthesias, Musculoskeletal symptoms",Pins and needles,,,,,Misc,N/A,
+f0874c4f-4e14-11e4-8a57-0800271c1b75,,"Sciatia, Musculoskeletal symptoms",Sciatica,,,,,Misc,N/A,
+49678BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Acquired deformity of spine, Musculoskeletal symptoms",Spinal deformity,,,,,Misc,N/A,
+36272BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Joint Crepitus, Musculoskeletal symptoms",Joint Crepitus,,,,,Misc,N/A,
+107595BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Joint fluid, Musculoskeletal symptoms",Fluid-filled joint,,,,,Misc,N/A,
+c1ccd9c1-126a-40d5-8dbe-f84c37dbc2a5,,"Add musculoskeletal system features/details,  Specify",Others Specify,,,,,Misc,N/A,
+10e4fff7-8126-4352-9afe-381fb21f014f,,Musculoskeletal symptoms and signs,,,,,,Question,Coded,"Joint Pain, Musculoskeletal symptoms;
+Stiffness, Musculoskeletal symptoms;
+Joint Swelling, Musculoskeletal symptoms;
+Acquired deformity, limb, unspec-Musculoskeletal symptoms;
+Pain worse in morning, Musculoskeletal symptoms;
+Pain worse in evening, Musculoskeletal symptoms;
+Muscle weakness/stiffness, Musculoskeletal symptoms;
+Low backache, Musculoskeletal symptoms;
+Stiff neck, Musculoskeletal symptoms;
+Parasthesias, Musculoskeletal symptoms;
+Sciatia, Musculoskeletal symptoms;
+Acquired deformity of spine, Musculoskeletal symptoms;
+Joint Crepitus, Musculoskeletal symptoms;
+Joint fluid, Musculoskeletal symptoms;
+Add musculoskeletal system features/details,  Specify;"
+8ca1c685-1634-4f44-a3e0-3e8faacb1cdb,,Specify Other musculoskeletal system features/details,Specify,,,,,Question,Text,
+40476852-8e38-4461-8ed6-08ac3c28f1d4,,"Blurred Vision, Neurological symptoms",Blurred Vision,,,,,Misc,N/A,
+38764BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Hemianopia, Neurological symptoms ",Hemianopsia,,,,,Misc,N/A,
+0c507620-8758-4dd4-add8-a3b7b4fb49b2,,"Tinnitus, Neurological symptoms",Tinnitus,,,,,Misc,N/A,
+e269b436-4e14-11e4-8a57-0800271c1b75,,"Vertigo Central, Neurological symptoms",Vertigo/Dizziness,,,,,Misc,N/A,
+17604BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Muscle Hypertonia, Neurological symptoms ",Hypertonia,,,,,Misc,N/A,
+1f6685c0-4e15-11e4-8a57-0800271c1b75,,"Hemiplegia and hemiparesis, Neurological symptoms",Hemiplegia and hemiparesis,,,,,Misc,N/A,
+b1d1af48-6756-4387-b70b-066329f9e62f,,"Partial or total loss of sensation, Neurological symptoms",Partial or total loss of sensation,,,,,Misc,N/A,
+e3317bb6-4e14-11e4-8a57-0800271c1b75,,"Cognitive impairment Mild, Neurological symptoms",Cognitive impairment,,,,,Misc,N/A,
+19083BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Dyslexia, Neurological symptoms",Difficulty reading (Dyslexia),,,,,Misc,N/A,
+19088BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Dysgraphia, Neurological symptoms",Difficulty writing (Dysgraphia),,,,,Misc,N/A,
+d3497da9-52f3-4fa3-968a-673636768ccf,,"Impaired alertness, Neurological symptoms",Impaired alertness,,,,,Misc,N/A,
+b4affee1-cd0c-4b1f-be1b-60221212f944,,"Changes in personality, Neurological symptoms",Changes in personality,,,,,Misc,N/A,
+f11a403c-56a4-4288-ada3-61c1ff0756c2,,"Expressive (Broca's) aphasia, Neurological symptoms",Expressive (Broca's) aphasia,,,,,Misc,N/A,
+92304415-5636-4d0f-8d58-2b73dab8173f,,"Sensory (Wernicke's) aphasia, Neurological symptoms",Sensory (Wernicke's) aphasia,,,,,Misc,N/A,
+5e51b977-632a-4005-8ff8-4b15f9ebc9a5,,"Astereognosis, Neurological symptoms",Astereognosis,,,,,Misc,N/A,
+41387BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Dyscalculia, Neurological symptoms",Dyscalculia,,,,,Misc,N/A,
+51599BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Anterograde amnesia, Neurological symptoms",Anterograde amnesia,,,,,Misc,N/A,
+" 27535BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB",,"Retrograde amnesia, Neurological symptoms",Retrograde amnesia,,,,,Misc,N/A,
+20978BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Cerebellar ataxia, Neurological symptoms",Cerebellar ataxia,,,,,Misc,N/A,
+13132BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Temporal lobe epilepsy, Neurological symptoms",Temporal lobe epilepsy,,,,,Misc,N/A,
+14912BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Focal Epilepsy, Neurological symptoms",Focal (Jacksonian) seizures,,,,,Misc,N/A,
+e2de8573-1ea2-499d-abe0-e8dd38663a6b,,"Generalized Tonic – Clonic, Neurological symptoms",Grand mal (tonic-clonic) seizures,,,,,Misc,N/A,
+fd144877-6041-43e0-a0f6-7d641c3d7920,,"Add neurological features/details, Specify",Please Specify,,,,,Misc,N/A,
+8e9079cd-003b-4db7-b2ee-00f036e2a036,,"Neurological symptoms and signs ",,,,,,Question,Coded,"Blurred Vision, Neurological symptoms;
+Hemianopia, Neurological symptoms ;
+Tinnitus, Neurological symptoms;
+Vertigo Central, Neurological symptoms;
+Muscle Hypertonia, Neurological symptoms ;
+Hemiplegia and hemiparesis, Neurological symptoms;
+Partial or total loss of sensation, Neurological symptoms;
+Cognitive impairment Mild, Neurological symptoms;
+Dyslexia, Neurological symptoms;
+Dysgraphia, Neurological symptoms;
+Impaired alertness, Neurological symptoms;
+Changes in personality, Neurological symptoms;
+Expressive (Broca's) aphasia, Neurological symptoms;
+Sensory (Wernicke's) aphasia, Neurological symptoms;
+Astereognosis, Neurological symptoms;
+Dyscalculia, Neurological symptoms;
+Anterograde amnesia, Neurological symptoms;
+Retrograde amnesia, Neurological symptoms;
+Cerebellar ataxia, Neurological symptoms;
+Temporal lobe epilepsy, Neurological symptoms;
+Focal Epilepsy, Neurological symptoms;
+Generalized Tonic – Clonic, Neurological symptoms;
+Add neurological features/details, Specify;"
+25904a93-7bfc-4dfe-a391-b4c169e78bb4,,Please Specify other  neurological features/details,Specify,,,,,Question,Text,
+c39a35e2-3f10-11e4-adec-0800271c1b75,,Examination Notes,,,,,,Question,Text,

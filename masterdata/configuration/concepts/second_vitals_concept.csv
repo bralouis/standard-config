@@ -1,0 +1,12 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:10,Data class,Data type,Answers
+135436BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,WHODAS,WHO Disability Assessment Schedule 2.0,,,,,Misc,Numeric,
+ebb18104-7682-4c26-85ed-9dca61f08522,,General Health Questionnaires,,,,,,Misc,Numeric,
+336c3824-3aaf-4941-8e1a-4f75db942d4f,,Beck Depression Inventory,,,,,,Misc,Numeric,
+908ebb23-9907-46b3-a34b-bd0603b1165b,,Mini Mental State Examination,,,,,,Misc,Numeric,
+e477113e-173c-4905-83b6-8f2370e6abd7,,Positive and Negative Symptoms Scale,,,,,,Misc,Numeric,
+fb0b8f7d-843c-482e-93bd-7aeea829c6a7,,Glasgow Antipsychotic Side-Effect Scacle,,,,,,Misc,Numeric,
+6477f825-a14a-4550-8f63-30c56d1f6340,,"Hamilton Anxiety Rating Scale ",,,,,,Misc,Numeric,
+7ad38aa9-cfec-45e4-9d96-ea15abac7b2c,,Hamilton Depression Rating Scale (17 Item),,,,,,Misc,Numeric,
+f7a1b223-43f1-45ca-b4e3-d28469aabe15,,Montgomery and Asberg Depression Rating Scale (10-Item),,,,,,Misc,Numeric,
+9c901b87-dd09-4b70-a3a6-62953b048985,,Addenbrooke's Cognitive Examination - Revised,,,,,,Misc,Numeric,
+20ddb5ae-ccfe-4907-b53a-76d4cb68c578,,Arizona Sexual Experiences Scale,,,,,,Misc,Numeric,

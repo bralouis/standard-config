@@ -1,0 +1,167 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:4,Data class,Data type,Answers
+58f72d64-dc96-40fb-97b2-dc318a937bd8,,Restless/ Irritable,Restless/ Irritable,,,,,Misc,N/A,
+7dcdd72c-498c-432c-99bf-f7c831b82a0d,,Offensive,,,,,,Misc,N/A,
+96f6d5cb-8484-4e09-86f7-0064744d79b4,,Well kempt and well groomed,,,,,,Misc,N/A,
+2b9ad6cc-de1b-427f-acf0-9ccecf722a1a,,Suspicious or guarded,,,,,,Misc,N/A,
+ad926523-01c7-46f6-b4c6-bb63ad2c379e,"         ","Anxiety, Appearance and behaviour",Anxious,,,,,Misc,N/A,
+477f178c-e50f-4fde-a593-9f25878057c5,,Perplexed,,,,,,Misc,N/A,
+db50401e-60d9-4d62-b04a-c6340d94a36c,,Good rapport,,,,,,Misc,N/A,
+e353f85f-4e14-11e4-8a57-0800271c1b75,,"Restless legs syndrome, Appearance and behaviour",Akathisic/Motor Restlessness,,,,,Misc,N/A,
+909788e6-1b5b-4aec-ac57-3f0458341cfd,,Good eye contact,,,,,,Misc,N/A,
+4b06cdd3-a18a-4d7c-804b-5a058d00d74e,,Reacts to external stimuli,,,,,,Misc,N/A,
+aebfd0b2-f91f-40c8-84ac-b6dff8130dbe,,Over-familiar,,,,,,Misc,N/A,
+0bc172c8-3955-4b10-83d7-62543987b183,,Mask-like face,,,,,,Misc,N/A,
+808d4aa4-07fb-4b68-a1a6-b2e19997e353,,Other Appearance and behaviour,Please Specify,,,,,Misc,N/A,
+0fcbfdf7-6a35-4a0a-ac48-5d13ad13c08b,,Appearance and behaviour,,,,,,Question,Coded,"Restless/ Irritable;
+Offensive;
+Well kempt and well groomed;
+Suspicious or guarded;
+Anxiety, Appearance and behaviour;
+Perplexed;
+Good rapport;
+Restless legs syndrome, Appearance and behaviour;
+Good eye contact;
+Reacts to external stimuli;
+Over-familiar;
+Mask-like face;
+Other Appearance and behaviour;"
+2b8a55a3-d00b-4581-92f9-ba060eaf524f,,Other Appearance and behaviour(Specify),Specify,,,,,Question,Text,
+5ef41eaa-3b6a-4ff8-b0a4-01e6ced29772,,Catalepsy,,,,,,Misc,N/A,
+990be98f-4e17-4241-8496-dc3df747e0c3,,Psychological pillow,,,,,,Misc,N/A,
+b1f84a7a-6348-4fde-a94e-6c060a1bea1b,,Other abnormalities of posture,Please Specify,,,,,Misc,N/A,
+62511260-9d72-49ae-9a0e-8b6609d7f4e6,,Abnormal postures,,,,,,Question,Coded,Catalepsy ; Psychological pillow ; Other abnormalities of posture
+37214795-b0d5-4738-a61c-9ed8d110cbe8,,Other abnormalities of posture(Specify),Specify,,,,,Question,Text,
+33537BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Muscle Rigidity, Abnormal body movements",Rigidity,,,,,Misc,N/A,
+17165BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Rubral Tremors, Abnormal body movements",Tremors,,,,,Misc,N/A,
+85987BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Tardive Dyskinesia, Abnormal body movements",Dyskinesia,,,,,Misc,N/A,
+16757dc8-4c41-4d4e-af16-5565a4e9af68,,Hemiballismus,,,,,,Misc,N/A,
+0ab8ecdf-6ad3-4d64-a71f-3d8ffec70346,,Other abnormalities of body movements,Please Specify,,,,,Misc,N/A,
+d421be71-068e-4ba6-85b0-785353d2bfd4,,Abnormal body movements,,,,,,Question,Coded,"Muscle Rigidity, Abnormal body movements;
+Rubral Tremors, Abnormal body movements;
+Tardive Dyskinesia, Abnormal body movements;
+Hemiballismus;
+Other abnormalities of body movements;"
+09dcb20e-7b02-4331-b39c-3155eb0d98fb,,Other abnormalities of body movements(specify),Specify,,,,,Question,Text,
+56da9ea7-a8e8-46d6-8620-7d89fdb13886,,Flatenning of affect,Flatenning of affect,,,,,Misc,N/A,
+46955eec-8a16-4c95-a49e-efbd1f15b299,,"Restricted affect, Abnormalities of Affect",Restricted affect,,,,,Misc,N/A,
+617fc8d4-f1ba-44e0-b1a5-c596b23e4410,,Incongruous affect,Incongruous affect,,,,,Misc,N/A,
+00bc5e3c-f8ba-4306-8630-f70217e534e9,,"Labile affect, Abnormalities of Affect",Labile affect,,,,,Misc,N/A,
+10e3f9e6-a014-43b0-a5f8-ed094a2862fc,,Reactive affect,Reactive affect,,,,,Misc,N/A,
+5f1407d9-d0be-434b-9e80-b1e6d4b70c2a,,Other abnormalities of affect,Please Specify,,,,,Misc,N/A,
+5374c3d2-9c84-4208-9efd-7851917aea83,,Abnormalities of Affect,,,,,,Question,Coded,"Flatenning of affect;
+Restricted affect, Abnormalities of Affect;
+Incongruous affect;
+Labile affect, Abnormalities of Affect;
+Reactive affect;
+Other abnormalities of affect;"
+db5ea0d7-2959-4118-a2fc-eaa3d9503f68,,Other abnormalities of affect (Specify),Specify,,,,,Question,Text,
+ad926523-01c7-46f6-b4c6-bb63ad2c379e,,"Anxiety, Abnormalities of mood",Anxious,,,,,Misc,N/A,
+506d37ec-84b7-418c-925e-2a0ff9d72300,,"Depression, Abnormalities of mood",Low mood,,,,,Misc,N/A,
+dd3f4a94-265e-488a-9d9d-03095c175df5,,Normal mood,Normal mood,,,,,Misc,N/A,
+113cb960-a16e-4e8e-b324-c518f412d17e,,"Elevated mood, Abnormalities of mood",Elevated mood,,,,,Misc,N/A,
+63cfd682-1917-4692-a8aa-54a50e0b6b32,,Diurnal mood variation,Diurnal mood variation,,,,,Misc,N/A,
+ccf36b70-bf6a-40bc-a666-e55dc0dd0b66,,Delusional atmosphere,Delusional atmosphere,,,,,Misc,N/A,
+3abf33f7-5ed6-4d5d-b2f6-6f215806e261,,Other abnormalities of mood,Please Specify,,,,,Misc,N/A,
+75d38287-8f8e-4aba-a4cc-d9aadb8935c1,,Abnormalities of mood,,,,,,Question,Coded,"Anxiety, Abnormalities of mood;
+Depression, Abnormalities of mood;
+Normal mood;
+Elevated mood, Abnormalities of mood;
+Diurnal mood variation;
+Delusional atmosphere;
+Other abnormalities of mood;"
+551d8f97-0dcb-463c-a9ad-6997fcc0447a,,Other abnormalities of mood specify,Specify,,,,,Question,Text,
+00830758-ecd9-436f-923a-eb980b8768c3,,"Pressured speech, Abnormalities of Speech",Pressured speech,,,,,Misc,N/A,
+adc323a1-6702-4222-b08f-cff445a3edd8,,"Retarded speech, Abnormalities of Speech",Retarded speech,,,,,Misc,N/A,
+accb4c53-4978-46e6-91c7-fd6f63d6dcff,,"Normal speech, Abnormalities of Speech",Normal speech,,,,,Misc,N/A,
+422130b9-eea7-4780-934d-8feaaafd599c,,"Word salad, Abnormalities of Speech",Word salad,,,,,Misc,N/A,
+a00019b8-c9a8-495f-a726-277d1e291950,,"Stock phrases, Abnormalities of Speech",Stock phrases,,,,,Misc,N/A,
+23309BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Verbigeration, Abnormalities of Speech",Verbigeration,,,,,Misc,N/A,
+41287BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Echolalia, Abnormalities of Speech",Echolalia,,,,,Misc,N/A,
+20060BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Conversion Muteness, Abnormalities of Speech",Mute,,,,,Misc,N/A,
+b5b32548-8ac0-489d-bcb0-f2f94f6dfbaa,,"Disorganised speech, Abnormalities of Speech",Disorganised speech,,,,,Misc,N/A,
+34b1493a-3289-4997-94a4-a27056e803e9,,"Other abnormalities of speech ",Please Specify,,,,,Misc,N/A,
+a7b4c37c-4713-45ad-8bf4-836b1eeaed6b,,Abnormalities of Speech,,,,,,Question,Coded,"Pressured speech, Abnormalities of Speech;
+Retarded speech, Abnormalities of Speech;
+Normal speech, Abnormalities of Speech;
+Word salad, Abnormalities of Speech;
+Stock phrases, Abnormalities of Speech;
+Verbigeration, Abnormalities of Speech;
+Echolalia, Abnormalities of Speech;
+Conversion Muteness, Abnormalities of Speech;
+Disorganised speech, Abnormalities of Speech;
+Other abnormalities of speech ;"
+1b4a21bc-cc50-46db-8b32-bc47581bdb2a,,Other abnormalities of speech specify,Specify,,,,,Question,Text,
+28312BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Pseudohallucinations, Abnormalities of perception",Pseudo-hallucination,,,,,Misc,N/A,
+ce4ef64d-5e21-45cb-afb2-4e08b7fe56a9,,"Elemental hallucination, Abnormalities of perception",Elemental hallucination,,,,,Misc,N/A,
+d09b248e-a29f-48f2-a085-88aabaa1d232,,"Imperative hallucinations, Abnormalities of perception",Imperative hallucinations,,,,,Misc,N/A,
+65b49783-bb2b-497b-b83c-0dee4e11fcc7,,"Olfactory hallucination, Abnormalities of perception",Olfactory hallucination,,,,,Misc,N/A,
+569037dc-cc8a-4a5b-a1e7-67768c3440e3,,"Functional hallucination, Abnormalities of perception",Functional hallucination,,,,,Misc,N/A,
+37909BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Hypnagogic hallucinations, Abnormalities of perception",Hypnagogic hallucinations,,,,,Misc,N/A,
+37908BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB,,"Hypnapompic Hallucinations, Abnormalities of perception ",Hypnopompic hallucinations,,,,,Misc,N/A,
+b8d61f73-a59c-41c5-a929-5027d110922c,,"Reflex hallucinations, Abnormalities of perception",Reflex hallucinations,,,,,Misc,N/A,
+1bdd13cf-d4f7-45dc-9dcd-f8e375e8fb0b,,"Third-person auditory hallucinations, Abnormalities of perception",Third-person auditory hallucinations,,,,,Misc,N/A,
+2f8ec066-96f2-437b-88b4-4a5ce22e34af,,"Lilliputian hallucination, Abnormalities of perception",Lilliputian hallucination,,,,,Misc,N/A,
+2254dd43-2b94-4ac8-a16f-b4ce12787917,,"Extracampine hallucination, Abnormalities of perception",Extracampine hallucination,,,,,Misc,N/A,
+2e47907e-481c-4637-9d81-9a19f12b861e,,"Other abnormalities of perception, Abnormalities of perception",Please Specify,,,,,Misc,N/A,
+96cee684-16a7-4451-aa99-da4426a28230,,Abnormalities of perception,,,,,,Question,Coded,"Pseudohallucinations, Abnormalities of perception;
+Elemental hallucination, Abnormalities of perception;
+Imperative hallucinations, Abnormalities of perception;
+Olfactory hallucination, Abnormalities of perception;
+Functional hallucination, Abnormalities of perception;
+Hypnagogic hallucinations, Abnormalities of perception;
+Hypnapompic Hallucinations, Abnormalities of perception ;
+Reflex hallucinations, Abnormalities of perception;
+Third-person auditory hallucinations, Abnormalities of perception;
+Lilliputian hallucination, Abnormalities of perception;
+Extracampine hallucination, Abnormalities of perception;
+Other abnormalities of perception, Abnormalities of perception;"
+e700e378-1631-409d-8acd-6fbf0b9e2ddc,,Other abnormalities of perception specify,Specify,,,,,Question,Text,
+bab37f1a-3f3d-4de2-855f-ba13c3e5ada4,,Schizophrenic thought disorder,,,,,,Misc,N/A,
+6ac725b7-5742-431e-8705-b9836907d4e3,,Thought blocking,,,,,,Misc,N/A,
+60447479-e4f5-4505-9f67-c7344b71da09,,Derailment,,,,,,Misc,N/A,
+86ebec48-5b65-4d75-82b3-436ff0aef76e,,Other Abnormalities of thought,Please Specify,,,,,Misc,N/A,
+a3d578d3-395f-4172-96ca-10bc9e9ec4eb,,Abnormalities of form (flow) of thought,,,,,,Question,Coded,Schizophrenic thought disorder ; Thought blocking ; Derailment ; Other Abnormalities of thought
+73440bf9-3450-4ea7-a1ad-a03ba125ff47,,Other abnormalities of form(flow) of thought Specify,Specify,,,,,Question,Text,
+86587fb1-9853-4c0e-b731-7b0dc199a782,,Delusions of reference,,,,,,Misc,N/A,
+858037c6-2c0f-4242-8965-2f09949c17d4,,Persecutory delusions,,,,,,Misc,N/A,
+4fe8604c-4ab0-4c88-b78e-076ecfb37ba9,,Grandiose delusions,,,,,,Misc,N/A,
+8e59b97e-0b4c-4d41-aa8c-b5fc81d6d989,,Delusional jealousy,,,,,,Misc,N/A,
+c02bb9a7-d842-405f-9206-3b1d90620367,,Nihilistic delusions,,,,,,Misc,N/A,
+59d84285-729d-44cf-be0c-773e2ad70cf6,,Delusional perception,,,,,,Misc,N/A,
+d4264bbd-fcd0-4a6c-8676-becb55a3259f,,Delusions of control,,,,,,Misc,N/A,
+89fc4b5d-f169-4ea2-af55-b29e22bd1e99,,Delusions of though interference,,,,,,Misc,N/A,
+cdd9b794-c2a4-470a-9ff8-b19f857313f4,,Delusions of love,,,,,,Misc,N/A,
+694275c0-72eb-4271-886d-73c57bb5218e,,Hypochondriacal delusions,,,,,,Misc,N/A,
+edf35a0a-9e93-4fea-b2dc-0a76059e9b7b,,Delusions of guilt,,,,,,Misc,N/A,
+42e9cb1a-65dd-4186-be82-da0eee03a9dd,,Othello syndrome,,,,,,Misc,N/A,
+32a7fd83-8053-4337-993f-97078be093a4,,Overvalued ideas,,,,,,Misc,N/A,
+e4502317-18cb-46b9-b919-9b9af2b08b02,,Other abnormalities of content of thought,Please Specify,,,,,Misc,N/A,
+8845b55c-3ed7-4bd6-b794-133f99dd8df7,,Abnormalities of content of thought,,,,,,Question,Coded,Delusions of reference ; Persecutory delusions ; Grandiose delusions ; Delusional jealousy ; Nihilistic delusions ; Delusional perception ; Delusions of control ; Delusions of though interference ; Delusions of love ; Hypochondriacal delusions ; Delusions of guilt ; Othello syndrome ; Overvalued ideas ; Other abnormalities of content of thought
+9b342f5b-6e48-4c46-8dc8-a01d465c18f6,,Other Abnormalities of content of thought Specify,Specify,,,,,Question,Text,
+ae791b1e-1dc4-48ee-ae18-3f826c9e09e3,,Voices heard arguing,,,,,,Misc,N/A,
+ab483745-02ba-42d7-9434-3fd18e4108c5,,Thought echo,,,,,,Misc,N/A,
+dd59843d-6979-453a-a380-946119396fa5,,Running commentary,,,,,,Misc,N/A,
+ec32c893-1f65-401c-869f-afdc9df663f9,,Thought withdrawal,,,,,,Misc,N/A,
+44986d0e-d70f-413f-af1e-49c7568d6f99,,Thought broadcasting,,,,,,Misc,N/A,
+0a2b0357-6bce-4f10-8ffa-b0f5382177b4,,Thought insertion,,,,,,Misc,N/A,
+ebea8c15-20aa-48c9-bd57-689d16dc0030,,Passivity of affect,,,,,,Misc,N/A,
+5f4517fd-1d59-41b5-9ec4-7a7688efb644,,Passivity of impulse,,,,,,Misc,N/A,
+f99e4d8b-f3fe-4d1d-97e8-b77ea9edd6ec,,Passivity of volitions,,,,,,Misc,N/A,
+30294824-e0f0-4c21-a493-25d10256f7ae,,Somatic passivity,,,,,,Misc,N/A,
+7ca8ebc5-58ae-47b9-81b2-5890f8743d89,,First-rank symptoms of schizophrenia,,,,,,Question,Coded,"Voices heard arguing ; Thought echo ; Running commentary ; Thought withdrawal ; Thought broadcasting ; Thought insertion ; Delusional perception ; Passivity of affect ; Passivity of impulse ; Passivity of volitions ; Somatic passivity "
+9dd8cbff-226e-48ed-b0f0-b9933cfe9d21,,No suicidal thoughts,,,,,,Misc,N/A,
+152de278-4b56-4cd3-8a42-9e27c5377055,,Minor self-harm,,,,,,Misc,N/A,
+6a02d49f-af89-45cb-9654-919fbfc8a50f,,Serious self-harm,,,,,,Misc,N/A,
+9b40e477-b120-45dd-a629-f4f94c8a18ca,,Suicidal gestures no intent,,,,,,Misc,N/A,
+75120bef-2bfc-40b5-9ba1-ded4b0daa3bc,,Serious suicidal attempt,,,,,,Misc,N/A,
+ff4de18d-a206-4b7f-bdc7-d20a1a3ac2bf,,Active suicidal plans,,,,,,Misc,N/A,
+c474c61f-69f2-49c3-b08e-70f337abaf26,,Suicidality and selfharm,,,,,,Question,Coded,"No suicidal thoughts ; Minor self-harm ; Serious self-harm ; Suicidal gestures no intent ; Serious suicidal attempt ; Active suicidal plans "
+b09a0ad9-6514-402b-b374-cd2bd2be19cb,,No insight,,,,,,Misc,N/A,
+f41493e2-d293-493e-aec1-6127cb0d28f7,,Partial insight,,,,,,Misc,N/A,
+ffe34533-477c-45ad-8fa4-8875f3b7b232,,Full insight,,,,,,Misc,N/A,
+421987cd-5285-4b25-b42a-fedb8713ebd3,,Level of insight,,,,,,Question,Coded,No insight ; Partial insight ; Full insight
+af94f937-0bf4-4a9d-90c3-8e8714f45297,,Does the patient believe that the abnormal experiences are symptoms?,,,,,,Question,Boolean,
+5b8d6654-8e2f-4e9a-8aff-3f18385a579c,,Does the patient believe that the symptoms are due to an illness?,,,,,,Question,Boolean,
+d2cd1838-2132-47bc-9e36-5d049b765c26,,Does the patient believe that the illness is psychiatric?,,,,,,Question,Boolean,
+ba043562-30a7-443f-a20b-4836b384bd43,,Does the patient believe that psychiatric treatment might be beneficial?,,,,,,Question,Boolean,
+1bec3caa-537a-4eb8-85ad-cfc7b7f71060,,Mental State Examination Form,Mental State Examination Form,,,,,Misc,N/A,

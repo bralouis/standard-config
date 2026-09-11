@@ -1,0 +1,9 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:21,Data class,Data type,Answers
+2306e54d-2c6f-4472-aa60-aa9676ba7f19,,Clinic Date,,,,,,Question,Date,
+2c109a6b-fad1-48fa-9d3f-97ea7e9b41f3,,LMP ,,,,,,Question,Date,
+be2b478d-da66-4fde-a22d-3eef93508cb5,,"ANC, Gravida ",,,,,,Question,Numeric,
+f3f143dc-19cf-46b1-86de-a0015899aff5,,"ANC, Parity ",,,,,,Question,Numeric,
+60e2e2b8-8678-45b3-8112-dd6a275de14f,,Gynaecology Manual Exam Findings ,,,,,,Question,Text,
+9c3794db-7e74-47ec-9371-3a5d39249399,,P/S (Per Speculum) - Cervix ,,,,,,Question,Text,
+fd061b99-b190-42e6-a773-b9988e14f5a3,,"USG, Findings ",,,,,,Question,Text,
+4df7d51f-5537-45ee-9277-601de3fd72b4,,Gynaecology Management Plan ,,,,,,Question,Text,
