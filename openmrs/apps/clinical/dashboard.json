@@ -25,15 +25,152 @@
                 "type":"allergies",
                 "displayOrder": 2
             },
+            "additionalMedicalHistoryAndExamination":{
+                "translationKey":"DASHBOARD_TITLE_ADDITIONAL_MEDICAL_HISTORY_AND_EXAMINATION_KEY",
+                "type":"vitals",
+                "isObservation":true,
+                "displayOrder":-1,
+                "dashboardConfig":{
+                    "showDetailsButton":true,
+                    "conceptNames":[
+                        "General symptoms and signs",
+                        "Cardiovascular symptoms and signs",
+                        "Respiratory symptoms and signs",
+                        "Gastrointestinal symptoms and signs",
+                        "Genito-urinary and urological symptoms and signs",
+                        "Gynaecological and Obstetric symptoms and signs",
+                        "Neurological symptoms and signs",
+                        "Musculoskeletal symptoms and signs",
+                        "Examination Notes",
+                        "Type of Call",
+                        "Details of Call",
+                        "Action Following Call",
+                        "Other Action (Please specify)"
+                        
+                    ],
+                    "numberOfVisits":3
+                },
+                "expandedViewConfig":{
+                    "conceptNames":[
+                        "General symptoms and signs",
+                        "Cardiovascular symptoms and signs",
+                        "Respiratory symptoms and signs",
+                        "Gastrointestinal symptoms and signs",
+                        "Genito-urinary and urological symptoms and signs",
+                        "Gynaecological and Obstetric symptoms and signs",
+                        "Neurological symptoms and signs",
+                        "Musculoskeletal symptoms and signs",
+                        "Examination Notes"
+                    ],
+                    "numberOfVisits":2,
+                    "showDetailsButton":true,
+                    "pivotTable":{
+
+                    }
+                }
+            },
+              "Combiningmultipleforms":{
+                "translationKey":"DASHBOARD_TITLE_DEATH_FORM_KEY",
+                "type":"vitals",
+                "isObservation":true,
+                "displayOrder":-1,
+                "dashboardConfig":{
+                    "showDetailsButton":true,
+                    "conceptNames":[
+                        "Date of death",
+                        "Return visit date"
+                        
+                    ],
+                    "numberOfVisits":3
+                },
+                "expandedViewConfig":{
+                    "conceptNames":[
+                        "Date of death",
+                        "Return visit date"
+                    ],
+                    "numberOfVisits":2,
+                    "showDetailsButton":true,
+                    "pivotTable":{
+
+                    }
+                }
+            },
             "forms-v2-react": {
                 "type": "formsV2React",
                 "displayOrder": 17,
                 "dashboardConfig": {
                     "title": null,
                     "maximumNoOfVisits": 10,
-                    "showEditForActiveEncounter": true
+                    "showEditForActiveEncounter": true,
+                    "excludeForms": [
+                        "Adhoc Calls & Actions",
+                        "Adhoc Updates",
+                        "Additional Medical History & Examination"
+                    ]
                 },
                 "translationKey": "Observation Forms"
+            },
+            "adhocCallsAndActions": {
+                "translationKey": "DASHBOARD_TITLE_ADHOC_CALLS_AND_ACTIONS_KEY",
+                "type": "vitals",
+                "isObservation": true,
+                "displayOrder": 14.1,
+                "dashboardConfig": {
+                    "showDetailsButton": true,
+                    "conceptNames": [
+                        "Type of Call",
+                        "Details of Call",
+                        "Action Following Call",
+                        "Other Action (Please specify)"
+                    ],
+                    "numberOfVisits": 3
+                },
+                "expandedViewConfig": {
+                    "conceptNames": [
+                        "Type of Call",
+                        "Details of Call",
+                        "Action Following Call",
+                        "Other Action (Please specify)"
+                    ],
+                    "numberOfVisits": 2,
+                    "showDetailsButton": true,
+                    "pivotTable": {
+
+                    }
+                }
+            },
+            "adhocUpdates": {
+                "translationKey": "DASHBOARD_TITLE_ADHOC_UPDATES_KEY",
+                "type": "vitals",
+                "isObservation": true,
+                "displayOrder": 14.2,
+                "dashboardConfig": {
+                    "showDetailsButton": true,
+                    "conceptNames": [
+                        "Date/Time of Update",
+                        "Source of Update",
+                        "Other Professional Update (Specify)",
+                        "Content of Update",
+                        "Action Following Update",
+                        "Other Action (Please specify)"
+                    ],
+                    "numberOfVisits": 3
+                },
+                "expandedViewConfig": {
+                    "conceptNames": [
+                        "Date/Time of Update",
+                        "Source of Update",
+                        "Other Professional Update (Specify)",
+                        "Content of Update",
+                        "Action Following Update",
+                        "Other Action (Please specify)"
+                    ],
+                    "numberOfVisits": 2,
+                    "showDetailsButton": true,
+                    "pivotTable": {
+
+                    }
+                }
             },
             "navigationLinksControl":{  
                 "translationKey":"DASHBOARD_TITLE_NAVIGATION_LINKS_CONTROL_KEY",
@@ -303,35 +440,29 @@
                 "type":"vitals",
                 "isObservation":true,
                 "displayOrder":14,
-                "dashboardConfig":{  
+                "dashboardConfig":{
                     "showDetailsButton":true,
-                    "conceptNames":[  
-                        "Additional Medical History And Examination",
+                    "conceptNames":[
                         "VTE Assessment",
                         "Forwarded Results",
-                        "Adhoc Updates(Medical)",
-                        "Adhoc Calls And Actions(Medical)",
                         "Follow up Assessment(Medical)"
                     ],
                     "numberOfVisits":3
                 },
-                "expandedViewConfig":{  
-                    "conceptNames":[  
-                        "Additional Medical History And Examination",
+                "expandedViewConfig":{
+                    "conceptNames":[
                         "VTE Assessment",
                         "Forwarded Results",
-                        "Adhoc Updates(Medical)",
-                        "Adhoc Calls And Actions(Medical)",
                         "Follow up Assessment(Medical)"
                     ],
                     "numberOfVisits":2,
                     "showDetailsButton":true,
-                    "pivotTable":{  
+                    "pivotTable":{
 
                     }
                 }
             },
-            "gynaecology":{  
+            "gynaecology":{
                 "translationKey":"DASHBOARD_TITLE_MENTAL_HEALTH_RISK_KEY",
                 "type":"gynaecology",
                 "isObservation":true,
@@ -370,23 +501,19 @@
                 "displayOrder":16,
                 "dashboardConfig":{  
                     "showDetailsButton":true,
-                    "conceptNames":[  
+                    "conceptNames":[
                         "Initial Psychiatric History",
-                        "Mental State Examination",                      
-                        "Adhoc Updates(Psychiatry)",
-                        "Adhoc Calls And Actions(Psychiatry)",            
+                        "Mental State Examination",
                         "Follow up Assessment(Psychiatry)",
                         "Mental Health Care Plan",
                         "Serious incident Report"
                     ],
                     "numberOfVisits":2
                 },
-                "expandedViewConfig":{  
-                    "conceptNames":[  
+                "expandedViewConfig":{
+                    "conceptNames":[
                         "Initial Psychiatric History",
-                        "Mental State Examination",                      
-                        "Adhoc Updates(Psychiatry)",
-                        "Adhoc Calls And Actions(Psychiatry)",            
+                        "Mental State Examination",
                         "Follow up Assessment(Psychiatry)",
                         "Mental Health Care Plan",
                         "Serious incident Report"

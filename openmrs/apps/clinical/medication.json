@@ -1,5 +1,8 @@
 {
   "commonConfig": {
+    "pharmacyAttribute": {
+      "uuid": "24a6a86b-9dd3-4934-931e-d6e870f3df4a"
+    }
   },
   "tabConfig": {
     "allMedicationTabConfig": {
